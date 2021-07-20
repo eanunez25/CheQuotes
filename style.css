@@ -1,0 +1,163 @@
+html {
+    font-family: 'Manrope', sans-serif;
+    background: linear-gradient(72deg, #ffe1e1, #eee3e3, #fbe8e8, #dd8d8d);
+    background-size: 800% 800%;
+    
+
+    -webkit-animation: AnimationName 12s ease infinite;
+    animation: AnimationName 12s ease infinite;
+
+    @-webkit-keyframes AnimationName {
+        0%{background-position:62% 0%}
+        50%{background-position:39% 100%}
+        100%{background-position:62% 0%}
+    }
+    @keyframes AnimationName {
+        0%{background-position:62% 0%}
+        50%{background-position:39% 100%}
+        100%{background-position:62% 0%}
+    }
+
+}
+
+
+
+h1.greeting {
+    position: relative;
+    /* width: 800px; */
+    font-size: 90px;
+    margin: 100px auto;
+    float: right;
+    font-weight: 5000;
+    display:inline-block;
+    overflow-wrap: break-word;
+}
+
+h1.greeting:hover {
+    opacity: 50%;
+    -webkit-transition: all 500ms ease;
+}
+
+div.quote-box {
+    position: absolute;
+    top: 35%;
+    width: 60%;
+
+}
+
+h1.quote {
+    opacity: 50%;
+}
+
+
+h1.quote:hover, h1.today:hover {
+    opacity: 30%;
+    -webkit-transition: all 500ms ease;
+}
+
+h1.today, h1.quote {
+    display: inline-block;
+    margin: 0px;
+}
+
+h1.greeting a{
+    position: relative;
+    overflow: hidden;
+    display: block;
+    line-height: 1.2;
+}
+
+h1.greeting a::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: #ffe1e1;
+    animation: a-ltr-after 2s cubic-bezier(.77,0,.18,1) forwards;
+    transform: translateX(-101%);
+}
+
+h1.greeting a::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--bg-color);
+    animation: a-ltr-before 2s cubic-bezier(.77,0,.18,1) forwards;
+    transform: translateX(0);
+}
+
+h1.greeting a:nth-of-type(1)::before,
+h1.greeting a:nth-of-type(1)::after{
+    animation-delay: 1s;
+}
+
+h1.greeting a:nth-of-type(2)::before,
+h1.greeting a:nth-of-type(2)::after{
+    animation-delay: 1.5s;
+}
+
+@keyframes a-ltr-after{
+    0% {transform: translateX(-100%)}
+    100% {transform: translateX(101%)}
+}
+
+@keyframes a-ltr-before{
+    0% {transform: translateX(0)}
+    100% {transform: translateX(200%)}
+}
+
+a.statement {
+    height: 130px;
+}
+
+
+
+@media screen and (max-width: 1300px) {
+    h1.greeting {
+        font-size: 60px;
+        overflow: break-word;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    h1.greeting {
+        font-size: 30px;
+        overflow: break-word;
+    }
+    div.quote-box {
+        font-size: 10px;
+        width: 80%;
+    }
+
+}
+
+div.memes {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+img.ye {
+    max-width: 300px;
+}
+
+.twitter-share-button {
+    color: #dd8d8d;
+}
+
+a {
+    color: black;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
