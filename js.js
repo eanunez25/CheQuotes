@@ -2463,6 +2463,92 @@ let cheQuotes = [
     Everything and anything you want to do, you can
     do in Las Vegas
   </blockquote>Drew Carey`,
+
+  `<blockquote>
+  One cannot think, love, sleep well if one has not dined well
+</blockquote>Virginia Woolf`,
+
+`<blockquote>
+  You dim sum<br>
+  You lose some
+</blockquote>`,
+
+`<blockquote>
+  The best journey takes you home
+</blockquote>`,
+
+`<blockquote>
+  Mama doesn't play to get even<br>
+  Mama plays to win
+</blockquote>Sam Puckett`,
+
+`<blockquote>
+  Fill your belly to 80%
+</blockquote>Japanese proverb`,
+
+`<blockquote>
+  Washing pigs with soap is losing time and soap
+</blockquote>Spanish proverb`,
+
+`<blockquote>
+  Drinking everynight because we drink to my accomplishments
+</blockquote>Drake`,
+
+`<blockquote>
+  If i had a nickel for each woman who finds me unattractive,
+  they would eventually find me attractive
+</blockquote>`,
+
+`<blockquote>
+  Excellence is a habit<br>
+  -Aristotle, paraphrased
+</blockquote>Pia`,
+
+`<blockquote>
+  It is a mistake to believe you can solve any major 
+  problems just with potatoes
+</blockquote>Douglas Adams`,
+
+`<blockquote>
+  Being gay is like glitter- it never goes away
+</blockquote>Lady Gaga`,
+
+`<img src="images/meta.png" class="image"></img>`,
+
+`<blockquote>
+  Napping, I highly recommend it- zero calories and zero dollars
+</blockquote>Danielle Town`,
+
+`<blockquote>
+  I WANNA DANCE<br>
+  YOU WANNA DANCE
+</blockquote>Joanna`,
+
+`<blockquote>
+  I don't believe in sunblock. You're ugly when you're old anyways.
+</blockquote>Leilani`,
+
+`<blockquote>
+  Ain't no need to watch where I'm going. Just need to know where I've been.
+</blockquote>Mater`,
+
+`<blockquote>
+  The worst form of procrastination is reading a procrastination quote, feeling the guilt and not doing anything about it
+</blockquote>`,
+
+`<blockquote>
+  To wear a floral shirt is an experience
+</blockquote>Brian Wilson`,
+
+`<blockquote>
+  Clothes make a man. Naked people have little or no inlfuence on society.
+</blockquote>Mark Twain`,
+
+`<blockquote>
+  June. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, October, December, August, and February.
+</blockquote>Mark Twain`,
+
+  
 ]
 
 // categories(#used) ------------------------------------------------------------------------
