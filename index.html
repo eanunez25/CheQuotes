@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<!--
+	Astral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>CheQuotes</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png?"/>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper-->
+			<div id="wrapper">
+
+				<!-- Nav -->
+					<nav id="nav">
+						<a href="#" class="icon solid fa-home"><span>Home</span></a>
+						<a href="#work" class="icon solid  fa-quote-left"><span>Quote</span></a>
+						<a href="#contact" class="icon solid fa-envelope"><span>Contact</span></a>
+						<a href="https://eanunez25.github.io/countdown/" class="icon solid  fa-birthday-cake" target="blank"><span>Birthday</span></a>
+						<a href="#about" class="icon solid fa-heart"><span>About</span></a>
+						<a href="#donate" class="icon solid fa-credit-card"><span>Donate</span></a>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Me -->
+							<article id="home" class="panel intro">
+								<header>
+                  <h1 class="greeting"></h1>
+									<p></p>
+								</header>
+								<a href="#work" class="jumplink pic">
+									<span class="arrow icon solid fa-chevron-right"><span>See my work</span></span>
+									<img src="images/me.jpg" alt="" />
+								</a>
+							</article>
+
+						<!-- Quote -->
+							<article id="work" class="panel">
+								<header>
+									<h2>Today's Motivational Quote: </h2>
+								</header>
+								<p class="quote"></p>
+							</article>
+
+						<!-- Contact -->
+							<article id="contact" class="panel">
+								<header>
+									<h2>Any Suggestions?</h2>
+								</header>
+								<form action="https://formspree.io/xbjzrqny" method="POST">
+									<div>
+										<div class="row">
+											<div class="col-6 col-12-medium">
+												<input type="text" name="name" placeholder="Name" />
+											</div>
+											<div class="col-6 col-12-medium">
+												<input type="text" name="email" placeholder="Email" />
+											</div>
+											<div class="col-12">
+												<input type="text" name="subject" placeholder="Subject" />
+											</div>
+											<div class="col-12">
+												<textarea name="message" placeholder="Message" rows="6"></textarea>
+											</div>
+											<div class="col-12">
+												<input type="submit" value="Send Message" />
+											</div>
+										</div>
+									</div>
+								</form>
+              </article>
+              
+            <!-- About -->
+            <article id="about" class="panel">
+              <header>
+								<h2>About</h2>
+                <p class="about"></p>
+              </header>
+						</article>
+						
+						<!-- Donate -->
+            <article id="donate" class="panel">
+              <header>
+                <h2 class="donate">Feed Me</h2><br>
+							</header>
+							<div style="text-align: center;">
+								<div id="paypal-button-container"></div>
+								<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+								<script>
+									paypal.Buttons({
+											style: {
+													shape: 'rect',
+													color: 'gold',
+													layout: 'vertical',
+													label: 'paypal',
+													
+											},
+											createOrder: function(data, actions) {
+													return actions.order.create({
+															purchase_units: [{
+																amount: {
+																		value: '8'
+																}
+															}]
+													});
+											},
+											onApprove: function(data, actions) {
+													return actions.order.capture().then(function(details) {
+															alert('Transaction completed by ' + details.payer.name.given_name + '!');
+													});
+											}
+									}).render('#paypal-button-container');
+								</script>
+							</div>
+							<p></p>
+							<!--
+							<div>
+								<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+									<input type="hidden" name="cmd" value="_donations" />
+									<input type="hidden" name="business" value="UDDL4HEAWGN6N" />
+									<input type="hidden" name="currency_code" value="USD" />
+									<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+									<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+									</form>
+							</div>
+							-->
+							
+            </article>
+
+					</div>
+
+				<!-- Footer -->
+					<div id="footer">
+						<ul class="copyright">
+							<li><a href="https://eanunez25.github.io/4mwm/index.html" target="blank">4MWM, LLC</a></li><li>by <a href="https://eanunez25.github.io" target="blank">Elvin Nunez</a</li>
+						</ul>
+							
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+      <script src="assets/js/main.js"></script>
+			<script src="js.js"></script>
+			
+	</body>
+</html>
