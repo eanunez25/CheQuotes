@@ -2540,13 +2540,9 @@ let cheQuotes = [
   To wear a floral shirt is an experience
 </blockquote>Brian Wilson`,
 
-`<blockquote>
-  Clothes make a man. Naked people have little or no inlfuence on society.
-</blockquote>Mark Twain`,
+`<img src="images/youbedoctor.jpg" class="image"></img>`,
 
-`<blockquote>
-  June. This is one of the peculiarly dangerous months to speculate in stocks in. The others are July, January, September, April, November, May, March, October, December, August, and February.
-</blockquote>Mark Twain`,
+
 
   
 ]
