@@ -2542,6 +2542,10 @@ let cheQuotes = [
 
 `<img src="images/youbedoctor.jpg" class="image"></img>`,
 
+`<blockquote>
+  Everything, no cap. If you don't overpack, you're not packed.
+</blockquote>`,
+
 
 
   
