@@ -2546,6 +2546,8 @@ let cheQuotes = [
   Everything, no cap. If you don't overpack, you're not packed.
 </blockquote>`,
 
+`<a href="https://www.youtube.com/watch?v=jXnj6TECBmo">Tatcha talking to other dogs</a>`,
+
 
 
   
