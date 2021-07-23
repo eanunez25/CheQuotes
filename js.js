@@ -2548,8 +2548,7 @@ let cheQuotes = [
 
 `<a href="https://www.youtube.com/watch?v=jXnj6TECBmo">Tatcha talking to other dogs</a>`,
 
-
-
+`<blockquote>You can't make everyone happy. You are not a plane ticket.</blockquote>`,
   
 ]
 
