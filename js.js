@@ -2550,7 +2550,9 @@ let cheQuotes = [
 
 `<blockquote>You can't make everyone happy. You are not a plane ticket.</blockquote>`,
 
-`<blockquote>YOU NICKNAMED MY DAUGHTER AFTER THE LOCH NESS MONSTER</blockquote>Bella`
+`<blockquote>YOU NICKNAMED MY DAUGHTER AFTER THE LOCH NESS MONSTER</blockquote>Bella`,
+
+`<img src="images/boba.jpg" class="image"></img>`,
   
 ]
 
