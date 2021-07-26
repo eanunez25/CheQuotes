@@ -2553,6 +2553,8 @@ let cheQuotes = [
 `<blockquote>YOU NICKNAMED MY DAUGHTER AFTER THE LOCH NESS MONSTER</blockquote>Bella`,
 
 `<img src="images/boba.jpg" class="image"></img>`,
+
+`<img src="images/parts.jpg" class="image"></img>`,
   
 ]
 
