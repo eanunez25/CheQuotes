@@ -2555,6 +2555,10 @@ let cheQuotes = [
 `<img src="images/boba.jpg" class="image"></img>`,
 
 `<img src="images/parts.jpg" class="image"></img>`,
+
+`<blockquote>
+  Wanna feel old? Harry Potter turns 41 on Saturday.
+</blockquote>`,
   
 ]
 
