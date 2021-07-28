@@ -2559,6 +2559,11 @@ let cheQuotes = [
 `<blockquote>
   Wanna feel old? Harry Potter turns 41 on Saturday.
 </blockquote>`,
+
+`<blockquote>
+  I don't want to promise to win gold,
+  I just want to do it
+</blockquote>Hidilyn Diaz`,
   
 ]
 
