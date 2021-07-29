@@ -2565,6 +2565,7 @@ let cheQuotes = [
   I just want to do it
 </blockquote>Hidilyn Diaz`,
   
+`<img src="images/canaduh.png" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
