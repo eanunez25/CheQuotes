@@ -2566,6 +2566,10 @@ let cheQuotes = [
 </blockquote>Hidilyn Diaz`,
   
 `<img src="images/canaduh.png" class="image"></img>`,
+
+`<blockquote>
+  Basket ball is life, everything else is an interruption
+</blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
