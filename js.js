@@ -2570,6 +2570,23 @@ let cheQuotes = [
 `<blockquote>
   Basket ball is life, everything else is an interruption
 </blockquote>`,
+
+`<blockquote>
+  Sometimes, as a middle-aged man, the world feels too much 
+  like an ordinary place filled with the drudgery of 
+  repetitive tasks. I've done the same trip to the grocery 
+  store hundreds of times. I've loaded and unloaded the 
+  dishwasher thousands of times, moving dishes too and from 
+  the same spot in an endless loop. Clean, dirty, clean, 
+  dirty. I've walked or driven the same path to and from the 
+  office countless times. The muscle memory so fine-tuned 
+  from repetitions that I can do it on autopilot as my mind 
+  drifts or goes blank.<br><br>
+
+  But every now and then, I remember. I remember back to 
+  when I first saw a pair of female breasts, live and 
+  in-person. And I remember that there is magic in this world.
+</blockquote>`
 ]
 
 // categories(#used) ------------------------------------------------------------------------
