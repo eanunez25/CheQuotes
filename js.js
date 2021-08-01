@@ -2586,7 +2586,11 @@ let cheQuotes = [
   But every now and then, I remember. I remember back to 
   when I first saw a pair of female breasts, live and 
   in-person. And I remember that there is magic in this world.
-</blockquote>`
+</blockquote>`,
+
+`<blockquote>
+  For someone to win, someone gotta lose
+</blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
