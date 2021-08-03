@@ -2592,10 +2592,15 @@ let cheQuotes = [
   For someone to win, someone gotta lose
 </blockquote>`,
 
-<`blockquote>
+`<blockquote>
   Maybe we do not lose our socks, maybe our socks get a divorce and the one you have is 
   the one who got to keep you
 </blockquote>`,
+
+`<blockquote>
+  That's one of the remarkable things about life. It's never
+  so bad that it can't get worse
+</blockquote>Bill Watterson`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
