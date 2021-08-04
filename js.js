@@ -2601,6 +2601,8 @@ let cheQuotes = [
   That's one of the remarkable things about life. It's never
   so bad that it can't get worse
 </blockquote>Bill Watterson`,
+
+`<img src="images/swim.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
