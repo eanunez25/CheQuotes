@@ -2605,6 +2605,10 @@ let cheQuotes = [
 `<img src="images/swim.jpg" class="image"></img>`,
 
 `<img src="images/bi.jpg" class="image"></img>`,
+
+`<blockquote>
+  Kanye West woke up from his Kanye rest to be his Kanye best
+</blockquote>`
 ]
 
 // categories(#used) ------------------------------------------------------------------------
