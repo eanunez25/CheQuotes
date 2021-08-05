@@ -2603,6 +2603,8 @@ let cheQuotes = [
 </blockquote>Bill Watterson`,
 
 `<img src="images/swim.jpg" class="image"></img>`,
+
+`<img src="images/bi.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
