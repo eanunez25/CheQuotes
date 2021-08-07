@@ -2608,7 +2608,11 @@ let cheQuotes = [
 
 `<blockquote>
   Kanye West woke up from his Kanye rest to be his Kanye best
-</blockquote>`
+</blockquote>`, 
+
+`<blockquote>
+  The problem with the world is that everyone's a few drinks behind
+</blockquote>Humphrey Bogart`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
