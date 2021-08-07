@@ -2613,6 +2613,10 @@ let cheQuotes = [
 `<blockquote>
   The problem with the world is that everyone's a few drinks behind
 </blockquote>Humphrey Bogart`,
+
+`<blockquote>
+  An intelligent man is sometimes forces to be drunk to spend time with his fools
+</blockquote>Ernest Hemingway`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
