@@ -2617,6 +2617,8 @@ let cheQuotes = [
 `<blockquote>
   An intelligent man is sometimes forces to be drunk to spend time with his fools
 </blockquote>Ernest Hemingway`,
+
+`<img src="images/dna.png" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
