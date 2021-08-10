@@ -2619,6 +2619,12 @@ let cheQuotes = [
 </blockquote>Ernest Hemingway`,
 
 `<img src="images/dna.png" class="image"></img>`,
+
+`<img src="images/orange.jpg" class="image"></img>`,
+
+`<blockquote>
+  Be someone's crazy aunt
+</blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
