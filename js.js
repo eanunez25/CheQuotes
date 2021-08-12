@@ -2625,6 +2625,10 @@ let cheQuotes = [
 `<blockquote>
   Be someone's crazy aunt
 </blockquote>`,
+
+`<blockquote>
+  I yam who I yam; I'm not somebody, like, standard
+</blockquote>Cardi B`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
