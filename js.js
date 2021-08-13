@@ -2629,6 +2629,8 @@ let cheQuotes = [
 `<blockquote>
   I yam who I yam; I'm not somebody, like, standard
 </blockquote>Cardi B`,
+
+`<img src="images/mental.png" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
