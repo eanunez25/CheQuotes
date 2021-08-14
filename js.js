@@ -2631,6 +2631,8 @@ let cheQuotes = [
 </blockquote>Cardi B`,
 
 `<img src="images/mental.png" class="image"></img>`,
+
+`<img src="images/fish.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
