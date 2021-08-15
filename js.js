@@ -2633,6 +2633,8 @@ let cheQuotes = [
 `<img src="images/mental.png" class="image"></img>`,
 
 `<img src="images/fish.jpg" class="image"></img>`,
+
+`<img src="images/dog.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
