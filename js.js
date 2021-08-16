@@ -2635,6 +2635,10 @@ let cheQuotes = [
 `<img src="images/fish.jpg" class="image"></img>`,
 
 `<img src="images/dog.jpg" class="image"></img>`,
+
+`<blockquote>
+  Time is a man-made social construct to make people productive
+</blockquote>Keisha`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
