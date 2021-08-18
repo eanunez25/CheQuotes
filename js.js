@@ -2645,6 +2645,8 @@ let cheQuotes = [
 `<blockquote>
   more money more retire early
 </blockquote>`,
+
+`<img src="images/bra.jpg" class="image"></img>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
