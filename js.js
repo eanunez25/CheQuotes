@@ -2647,6 +2647,12 @@ let cheQuotes = [
 </blockquote>`,
 
 `<img src="images/bra.jpg" class="image"></img>`,
+
+`<blockquote>
+  Once you understand why the pizza is made round, packed in 
+  a square box, and eaten as a triangle, then you will 
+  understand women
+</blockquote>`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
