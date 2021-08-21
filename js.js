@@ -2653,6 +2653,10 @@ let cheQuotes = [
   a square box, and eaten as a triangle, then you will 
   understand women
 </blockquote>`,
+
+`<blockquote>
+  I used to do drugs. I still do drugs. But I used to, too.
+</blockquote>Mitch Hedberg`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
