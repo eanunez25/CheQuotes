@@ -2657,6 +2657,11 @@ let cheQuotes = [
 `<blockquote>
   I used to do drugs. I still do drugs. But I used to, too.
 </blockquote>Mitch Hedberg`,
+
+`<blockquote>
+  Anytime you can get a massage and keep your clothes on, 
+  take advantage
+</blockquote>my business partner`,
 ]
 
 // categories(#used) ------------------------------------------------------------------------
