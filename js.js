@@ -2662,7 +2662,14 @@ let cheQuotes = [
   Anytime you can get a massage and keep your clothes on, 
   take advantage
 </blockquote>my business partner`,
+
+`<blockquote>
+  Choosing where you want to live now is just deciding which natual 
+  disasters you could put up with
+</blockquote>`,
 ]
+
+
 
 // categories(#used) ------------------------------------------------------------------------
 
