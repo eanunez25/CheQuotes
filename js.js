@@ -2667,6 +2667,11 @@ let cheQuotes = [
   Choosing where you want to live now is just deciding which natual 
   disasters you could put up with
 </blockquote>`,
+
+`<blockquote>
+  Today is difficult, tomorrow is much more difficult, the day after tomorrow is
+  very beautiful but most people die tomorrow evening
+</blockquote>Jack Ma`,
 ]
 
 
