@@ -2672,6 +2672,10 @@ let cheQuotes = [
   Today is difficult, tomorrow is much more difficult, the day after tomorrow is
   very beautiful but most people die tomorrow evening
 </blockquote>Jack Ma`,
+
+`<blockquote>
+  All men are equal before fish
+</blockquote>Herbert Hoover`,
 ]
 
 
