@@ -2676,6 +2676,10 @@ let cheQuotes = [
 `<blockquote>
   All men are equal before fish
 </blockquote>Herbert Hoover`,
+
+`<blockquote>
+  I believe vitamin C can fix everything
+</blockquote>Shawn Mendes`,
 ]
 
 
