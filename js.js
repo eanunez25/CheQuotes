@@ -2680,6 +2680,109 @@ let cheQuotes = [
 `<blockquote>
   I believe vitamin C can fix everything
 </blockquote>Shawn Mendes`,
+
+`<blockquote>
+Sometimes (Oooooh)<br>
+Something beautiful happens<br>
+In this world (Akon)<br>
+You don't know how to<br>
+Express yourself so (and Lonely Island)<br>
+You just gotta sing<br><br>
+
+I just had sex<br>
+And it felt so good (Felt so good)<br>
+A woman let me put<br>
+My penis inside of her<br>
+I just had sex<br>
+And I'll never go back (Never go back)<br>
+To the not-having-sex<br>
+Ways of the past<br><br>
+
+Have you ever had sex?<br>
+I have it felt great<br>
+It felt so good<br>
+When I did it with my penis<br>
+A girl let me do it<br>
+It literally just happened<br>
+Having sex can make a nice<br>
+Man out of the meanest<br><br>
+
+Never guess where I just came from<br>
+I had sex<br>
+If I had to describe the feeling<br>
+It was the best<br>
+When I had the sex<br>
+Man my penis felt great<br>
+And I called my parents<br>
+Right after I was done<br><br>
+
+Oh hey, didn't see you there<br>
+Guess what I just did?<br>
+Had sex, undressed<br>
+Saw her boobies and the rest<br>
+Was sure nice of her to let you<br>
+Do that thing<br>
+Nice of any girl ever<br>
+Now sing<br><br>
+
+I just had sex<br>
+And it felt so good (Felt so good)<br>
+A woman let me put<br>
+My penis inside of her<br>
+I wanna tell the world<br><br>
+
+To be honest I'm surprised<br>
+She even wanted me to do it<br>
+Doesn't really make sense<br>
+But man, screw it<br>
+I ain't one to argue<br>
+With a good thing<br>
+She could be my wife<br>
+That good?<br>
+The best 30 seconds of my life (My life)<br><br>
+
+I'm so humbled by a girls ability<br>
+To let me do her<br>
+Cuz honestly I'd have sex<br>
+With a pile of manure<br>
+With that in mind<br>
+The soft, nice smelling girls better<br>
+Cuz she let me wear<br>
+My chain and turtle neck sweater<br><br>
+
+So this one's dedicated to them girls<br>
+That let us flop around on top of them<br>
+If you're near or far<br>
+Whether short or tall<br>
+We wanna thank you all<br>
+For letting us fuck you<br><br>
+
+She kept looking at her watch<br>
+(Doesn't matter, had sex)<br>
+But I cried the whole time<br>
+(Doesn't matter, had sex)<br>
+I think she might've been a racist<br>
+(Doesn't matter, had sex)<br>
+She put a bag on my head<br>
+(Still counts)<br><br>
+
+I just had sex (Sex)<br>
+And all my dreams came true (Dreams came true)<br>
+So if you had sex in the last<br>
+30 minutes then you're qualified<br>
+To sing with me<br>
+
+I just had sex (Everybody sing)<br>
+And it felt so good (We all had sex)<br>
+A woman let me put<br>
+My penis inside of her (I wanna tell the world)<br>
+I just had sex<br>
+And I'll never go back (No no no)<br>
+To the not-having-sex<br>
+Ways of the past<br>
+</blockquote>Marissa Jain`,
+
+
 ]
 
 
