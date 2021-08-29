@@ -2785,6 +2785,8 @@ Ways of the past<br>
 `<blockquote>
 “報復性熬夜” (revenge bedtime procrastination), a phenomenon in which people who don’t have much control over their daytime life refuse to sleep early in order to regain some sense of freedom during late night hours
 </blockquote>Daphne K. Lee`,
+
+`<img src="images/desserts.jpg" class="image"></img>`,
 ]
 
 
