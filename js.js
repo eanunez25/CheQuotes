@@ -2787,6 +2787,10 @@ Ways of the past<br>
 </blockquote>Daphne K. Lee`,
 
 `<img src="images/desserts.jpg" class="image"></img>`,
+
+`<blockquote>
+  There's no such thing as a product. Everything is sex.
+</blockquote>Robert California`,
 ]
 
 
