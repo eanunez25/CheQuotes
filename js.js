@@ -2791,6 +2791,19 @@ Ways of the past<br>
 `<blockquote>
   There's no such thing as a product. Everything is sex.
 </blockquote>Robert California`,
+
+`<blockquote>
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+Donda, Donda, Donda, Donda, Donda, Donda
+</blockquote>Ye`,
 ]
 
 
