@@ -2804,6 +2804,8 @@ Donda, Donda, Donda, Donda, Donda, Donda
 Donda, Donda, Donda, Donda, Donda, Donda
 Donda, Donda, Donda, Donda, Donda, Donda
 </blockquote>Ye`,
+
+`<img src="images/print.jpg" class="image"></img>`,
 ]
 
 
