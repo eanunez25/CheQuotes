@@ -2806,6 +2806,10 @@ Donda, Donda, Donda, Donda, Donda, Donda
 </blockquote>Ye`,
 
 `<img src="images/print.jpg" class="image"></img>`,
+
+`<blockquote>
+  I think the one star on the Texas flag is its Yelp rating
+</blockquote>Ciro D Marzio`,
 ]
 
 
