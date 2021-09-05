@@ -2818,6 +2818,8 @@ Donda, Donda, Donda, Donda, Donda, Donda
 `<blockquote>
   tip your driver
 </blockquote>`,
+
+`<img src="images/sams.jpg" class="image"></img>`,
 ]
 
 
