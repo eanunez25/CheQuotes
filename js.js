@@ -2822,6 +2822,10 @@ Donda, Donda, Donda, Donda, Donda, Donda
 `<img src="images/sams.jpg" class="image"></img>`,
 
 `<img src="images/food.jpg" class="image"></img>`,
+
+`<blockquote>
+  If voting changed anything, they'd make it illegal
+</blockquote>Emma Goldman`,
 ]
 
 
