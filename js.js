@@ -2826,6 +2826,11 @@ Donda, Donda, Donda, Donda, Donda, Donda
 `<blockquote>
   If voting changed anything, they'd make it illegal
 </blockquote>Emma Goldman`,
+
+`<blockquote>
+  I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs 
+  treat us as equals.
+</blockquote>Winston Churchill`,
 ]
 
 
