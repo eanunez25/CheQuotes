@@ -2835,6 +2835,16 @@ Donda, Donda, Donda, Donda, Donda, Donda
 `<blockquote>
   SHOTS
 </blockquote>Mikee`,
+
+`<blockquote>
+  The first thing you want to do when you enter a library is shush the first librarian that
+  talks. This establishes dominance.
+</blockquote>`,
+
+`<blockquote>
+  Starting your day with an early morning run is a great way to make sure 
+  your day can't get any worse that it started
+</blockquote>`,
 ]
 
 
