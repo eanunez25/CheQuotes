@@ -2845,6 +2845,10 @@ Donda, Donda, Donda, Donda, Donda, Donda
   Starting your day with an early morning run is a great way to make sure 
   your day can't get any worse that it started
 </blockquote>`,
+
+`<blockquote>
+  Always check your condom 
+</blockquote>Marissa`,
 ]
 
 
