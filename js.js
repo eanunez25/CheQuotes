@@ -2849,6 +2849,13 @@ Donda, Donda, Donda, Donda, Donda, Donda
 `<blockquote>
   Always check your condom 
 </blockquote>Marissa`,
+
+`<blockquote>
+If you sense that a job interview is going badly, 
+pretend you're in therapy. Success is about seizing opportunities, 
+like the opportunity to unload all of your baggage onto someone 
+you know you'll never see again.
+</blockquote>`,
 ]
 
 
