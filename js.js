@@ -2856,6 +2856,8 @@ pretend you're in therapy. Success is about seizing opportunities,
 like the opportunity to unload all of your baggage onto someone 
 you know you'll never see again.
 </blockquote>`,
+
+`<img src="images/aoc.jpg" class="image"></img>`,
 ]
 
 
