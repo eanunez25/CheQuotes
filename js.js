@@ -2860,6 +2860,11 @@ you know you'll never see again.
 `<img src="images/aoc.jpg" class="image"></img>`,
 
 `<blockquote>
+And I’m pretty sure, I’m not a doctor, but I’m pretty sure if you die, 
+the cancer dies at the same time. That’s not a loss. That’s a draw.
+</blockquote>Norm Macdonald`,
+
+`<blockquote>
 In my life, I have given a f<span id="blur">u</span>ck about many people and many things. 
 I have also not given a f<span id="blur">u</span>ck about many people and many things. 
 And like the road not taken, it was the f<span id="blur">u</span>cks not given that made 
