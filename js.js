@@ -2870,6 +2870,10 @@ I have also not given a f<span id="blur">u</span>ck about many people and many t
 And like the road not taken, it was the f<span id="blur">u</span>cks not given that made 
 all the difference.
 </blockquote>Mark Manson`,
+
+`<blockquote>
+  The more you know, the more you know you don't know
+</blockquote>Aristotle`,
 ]
 
 
