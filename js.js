@@ -2874,6 +2874,16 @@ all the difference.
 `<blockquote>
   The more you know, the more you know you don't know
 </blockquote>Aristotle`,
+
+`<blockquote>
+The more you learn, the more you know. The more you know, 
+the more you forget. The more you forget, the less you know. 
+So why bother to learn.
+</blockquote>Stephen Hawking`,
+
+`<blockquote>
+  You can't achieve your goals if you're dead
+</blockquote>Tsunade`,
 ]
 
 
