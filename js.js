@@ -2882,9 +2882,9 @@ So why bother to learn.
 </blockquote>Stephen Hawking`,
 
 `<blockquote>
-  The more that you read,
-  the more things you will know.
-  The more that you learn,
+  The more that you read,<br>
+  the more things you will know.<br>
+  The more that you learn,<br>
   the more places you'll go!
 </blockquote>Dr. Seuss`,
 
