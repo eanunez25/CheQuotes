@@ -2882,6 +2882,21 @@ So why bother to learn.
 </blockquote>Stephen Hawking`,
 
 `<blockquote>
+  The more that you read,
+  the more things you will know.
+  The more that you learn,
+  the more places you'll go!
+</blockquote>Dr. Seuss`,
+
+`<blockquote>
+  The more you know, the more you see
+</blockquote>Aldous Huxley`,
+
+`<blockquote>
+  The more you know, the less you need to say
+</blockquote>Jim Rohn`,
+
+`<blockquote>
   You can't achieve your goals if you're dead
 </blockquote>Tsunade`,
 ]
