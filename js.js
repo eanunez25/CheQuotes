@@ -2889,6 +2889,14 @@ So why bother to learn.
 </blockquote>Dr. Seuss`,
 
 `<blockquote>
+  Today, I boldly accept the challenge of running as PRESIDENT of the 
+  Republic of the Philippines, with a message to those who are taking 
+  advantage of the Filipino people: YOUR TIME IS UP!<br><br>
+
+  I AM A FIGHTER
+</blockquote>Manny Pacquiao`,
+
+`<blockquote>
   The more you know, the more you see
 </blockquote>Aldous Huxley`,
 
