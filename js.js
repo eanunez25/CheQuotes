@@ -2897,14 +2897,6 @@ So why bother to learn.
 </blockquote>Manny Pacquiao`,
 
 `<blockquote>
-  The more you know, the more you see
-</blockquote>Aldous Huxley`,
-
-`<blockquote>
-  The more you know, the less you need to say
-</blockquote>Jim Rohn`,
-
-`<blockquote>
   You can't achieve your goals if you're dead
 </blockquote>Tsunade`,
 ]
