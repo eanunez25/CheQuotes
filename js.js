@@ -2899,6 +2899,11 @@ So why bother to learn.
 `<blockquote>
   You can't achieve your goals if you're dead
 </blockquote>Tsunade`,
+
+`<blockquote>
+  If you ever find yourself in a fight, shout pedophile at your attacker. 
+  The entire room or street will be on your side.
+</blockquote>`
 ]
 
 
