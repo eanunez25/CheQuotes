@@ -2903,7 +2903,11 @@ So why bother to learn.
 `<blockquote>
   If you ever find yourself in a fight, shout pedophile at your attacker. 
   The entire room or street will be on your side.
-</blockquote>`
+</blockquote>`,
+
+`<blockquote>
+  Doing nothing is better than being busy doing nothing
+</blockquote>Lao Tzu`,
 ]
 
 
