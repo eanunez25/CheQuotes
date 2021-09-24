@@ -2908,6 +2908,10 @@ So why bother to learn.
 `<blockquote>
   Doing nothing is better than being busy doing nothing
 </blockquote>Lao Tzu`,
+
+`<blockquote>
+  Love is not necessary, power is the only true necessity.
+</blockquote>Madara Uchiha`,
 ]
 
 
