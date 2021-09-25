@@ -2912,6 +2912,10 @@ So why bother to learn.
 `<blockquote>
   Love is not necessary, power is the only true necessity.
 </blockquote>Madara Uchiha`,
+
+`<blockquote>
+  turtles move faster than rocks
+</blockquote>guy at park`,
 ]
 
 
