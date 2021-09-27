@@ -2918,6 +2918,10 @@ So why bother to learn.
 </blockquote>guy at park`,
 
 `<img src="images/hiello.png" class="image"></img>`,
+
+`<blockquote>
+  Christians don't gossip, they share prayer requests
+</blockquote>`,
 ]
 
 
