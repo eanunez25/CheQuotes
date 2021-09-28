@@ -2922,6 +2922,12 @@ So why bother to learn.
 `<blockquote>
   Christians don't gossip, they share prayer requests
 </blockquote>`,
+
+`<blockquote>
+  According to a recent scientific study, the way to avoid mosquito bites 
+  is to listen to electronic music- specifically dubstep, specifically by 
+  US artist Skrillex
+</blockquote>BBC News`,
 ]
 
 
