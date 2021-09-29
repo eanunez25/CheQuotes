@@ -2930,6 +2930,11 @@ So why bother to learn.
 </blockquote>BBC News`,
 
 `<blockquote>
+  Chase your dreams, work hard, and watch what happens<br>
+  Good bye boxing
+</blockquote>Manny Pacquiao`,
+
+`<blockquote>
   Here's to love,<br>
   here's to honor.<br>
   If you can't cum in her,<br>
