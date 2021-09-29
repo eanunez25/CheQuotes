@@ -2928,6 +2928,14 @@ So why bother to learn.
   is to listen to electronic music- specifically dubstep, specifically by 
   US artist Skrillex
 </blockquote>BBC News`,
+
+`<blockquote>
+  Here's to love,<br>
+  here's to honor.<br>
+  If you can't cum in her,<br>
+  cum on her.<br><br>
+  Amen
+</blockquote>`,
 ]
 
 
