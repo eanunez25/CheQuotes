@@ -2941,6 +2941,11 @@ So why bother to learn.
   cum on her.<br><br>
   Amen
 </blockquote>`,
+
+`<blockquote>
+Be extra careful about lending and borrowing money<br>
+Put your mission wages into your savings account
+</blockquote>Kushina Uzumaki`,
 ]
 
 
