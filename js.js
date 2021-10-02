@@ -2946,6 +2946,11 @@ So why bother to learn.
 Be extra careful about lending and borrowing money<br>
 Put your mission wages into your savings account
 </blockquote>Kushina Uzumaki`,
+
+`<blockquote>
+  Another day of staring at the big screen while scrolling through my little
+  screen so as to reward myself for staring at the medium screen all week
+</blockquote>Delia Cai`,
 ]
 
 
