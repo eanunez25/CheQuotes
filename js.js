@@ -2956,6 +2956,10 @@ Put your mission wages into your savings account
   Get your S.H.I.T. together (skincare, health and happiness, inner peace, 
   and your time)
 </blockquote>`,
+
+`<blockquote>
+  You can't drink all day if you don't start in the morning
+</blockquote>University Drafthouse`,
 ]
 
 
