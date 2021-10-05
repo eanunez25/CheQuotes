@@ -2960,6 +2960,10 @@ Put your mission wages into your savings account
 `<blockquote>
   You can't drink all day if you don't start in the morning
 </blockquote>University Drafthouse`,
+
+`<blockquote>
+A rock thrown at a pole will not hit, but if one does not aim at the pole, it will hit! That is the law I used!
+</blockquote>Rock Lee`,
 ]
 
 
