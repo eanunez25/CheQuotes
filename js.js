@@ -2964,6 +2964,10 @@ Put your mission wages into your savings account
 `<blockquote>
 A rock thrown at a pole will not hit, but if one does not aim at the pole, it will hit! That is the law I used!
 </blockquote>Rock Lee`,
+
+`<blockquote>
+  Thousands have lived without love, not one without water
+</blockquote>W.H. Auden`,
 ]
 
 
