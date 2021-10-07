@@ -2968,6 +2968,10 @@ A rock thrown at a pole will not hit, but if one does not aim at the pole, it wi
 `<blockquote>
   Thousands have lived without love, not one without water
 </blockquote>W.H. Auden`,
+
+`<blockquote>
+How can I know what I think till I see what I say?
+</blockquote>E.M. Forster`,
 ]
 
 
