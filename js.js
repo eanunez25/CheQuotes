@@ -2972,6 +2972,8 @@ A rock thrown at a pole will not hit, but if one does not aim at the pole, it wi
 `<blockquote>
 How can I know what I think till I see what I say?
 </blockquote>E.M. Forster`,
+
+`<img src="images/stoopid.jpg" class="image"></img>`,
 ]
 
 
