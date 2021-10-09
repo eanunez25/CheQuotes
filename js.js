@@ -2974,6 +2974,8 @@ How can I know what I think till I see what I say?
 </blockquote>E.M. Forster`,
 
 `<img src="images/stoopid.jpg" class="image"></img>`,
+
+`<img src="images/onion.jpg" class="image"></img>`,
 ]
 
 
