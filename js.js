@@ -2976,6 +2976,15 @@ How can I know what I think till I see what I say?
 `<img src="images/stoopid.jpg" class="image"></img>`,
 
 `<img src="images/onion.jpg" class="image"></img>`,
+
+`<blockquote>
+Body crazy, curvy, wavy, big titties, lil' waist
+</blockquote>Megan`,
+
+`<blockquote>
+  Madara: HASHIRAMAAAAAA<br><br>
+  Hashirama: I'll deal with you later
+</blockquote>`,
 ]
 
 
