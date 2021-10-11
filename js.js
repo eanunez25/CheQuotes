@@ -2982,6 +2982,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 </blockquote>Megan`,
 
 `<blockquote>
+  The whiter the bread, the sooner you're dead
+</blockquote>`,
+
+`<blockquote>
   Madara: HASHIRAMAAAAAA<br><br>
   Hashirama: I'll deal with you later
 </blockquote>`,
