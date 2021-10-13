@@ -2989,6 +2989,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Madara: HASHIRAMAAAAAA<br><br>
   Hashirama: I'll deal with you later
 </blockquote>`,
+
+`<blockquote>
+  Just remember, somewhere, a little Chinese girl is warming 
+  up with your max
+</blockquote>Jim Conroy`,
 ]
 
 
