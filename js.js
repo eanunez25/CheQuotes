@@ -2994,6 +2994,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Just remember, somewhere, a little Chinese girl is warming 
   up with your max
 </blockquote>Jim Conroy`,
+
+`<blockquote>
+  The stronger the opponent, the more effective sexy jutsu is
+</blockquote>Naruto`,
 ]
 
 
