@@ -2998,6 +2998,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   The stronger the opponent, the more effective sexy jutsu is
 </blockquote>Naruto`,
+
+`<blockquote>
+  want nothing + do anything = have everything
+</blockquote>Neil Pasricha`,
 ]
 
 
