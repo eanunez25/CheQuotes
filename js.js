@@ -3002,6 +3002,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   want nothing + do anything = have everything
 </blockquote>Neil Pasricha`,
+
+`<blockquote>
+  follow your dreams, quit your job
+</blockquote>Jared Leto`,
 ]
 
 
