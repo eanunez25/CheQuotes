@@ -3010,6 +3010,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   want nothing + do anything = have everything
 </blockquote>Neil Pasricha`,
+
+`<blockquote>
+  50% of my married clients want to kill each other. That's normal
+</blockquote>some therapist`,
 ]
 
 
