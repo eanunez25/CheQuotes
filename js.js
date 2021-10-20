@@ -3018,6 +3018,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   nothing change if nothing changes
 </blockquote>`,
+
+`<blockquote>
+  There is no reason to be alive if you can't do the deadlift
+</blockquote>Jon Pall Sigmarsson`,
 ]
 
 
