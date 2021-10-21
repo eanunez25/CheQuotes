@@ -3022,6 +3022,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   There is no reason to be alive if you can't do the deadlift
 </blockquote>Jon Pall Sigmarsson`,
+
+`<blockquote>
+  Science is like sex: sometimes something useful comes out, but that is not 
+  the reason we are doing it
+</blockquote>Richard Feynman`,
 ]
 
 
