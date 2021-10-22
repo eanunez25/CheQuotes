@@ -3027,6 +3027,13 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Science is like sex: sometimes something useful comes out, but that is not 
   the reason we are doing it
 </blockquote>Richard Feynman`,
+
+`<blockquote>
+  My Master's was a joke<br>
+  My Bachelor's was a joke<br>
+  Education is a joke
+</blockquote>Rachael Joy Lumba, M.S.<br>
+<i>Eye technician</i>`,
 ]
 
 
