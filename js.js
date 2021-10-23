@@ -3034,6 +3034,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Education is a joke
 </blockquote>Rachael Joy Lumba, M.S.<br>
 <i>Eye technician</i>`,
+
+`<blockquote>
+  God made a few perfect heads, the rest he covered in hair
+</blockquote>`,
 ]
 
 
