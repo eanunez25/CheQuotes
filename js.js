@@ -3038,6 +3038,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   God made a few perfect heads, the rest he covered in hair
 </blockquote>`,
+
+`<blockquote>
+  hydrate or die-drate
+</blockquote>Ron`,
 ]
 
 
