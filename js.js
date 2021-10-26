@@ -3046,6 +3046,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Don't let your boyfriend stop you finding your husband
 </blockquote>`,
+
+`<blockquote>
+  I don't pass the rock because everytime I do, I'm giving the rock to
+  someone worse than me
+</blockquote>Kobe Bryant`,
 ]
 
 
