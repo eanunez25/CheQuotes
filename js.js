@@ -3042,6 +3042,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   hydrate or die-drate
 </blockquote>Ron`,
+
+`<blockquote>
+  Don't let your boyfriend stop you finding your husband
+</blockquote>`,
 ]
 
 
