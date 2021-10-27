@@ -3051,6 +3051,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   I don't pass the rock because everytime I do, I'm giving the rock to
   someone worse than me
 </blockquote>Kobe Bryant`,
+
+`<blockquote>
+  A hosital bed is a parked taxi with the meter running
+</blockquote>Groucho Marx`,
 ]
 
 
