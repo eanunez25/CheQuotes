@@ -3055,6 +3055,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   A hosital bed is a parked taxi with the meter running
 </blockquote>Groucho Marx`,
+
+`<blockquote>
+  Thinking is the most unhealthy thing in the world
+</blockquote>Oscar Wilde`,
 ]
 
 
