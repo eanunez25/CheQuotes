@@ -3059,6 +3059,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Thinking is the most unhealthy thing in the world
 </blockquote>Oscar Wilde`,
+
+`<blockquote>
+    I just don't see bras making a comeback after this
+</blockquote>Tomi Obaro`,
 ]
 
 
