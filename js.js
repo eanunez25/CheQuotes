@@ -3063,6 +3063,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
     I just don't see bras making a comeback after this
 </blockquote>Tomi Obaro`,
+
+`<blockquote>
+  Walk tall, kick <span id="blur">a</span>ss, learn to speak Arabic, love music, and never forget
+  you come from a long line of truth seekers, lovers, and warriors
+</blockquote>Hunter S. Thompson`,
 ]
 
 
