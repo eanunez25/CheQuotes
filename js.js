@@ -3068,6 +3068,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Walk tall, kick <span id="blur">a</span>ss, learn to speak Arabic, love music, and never forget
   you come from a long line of truth seekers, lovers, and warriors
 </blockquote>Hunter S. Thompson`,
+
+`<blockquote>
+  Reverse cowgirl your way to suc-sex
+</blockquote>Zarah`,
 ]
 
 
