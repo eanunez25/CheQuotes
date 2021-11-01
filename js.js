@@ -3072,6 +3072,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Reverse cowgirl your way to suc-sex
 </blockquote>Zarah`,
+
+`<blockquote>
+  No shade, no shine, no butterflies, no bees, no fruits, no flowers, no leaves, 
+  no birds, November
+</blockquote>Thomas Hood`,
 ]
 
 
