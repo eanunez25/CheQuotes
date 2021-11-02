@@ -3077,6 +3077,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   No shade, no shine, no butterflies, no bees, no fruits, no flowers, no leaves, 
   no birds, November
 </blockquote>Thomas Hood`,
+
+`<blockquote>
+  Winning isn't everything, it's the only thing
+</blockquote>Vince Lombardi`,
 ]
 
 
