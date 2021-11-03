@@ -3081,6 +3081,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Winning isn't everything, it's the only thing
 </blockquote>Vince Lombardi`,
+
+`<blockquote>
+  Want to feel old? Stand up really fast right now.
+</blockquote>`,
 ]
 
 
