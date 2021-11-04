@@ -3085,6 +3085,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Want to feel old? Stand up really fast right now.
 </blockquote>`,
+
+`<blockquote>
+  Don't do drugs unless they are free of performance enhancing
+</blockquote>`,
 ]
 
 
