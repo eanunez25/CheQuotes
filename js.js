@@ -3089,6 +3089,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Don't do drugs unless they are free of performance enhancing
 </blockquote>`,
+
+`<blockquote>
+  No pressure, no diamond
+</blockquote>Thomas Carlyle`,
 ]
 
 
