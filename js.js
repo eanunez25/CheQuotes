@@ -3093,6 +3093,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   No pressure, no diamond
 </blockquote>Thomas Carlyle`,
+
+`<blockquote>
+  Gonorrhea would've been a good name for a diarrhea medicine
+</blockquote>`,
 ]
 
 
