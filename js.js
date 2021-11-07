@@ -3097,6 +3097,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Gonorrhea would've been a good name for a diarrhea medicine
 </blockquote>`,
+
+`<blockquote>
+    Ask for a car while you ride that dick
+</blockquote>Megan Thee Stallion`
 ]
 
 
