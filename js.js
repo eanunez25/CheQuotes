@@ -3100,7 +3100,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 
 `<blockquote>
     Ask for a car while you ride that dick
-</blockquote>Megan Thee Stallion`
+</blockquote>Megan Thee Stallion`,
+
+`<blockquote>
+  If you don't risk anything, you risk even more
+</blockquote>Erica Jong`,
 ]
 
 
