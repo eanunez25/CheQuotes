@@ -3105,6 +3105,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   If you don't risk anything, you risk even more
 </blockquote>Erica Jong`,
+
+`<blockquote>
+  pants are an illusion and so is death
+</blockquote>Huu`,
 ]
 
 
