@@ -3109,6 +3109,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   pants are an illusion and so is death
 </blockquote>Huu`,
+
+`<blockquote>
+  You can always become a pickle, but you can never go back to being a 
+  cucumber
+</blockquote>Steve-O`,
 ]
 
 
