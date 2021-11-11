@@ -3114,6 +3114,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
   You can always become a pickle, but you can never go back to being a 
   cucumber
 </blockquote>Steve-O`,
+
+`<blockquote>
+  By working faithfully 8 hours a day, you may eventually get to be a boss
+  and work 12 hours a day.
+</blockquote>Robert Frost`,
 ]
 
 
