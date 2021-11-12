@@ -3119,6 +3119,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   By working faithfully 8 hours a day, you may eventually get to be a boss
   and work 12 hours a day.
 </blockquote>Robert Frost`,
+
+`<blockquote>
+  Dance first, think later. It's the natural order.
+</blockquote>Samuel Beckett`,
 ]
 
 
