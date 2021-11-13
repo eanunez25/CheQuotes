@@ -3123,6 +3123,8 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Dance first, think later. It's the natural order.
 </blockquote>Samuel Beckett`,
+
+`<img src="images/texas.jpeg" class="image"></img>`,
 ]
 
 
