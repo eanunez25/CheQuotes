@@ -3128,7 +3128,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 
 `<img src="images/toph.jpg" class="image"></img>`,
 
-
+`<blockquote>
+  Do sharks complain about Monday? No. They are up biting stuff, chasing
+  sh<span id="blur">i</span>t, being scary, reminding everyone they are a f<span id="blur">u</span>cking shark.
+</blockquote>`,
 ]
 
 
