@@ -3134,6 +3134,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 </blockquote>`,
 
 `<img src="images/dogs.png" class="image"></img>`,
+
+`<blockquote>
+  If you open the window for fresh air, you have to expect some flies to blow in
+</blockquote>Deng Xiaoping`,
 ]
 
 
