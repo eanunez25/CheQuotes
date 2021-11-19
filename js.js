@@ -3142,6 +3142,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   If the news is fake, imagine history
 </blockquote>`,
+
+`<blockquote>
+  Fitbits are like Tamagotchis except the stupid, little creature you
+  have to keep alive is yourself
+</blockquote>`,
 ]
 
 
