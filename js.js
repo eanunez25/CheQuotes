@@ -3147,6 +3147,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Fitbits are like Tamagotchis except the stupid, little creature you
   have to keep alive is yourself
 </blockquote>`,
+
+`<blockquote>
+  Too many people trying to be the Jim to your Pam. Not enough people
+  trying to be the Bob to your Phylllis
+</blockquote>`,
 ]
 
 
