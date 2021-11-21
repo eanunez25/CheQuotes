@@ -3152,6 +3152,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Too many people trying to be the Jim to your Pam. Not enough people
   trying to be the Bob to your Phylllis
 </blockquote>`,
+
+`<blockquote>
+  Nobody trying to fix the problems we have in this country. Everyone
+  trying to make enough money so the problems don't apply to them anymore.
+</blockquote>`,
 ]
 
 
