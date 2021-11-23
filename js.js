@@ -3161,6 +3161,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   New is always better
 </blockquote>Barney`,
+
+`<blockquote>
+  Fifty years ago, if you wanted to see a picture of a raccoon, you either had to already have
+  it or drive to a library. And raccoon in a funny hat? Forget about it.
+</blockquote>Matt Roller`,
 ]
 
 
