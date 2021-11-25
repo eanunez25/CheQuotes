@@ -3171,6 +3171,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Life is like a sandwhich. No matter which you flip it, the bread comes
   first
 </blockquote>`,
+
+`<blockquote>
+  The only race is the human race
+</blockquote>drunk Rachael and Rosa Parks`,
 ]
 
 
