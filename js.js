@@ -3185,6 +3185,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   I hate running. I hate not running more.
 </blockquote>`,
+
+`<blockquote>
+  I don't come up with ideas in a test tube, I come up with ideas by 
+  breaking test tubes. 
+</blockquote>Virgil Abloh`,
 ]
 
 
