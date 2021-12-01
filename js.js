@@ -3192,6 +3192,8 @@ Body crazy, curvy, wavy, big titties, lil' waist
 </blockquote>Virgil Abloh`,
 
 `<img src="images/salsa.jpg" class="image"></img>`,
+
+`<img src="images/heart.jpg" class="image"></img>`,
 ]
 
 
