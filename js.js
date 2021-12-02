@@ -3194,8 +3194,12 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<img src="images/salsa.jpg" class="image"></img>`,
 
 `<img src="images/heart.jpg" class="image"></img>`,
-]
 
+`<blockquote>
+  In 1866 Liechtenstein's last military engagement sent 80 men to war. 81 returned, 
+  as they had made a friend
+</blockquote>Myko Clelland`,
+]
 
 
 // categories(#used) ------------------------------------------------------------------------
