@@ -3199,6 +3199,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   In 1866 Liechtenstein's last military engagement sent 80 men to war. 81 returned, 
   as they had made a friend
 </blockquote>Myko Clelland`,
+
+`<blockquote>
+  A nickel ain't worth a dime anymore
+</blockquote>Yogi Berra`,
 ]
 
 
