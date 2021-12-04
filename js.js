@@ -3205,8 +3205,8 @@ Body crazy, curvy, wavy, big titties, lil' waist
 </blockquote>Yogi Berra`,
 
 `<blockquote>
-  I see you drivin
-  round town with the girl I love
+  I see you drivin<br>
+  round town with the girl I love<br>
   and I'm like haiku
 </blockquote>`,
 ]
