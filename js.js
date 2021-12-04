@@ -3203,6 +3203,12 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   A nickel ain't worth a dime anymore
 </blockquote>Yogi Berra`,
+
+`<blockquote>
+  I see you drivin
+  round town with the girl I love
+  and I'm like haiku
+</blockquote>`,
 ]
 
 
