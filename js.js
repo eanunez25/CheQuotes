@@ -3213,6 +3213,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Post-grad is a scam
 </blockquote>Keisha`,
+
+`<blockquote>
+  Everying is on Tik Tok. Nothing's original
+</blockquote>Monica`,
 ]
 
 
