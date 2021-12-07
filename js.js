@@ -3217,6 +3217,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Everying is on Tik Tok. Nothing's original
 </blockquote>Monica`,
+
+`<blockquote>
+  Everday is an opportunity to drip
+</blockquote>Justine`,
 ]
 
 
