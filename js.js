@@ -3221,6 +3221,12 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Everday is an opportunity to drip
 </blockquote>Justine`,
+
+`<blockquote>
+  You can tell the quality of a restaurant by its bean sprouts
+</blockquote>Keisha`,
+
+
 ]
 
 
