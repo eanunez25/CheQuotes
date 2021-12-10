@@ -3230,6 +3230,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Crocodiles are easy. They try to kill and eat you. People are harder. 
   Sometimes they pretend to be your friend first.
 </blockquote>Steve Irwin`,
+
+`<blockquote>
+  Work in silence. You've never heard a tree grow.
+</blockquote>`,`
 ]
 
 
