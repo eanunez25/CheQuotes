@@ -3239,6 +3239,8 @@ Body crazy, curvy, wavy, big titties, lil' waist
   I'm not an early bird or a night owl, I'm some sort of permanently exhausted
   pigeon
 </blockquote>Mizan All`,
+
+`<img src="images/fortune.jpg" class="image"></img>`,
 ]
 
 
