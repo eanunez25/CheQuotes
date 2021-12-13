@@ -3241,6 +3241,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 </blockquote>Mizan All`,
 
 `<img src="images/fortune.jpg" class="image"></img>`,
+
+`<blockquote>
+  You should never let food distract you from other food
+</blockquote>`,
 ]
 
 
