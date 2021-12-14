@@ -3245,6 +3245,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   You should never let food distract you from other food
 </blockquote>`,
+
+`<blockquote>
+  It's not gambling if you know you're going to win
+</blockquote>`,
 ]
 
 
