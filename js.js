@@ -3249,6 +3249,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   It's not gambling if you know you're going to win
 </blockquote>`,
+
+`<blockquote>
+  Think like a proton, always positive
+</blockquote>`,
 ]
 
 
