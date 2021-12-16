@@ -3253,6 +3253,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Think like a proton, always positive
 </blockquote>`,
+
+`<blockquote>
+  Hard choices, easy life.
+  Easy choices, hard life.
+</blockquote>Jerzy Gregory`,
 ]
 
 
