@@ -3258,6 +3258,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   Hard choices, easy life.
   Easy choices, hard life.
 </blockquote>Jerzy Gregory`,
+
+`<blockquote>
+  Your vibe attracts your tribe
+</blockquote>`,
 ]
 
 
