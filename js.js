@@ -3262,6 +3262,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Your vibe attracts your tribe
 </blockquote>`,
+
+`<blockquote>
+  That man is richest whose pleasures are cheapest
+</blockquote>Henry David Thoreau`,
 ]
 
 
