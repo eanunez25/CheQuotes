@@ -3266,6 +3266,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   That man is richest whose pleasures are cheapest
 </blockquote>Henry David Thoreau`,
+
+`<blockquote>
+  Always do sober what you said you'd do drunk.
+</blockquote>Ernest Hemingway`,
 ]
 
 
