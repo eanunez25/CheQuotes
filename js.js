@@ -3270,6 +3270,13 @@ Body crazy, curvy, wavy, big titties, lil' waist
 `<blockquote>
   Always do sober what you said you'd do drunk.
 </blockquote>Ernest Hemingway`,
+
+`<blockquote>
+  We are just an advanced breed of monkeys on a minor planet of a very
+  average star.
+</blockquote>Stephen Hawking`,
+
+
 ]
 
 
