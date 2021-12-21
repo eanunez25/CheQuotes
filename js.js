@@ -3276,6 +3276,11 @@ Body crazy, curvy, wavy, big titties, lil' waist
   average star.
 </blockquote>Stephen Hawking`,
 
+`<blockquote>
+  If someone you know is getting deeply into making bread from scratch,
+  they are deeply depressed I promise you
+</blockquote>Ellory Smith`,
+
 
 ]
 
