@@ -3281,6 +3281,10 @@ Body crazy, curvy, wavy, big titties, lil' waist
   they are deeply depressed I promise you
 </blockquote>Ellory Smith`,
 
+`<blockquote>
+Running a marathon takes balls, other sports just play with them.
+</blockquote>`,
+
 
 ]
 
