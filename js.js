@@ -3293,6 +3293,24 @@ Running a marathon takes balls, other sports just play with them.
   It's beginning to cost a lot like Christmas
 </blockquote>`,
 
+`<blockquote>
+  It came without ribbons!<br>
+  It came without tags!<br>
+  It came without packages,<br>
+  boxes or bags!<br><br>
+
+  Then the Grinch thought of<br>
+  something he hadn't before!<br><br>
+
+  "Maybe Christmas,"<br>
+  he thought,<br>
+  "doesn't come from a store<br><br>
+  
+  Maybe Christmas...<br>
+  perhaps...<br>
+  means a little bit more!"
+</blockquote>Dr. Seuss`,
+
 
 ]
 
