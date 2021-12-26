@@ -3311,6 +3311,11 @@ Running a marathon takes balls, other sports just play with them.
   means a little bit more!"
 </blockquote>Dr. Seuss`,
 
+`<blockquote>
+I'm not saying I'm Batman. I'm just saying no one has ever seen 
+Batman and me in the same room together.
+</blockquote>`,
+
 
 ]
 
