@@ -3316,6 +3316,8 @@ I'm not saying I'm Batman. I'm just saying no one has ever seen
 Batman and me in the same room together.
 </blockquote>`,
 
+`<img src="images/kam.jpg" class="image"></img>`,
+
 
 ]
 
