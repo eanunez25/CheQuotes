@@ -3326,6 +3326,10 @@ Batman and me in the same room together.
   we're all leveling up
 </blockquote>Alex Nguyen`,
 
+`<blockquote>
+  Act your wage
+</blockquote>Dave Ramsey`,
+
 
 ]
 
