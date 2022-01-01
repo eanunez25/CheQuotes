@@ -3334,6 +3334,11 @@ Batman and me in the same room together.
   Nobody owns a cat
 </blockquote>`,
 
+`<blockquote>
+  My philosophy for staying young is act bubbly every day... drink bubbly
+  everyday!
+</blockquote>Betty White`,
+
 
 ]
 
