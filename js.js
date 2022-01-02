@@ -3339,6 +3339,10 @@ Batman and me in the same room together.
   everyday!
 </blockquote>Betty White`,
 
+`<blockquote>
+  Talk does not cook rice
+</blockquote>Chinese Proverb`,
+
 
 ]
 
