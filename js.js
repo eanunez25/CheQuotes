@@ -3347,6 +3347,10 @@ Batman and me in the same room together.
   Nachos are just tacos that don't have their life together
 </blockquote>`,
 
+`<blockquote>
+  Never overestimate a man who underestimates himself
+</blockquote>Ryan Cohen`,
+
 
 ]
 
