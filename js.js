@@ -3359,6 +3359,10 @@ Batman and me in the same room together.
   The difference between tax avoidance and tax evasion is twenty years
 </blockquote>Garret Sutton`,
 
+`<blockquote>
+Those who forget the past are doomed to have it retweeted
+</blockquote>`,
+
 ]
 
 
