@@ -3363,6 +3363,10 @@ Batman and me in the same room together.
 Those who forget the past are doomed to have it retweeted
 </blockquote>`,
 
+`<blockquote>
+  Another beautiful day without using sin, cos or tan
+</blockquote>El Arroyo`,
+
 ]
 
 
