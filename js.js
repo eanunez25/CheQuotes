@@ -3367,6 +3367,11 @@ Those who forget the past are doomed to have it retweeted
   Another beautiful day without using sin, cos or tan
 </blockquote>El Arroyo`,
 
+`<blockquote>
+  This week in South Texas I learned it is 100% legal to own a kangaroo
+  in Texas
+</blockquote>Jesse Castellanos`,
+
 ]
 
 
