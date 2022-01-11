@@ -3376,6 +3376,10 @@ Those who forget the past are doomed to have it retweeted
   Use the right amount, not the white amount
 </blockquote>Asian cooking tip`,
 
+`<blockquote>
+  Anything worth doing is worth doing badly
+</blockquote>GK Chesterton`,
+
 ]
 
 
