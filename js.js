@@ -3380,6 +3380,10 @@ Those who forget the past are doomed to have it retweeted
   Anything worth doing is worth doing badly
 </blockquote>GK Chesterton`,
 
+`<blockquote>
+  Destiny may be a lady, but victory has a penis
+</blockquote>Scott Caan`,
+
 ]
 
 
