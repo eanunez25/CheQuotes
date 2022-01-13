@@ -3384,6 +3384,10 @@ Those who forget the past are doomed to have it retweeted
   Destiny may be a lady, but victory has a penis
 </blockquote>Scott Caan`,
 
+`<blockquote>
+  Stay hungry. Stay foolish.
+</blockquote>Steve Jobs`,
+
 ]
 
 
