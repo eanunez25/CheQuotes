@@ -3388,6 +3388,16 @@ Those who forget the past are doomed to have it retweeted
   Stay hungry. Stay foolish.
 </blockquote>Steve Jobs`,
 
+`<blockquote>
+  savings = income - ego
+</blockquote>`,
+
+`<blockquote>
+  Look good, feel good<br>
+  Feel good, run good<br>
+  Run good, win
+</blockquote>`,
+
 ]
 
 
