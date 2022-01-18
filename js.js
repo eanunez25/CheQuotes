@@ -3406,6 +3406,10 @@ Those who forget the past are doomed to have it retweeted
   I consider sex a misdemeanor. The more I miss, de meanor I get.
 </blockquote>Mae West`,
 
+`<blockquote>
+  I got friends with degrees, LLCs, and felonies. I learned from all of them.
+</blockquote>Gregory White`,
+
 ]
 
 
