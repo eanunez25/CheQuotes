@@ -3410,6 +3410,10 @@ Those who forget the past are doomed to have it retweeted
   I got friends with degrees, LLCs, and felonies. I learned from all of them.
 </blockquote>Gregory White`,
 
+`<blockquote>
+  If you expect disappointment, then you can never really be disappointed.
+</blockquote>MJ`,
+
 ]
 
 
