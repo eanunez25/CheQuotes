@@ -3414,6 +3414,12 @@ Those who forget the past are doomed to have it retweeted
   If you expect disappointment, then you can never really be disappointed.
 </blockquote>MJ`,
 
+`<blockquote>
+  It's nice to have a lot of money, but you know, you don't want to keep
+  it around forever. I prefer buying things. Otherwise, it's a little 
+  like saving sex for your old age
+</blockquote>Warren Buffet`,
+
 ]
 
 
