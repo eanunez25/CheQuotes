@@ -3420,6 +3420,8 @@ Those who forget the past are doomed to have it retweeted
   like saving sex for your old age
 </blockquote>Warren Buffet`,
 
+`<img src="images/plans.jpg" class="image"></img>`,
+
 ]
 
 
