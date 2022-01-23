@@ -3423,6 +3423,12 @@ Those who forget the past are doomed to have it retweeted
 `<img src="images/plans.jpg" class="image"></img>`,
 
 `<img src="images/destiny.jpg" class="image"></img>`,
+
+`<blockquote>
+  I used to think coffee was a grown up drink. Then I thought alcohol was a
+  grown up drink. Now I have finally achieved full enlightenment to understand
+  that it is water that is the grown up drink.
+</blockquote>Alex Pettijohn`,
 ]
 
 
