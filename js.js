@@ -3429,6 +3429,10 @@ Those who forget the past are doomed to have it retweeted
   grown up drink. Now I have finally achieved full enlightenment to understand
   that it is water that is the grown up drink.
 </blockquote>Alex Pettijohn`,
+
+`<blockquote>
+  The aim of life is to live, and to live means to be aware, joyously, drunkenly
+</blockquote>Henry Miller`,
 ]
 
 
