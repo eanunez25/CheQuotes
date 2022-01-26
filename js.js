@@ -3438,6 +3438,10 @@ Those who forget the past are doomed to have it retweeted
   Rage Against the Machine never specified what type of machine
   they were furious with but I reckon it was probably a printer
 </blockquote>John Moynes`,
+
+`<blockquote>
+  The vommiting phase too shall pass
+</blockquote>`,
 ]
 
 
