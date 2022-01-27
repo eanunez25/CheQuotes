@@ -3442,6 +3442,8 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
   The vommiting phase too shall pass
 </blockquote>`,
+
+`<img src="images/phd.jpg" class="image"></img>`,
 ]
 
 
