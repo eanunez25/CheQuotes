@@ -3444,6 +3444,11 @@ Those who forget the past are doomed to have it retweeted
 </blockquote>`,
 
 `<img src="images/phd.jpg" class="image"></img>`,
+
+`<blockquote>
+  Leave your drugs in your chemist's pot if you can heal the patient 
+  with food
+</blockquote>Hippocrates`,
 ]
 
 
