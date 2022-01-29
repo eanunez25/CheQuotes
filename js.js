@@ -3449,6 +3449,10 @@ Those who forget the past are doomed to have it retweeted
   Leave your drugs in your chemist's pot if you can heal the patient 
   with food
 </blockquote>Hippocrates`,
+
+`<blockquote>
+  When the world turns its back on you, you turn your back on the world.
+</blockquote>Timon`,
 ]
 
 
