@@ -3453,6 +3453,11 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
   When the world turns its back on you, you turn your back on the world.
 </blockquote>Timon`,
+
+`<blockquote>
+  If you drink a gallon everyday you won't have time for other people's
+  bullsh<span id="blur">u</span>t because you'll be peeing all the time
+</blockquote>`,
 ]
 
 
