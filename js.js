@@ -3462,6 +3462,13 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
   some runs build character more than cardio
 </blockquote>stranger`,
+
+`<blockquote>
+  Good, better, best<br>
+  Never let it rest<br>
+  Til you good is better<br>
+  And your better is best
+</blockquote>Lindsey Fairhurst`,
 ]
 
 
