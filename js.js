@@ -3474,6 +3474,10 @@ Those who forget the past are doomed to have it retweeted
   There ain't no answer. There ain't gonna by any answer. There never 
   has been an answer. That's the answer.
 </blockquote>Gertrude Stein`,
+
+`<blockquote>
+  If you aren't fired with enthusiasm, you will be fired with enthusiasm
+</blockquote>Vince Lombardi`,
 ]
 
 
