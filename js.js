@@ -3469,6 +3469,11 @@ Those who forget the past are doomed to have it retweeted
   Til you good is better<br>
   And your better is best
 </blockquote>Lindsey Fairhurst`,
+
+`<blockquote>
+  There ain't no answer. There ain't gonna by any answer. There never 
+  has been an answer. That's the answer.
+</blockquote>Gertrude Stein`,
 ]
 
 
