@@ -3478,6 +3478,10 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
   If you aren't fired with enthusiasm, you will be fired with enthusiasm
 </blockquote>Vince Lombardi`,
+
+`<blockquote>
+  Sex and golf are two things you can enjoy even if you're not good at them
+</blockquote>Roy McAvoy`,
 ]
 
 
