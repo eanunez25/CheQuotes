@@ -3482,6 +3482,10 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
   Sex and golf are two things you can enjoy even if you're not good at them
 </blockquote>Roy McAvoy`,
+
+`<blockquote>
+  The middle class is screwed
+</blockquote>Marissa's mom`,
 ]
 
 
