@@ -3486,6 +3486,10 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
   The middle class is screwed
 </blockquote>Marissa's mom`,
+
+`<blockquote>
+  Trump is wrong
+</blockquote>Mike Pence`,
 ]
 
 
