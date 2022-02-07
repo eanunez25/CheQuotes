@@ -3490,6 +3490,10 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
   Trump is wrong
 </blockquote>Mike Pence`,
+
+`<blockquote>
+  Expect problems and eat them for breakfast
+</blockquote>Alfred Montapert`,
 ]
 
 
