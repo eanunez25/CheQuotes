@@ -3494,6 +3494,10 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
   Expect problems and eat them for breakfast
 </blockquote>Alfred Montapert`,
+
+`<blockquote>
+I walk around like everything’s fine, but deep down, inside my shoe, my sock is sliding off
+</blockquote>Anonymous`,
 ]
 
 
