@@ -3498,6 +3498,11 @@ Those who forget the past are doomed to have it retweeted
 `<blockquote>
 I walk around like everything’s fine, but deep down, inside my shoe, my sock is sliding off
 </blockquote>Anonymous`,
+
+`<blockquote>
+  If you want to tell people the truth, you have to make them laugh, otherwise
+  they'll kill you.
+</blockquote>Oscar Wilde`,
 ]
 
 
