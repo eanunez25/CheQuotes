@@ -3503,6 +3503,10 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
   If you want to tell people the truth, you have to make them laugh, otherwise
   they'll kill you.
 </blockquote>Oscar Wilde`,
+
+`<blockquote>
+  A goal is not always meant to be reached
+</blockquote>Bruce Lee`,
 ]
 
 
