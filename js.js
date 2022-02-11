@@ -3507,6 +3507,10 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
 `<blockquote>
   A goal is not always meant to be reached
 </blockquote>Bruce Lee`,
+
+`<blockquote>
+  Someone's therapist knows about you
+</blockquote>El Arroyo`,
 ]
 
 
