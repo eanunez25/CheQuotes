@@ -3511,6 +3511,12 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
 `<blockquote>
   Someone's therapist knows about you
 </blockquote>El Arroyo`,
+
+`<blockquote>
+  Run if you can<br>
+  Walk if you have to<br>
+  Crawl if you must
+</blockquote>`,
 ]
 
 
