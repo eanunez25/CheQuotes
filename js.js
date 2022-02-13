@@ -3517,6 +3517,8 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
   Walk if you have to<br>
   Crawl if you must
 </blockquote>`,
+
+`<img src="images/idaho.jpg" class="image"></img>`,
 ]
 
 
