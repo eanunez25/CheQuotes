@@ -3523,6 +3523,8 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
 `<blockquote>
   Love means nothing in tennis but everything in life
 </blockquote>`,
+
+`<img src="images/obj.jpg" class="image"></img>`,
 ]
 
 
