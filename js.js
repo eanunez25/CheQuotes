@@ -3525,6 +3525,11 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
 </blockquote>`,
 
 `<img src="images/obj.jpg" class="image"></img>`,
+
+`<blockquote>
+  Part of the secret of a success in life is to eat 
+  what you like and let the food fight it out inside.
+</blockquote>Mark Twain`,
 ]
 
 
