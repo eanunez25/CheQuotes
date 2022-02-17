@@ -3530,6 +3530,10 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
   Part of the secret of a success in life is to eat 
   what you like and let the food fight it out inside.
 </blockquote>Mark Twain`,
+
+`<blockquote>
+  The average dog is a nicer person than the average person.
+</blockquote>Andy Rooney`,
 ]
 
 
