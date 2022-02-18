@@ -3534,6 +3534,10 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
 `<blockquote>
   The average dog is a nicer person than the average person.
 </blockquote>Andy Rooney`,
+
+`<blockquote>
+    Women, can't live with them, can't live without them.
+</blockquote>Desiderius Erasmus`,
 ]
 
 
