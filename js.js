@@ -3538,6 +3538,10 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
 `<blockquote>
     Women, can't live with them, can't live without them.
 </blockquote>Desiderius Erasmus`,
+  
+`<blockquote>
+I have no money, no resources, no hopes. I am the happiest man alive.
+</blockquote>Henry Miller`,
 ]
 
 
