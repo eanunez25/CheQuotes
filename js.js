@@ -3542,6 +3542,10 @@ I walk around like everything’s fine, but deep down, inside my shoe, my sock i
 `<blockquote>
 I have no money, no resources, no hopes. I am the happiest man alive.
 </blockquote>Henry Miller`,
+
+`<blockquote>
+  Step one to running a marathon: you run. There is no step two.
+</blockquote>Barney Stinson`,
 ]
 
 
