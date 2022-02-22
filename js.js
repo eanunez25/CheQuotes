@@ -3550,6 +3550,10 @@ I have no money, no resources, no hopes. I am the happiest man alive.
 `<blockquote>
 I distrust camels, and anyone else who can go a week without a drink.
 </blockquote>Joe Lewis`,
+
+`<blockquote>
+There are no strangers here; Only friends you haven't yet met.
+</blockquote>William Yeats`,
 ]
 
 
