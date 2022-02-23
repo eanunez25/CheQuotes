@@ -3554,6 +3554,10 @@ I distrust camels, and anyone else who can go a week without a drink.
 `<blockquote>
 There are no strangers here; Only friends you haven't yet met.
 </blockquote>William Yeats`,
+
+`<blockquote>
+  Cooking is 90% cleaning
+</blockquote>`,
 ]
 
 
