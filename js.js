@@ -3558,6 +3558,11 @@ There are no strangers here; Only friends you haven't yet met.
 `<blockquote>
   Cooking is 90% cleaning
 </blockquote>`,
+
+`<blockquote>
+  There is a special spot in hell reserved for whoever laid out 
+  the Austin marathon course
+</blockquote>Sean Casey`,
 ]
 
 
