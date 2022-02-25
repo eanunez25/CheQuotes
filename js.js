@@ -3563,6 +3563,10 @@ There are no strangers here; Only friends you haven't yet met.
   There is a special spot in hell reserved for whoever laid out 
   the Austin marathon course
 </blockquote>Sean Casey`,
+
+`<blockquote>
+  The way I see it, you should live everyday like its your birthday.
+</blockquote>Paris Hilton`,
 ]
 
 
