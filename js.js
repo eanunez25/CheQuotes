@@ -3571,6 +3571,10 @@ There are no strangers here; Only friends you haven't yet met.
 `<blockquote>
   I need ammunition, not a ride
 </blockquote>Ukranian President Zelenskiy`,
+
+`<blockquote>
+  breakfast is a meal but brunch is a culture
+</blockquote>`,
 ]
 
 
