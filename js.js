@@ -3586,6 +3586,10 @@ There are no strangers here; Only friends you haven't yet met.
 </blockquote>Mr. Incredible`,
 
 `<img src="images/wasabi.jpg" class="image"></img>`,
+
+`<blockquote>
+  Orange is the happiest color
+</blockquote>Frank Sinatra`,
 ]
 
 
