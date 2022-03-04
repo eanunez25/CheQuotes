@@ -3590,6 +3590,14 @@ There are no strangers here; Only friends you haven't yet met.
 `<blockquote>
   Orange is the happiest color
 </blockquote>Frank Sinatra`,
+
+`<blockquote>
+I wasn’t a failed DJ. I was pre-successful
+</blockquote>Jason`,
+
+`<blockquote>
+  Shave minutes off your time by shaving your legs
+</blockquote>`,
 ]
 
 
