@@ -3598,6 +3598,11 @@ I wasn’t a failed DJ. I was pre-successful
 `<blockquote>
   Shave minutes off your time by shaving your legs
 </blockquote>`,
+
+`<blockquote>
+If money doesn't make you happy, you probably aren't spending it 
+right 
+</blockquote>Harvard University`,
 ]
 
 
