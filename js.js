@@ -3603,6 +3603,11 @@ I wasn’t a failed DJ. I was pre-successful
 If money doesn't make you happy, you probably aren't spending it 
 right 
 </blockquote>Harvard University`,
+
+`<blockquote>
+  I am too young to die and too old to eat off 
+  the kids' menu. What a stupid age I am.
+</blockquote>Jason Mendoza`,
 ]
 
 
