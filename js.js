@@ -3613,6 +3613,10 @@ right
   One alcoholic drink in the air slams your body as hard as three drinks
   on the ground
 </blockquote>`,
+
+`<blockquote>
+  The best view comes after the hardest climb
+</blockquote>`,
 ]
 
 
