@@ -3617,6 +3617,10 @@ right
 `<blockquote>
   The best view comes after the hardest climb
 </blockquote>`,
+
+`<blockquote>
+If you want to see an awesome color, then go to Colorado
+</blockquote>`,
 ]
 
 
