@@ -3626,7 +3626,11 @@ If you want to see an awesome color, then go to Colorado
 I'm telling you, Molotov cocktails work. Anytime I had a problem 
 and I threw a Molotov cocktail, boom! Right away, I had a 
 different problem.
-</blockquote>Jason Mendoza`
+</blockquote>Jason Mendoza`,
+
+`<blockquote>
+Apples, you eat their clothes, but oranges, you don’t?
+</blockquote>Jason Mendoza`,
 ]
 
 
