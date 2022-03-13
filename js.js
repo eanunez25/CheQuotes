@@ -3631,6 +3631,11 @@ different problem.
 `<blockquote>
 Apples, you eat their clothes, but oranges, you don’t?
 </blockquote>Jason Mendoza`,
+
+`<blockquote>
+Yo, You Should Listen To Me. I Came Up With Hundreds Of 
+Plans In My Life And Only One Of Them Got Me Killed.
+</blockquote>Jason Mendoza`,
 ]
 
 
