@@ -3636,6 +3636,11 @@ Apples, you eat their clothes, but oranges, you don’t?
 Yo, You Should Listen To Me. I Came Up With Hundreds Of 
 Plans In My Life And Only One Of Them Got Me Killed.
 </blockquote>Jason Mendoza`,
+
+`<blockquote>
+Ironing boards are surfboards that gave up their dreams 
+and got a boring job. Don’t be an ironing board.
+</blockquote>`,
 ]
 
 
