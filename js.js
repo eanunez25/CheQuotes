@@ -3641,6 +3641,12 @@ Plans In My Life And Only One Of Them Got Me Killed.
 Ironing boards are surfboards that gave up their dreams 
 and got a boring job. Don’t be an ironing board.
 </blockquote>`,
+
+`<blockquote>
+  Those aren't dumb shapes. They're a pair of boobs. And then
+  two extra side boobs. It symbolizes that boobs come in all shapes and 
+  sizes and distances apart.
+</blockquote>Jason Mendoza`,
 ]
 
 
