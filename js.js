@@ -3647,6 +3647,19 @@ and got a boring job. Don’t be an ironing board.
   two extra side boobs. It symbolizes that boobs come in all shapes and 
   sizes and distances apart.
 </blockquote>Jason Mendoza`,
+
+`<blockquote>
+I used to yell at Big Noodle 'cause he always showed up late to rehearsal. 
+Then one day, the swamp under my house flooded. I needed a place to crash, 
+so I slept at Big Noodle's house. Turns out that he had to juggle three 
+jobs to take care of four grandparents who all lived in the same bed 
+just like in Willy Wonka. I never yelled at Big Noodle for being late 
+after that 'cause I knew how hard it was for him to be there. And he 
+definitely didn't have time to research what tomatoes to buy. Even if 
+he wanted to, possession of a non-fried vegetable is a felony in 
+Jacksonville. The point is, you can't judge humans 'cause you don't 
+know what we go through.
+</blockquote>Jason Mendoza`,
 ]
 
 
