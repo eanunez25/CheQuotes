@@ -3660,6 +3660,10 @@ he wanted to, possession of a non-fried vegetable is a felony in
 Jacksonville. The point is, you can't judge humans 'cause you don't 
 know what we go through.
 </blockquote>Jason Mendoza`,
+
+`<blockquote>
+Sex is not only the basis of life, it is the reason for life.
+</blockquote>Norman Lindsay`,
 ]
 
 
