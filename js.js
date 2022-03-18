@@ -3664,6 +3664,11 @@ know what we go through.
 `<blockquote>
 Sex is not only the basis of life, it is the reason for life.
 </blockquote>Norman Lindsay`,
+
+`<blockquote>
+  When a person dies and no one will miss them, the mourning is assigned
+  to a random human. This is why you sometimes just feel sad
+</blockquote>`,
 ]
 
 
