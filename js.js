@@ -3669,6 +3669,10 @@ Sex is not only the basis of life, it is the reason for life.
   When a person dies and no one will miss them, the mourning is assigned
   to a random human. This is why you sometimes just feel sad
 </blockquote>`,
+
+`<blockquote>
+  You got a dope soul and hella ethics
+</blockquote>Jason Mendoza`,
 ]
 
 
