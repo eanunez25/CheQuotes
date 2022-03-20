@@ -3673,6 +3673,11 @@ Sex is not only the basis of life, it is the reason for life.
 `<blockquote>
   You got a dope soul and hella ethics
 </blockquote>Jason Mendoza`,
+
+`<blockquote>
+  Too bad that all the people who know how to run the country are busy
+  driving taxicabs and cutting hair
+</blockquote>George Burns`,
 ]
 
 
