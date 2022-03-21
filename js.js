@@ -3678,6 +3678,10 @@ Sex is not only the basis of life, it is the reason for life.
   Too bad that all the people who know how to run the country are busy
   driving taxicabs and cutting hair
 </blockquote>George Burns`,
+
+`<blockquote>
+  Try again. Fail again. Fail better.
+</blockquote>Samuel Beckett`,
 ]
 
 
