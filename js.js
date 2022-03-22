@@ -3682,6 +3682,11 @@ Sex is not only the basis of life, it is the reason for life.
 `<blockquote>
   Try again. Fail again. Fail better.
 </blockquote>Samuel Beckett`,
+
+`<blockquote>
+  Where I’m from, most things blow up eventually. So I learned that 
+  when something dope comes along, you gotta lock it down.
+</blockquote>Jason Mendoza`,
 ]
 
 
