@@ -3687,6 +3687,11 @@ Sex is not only the basis of life, it is the reason for life.
   Where I’m from, most things blow up eventually. So I learned that 
   when something dope comes along, you gotta lock it down.
 </blockquote>Jason Mendoza`,
+
+`<blockquote>
+  In ancient times, cats were worshipped as gods; they have not forgotten
+  this
+</blockquote>Terry Pratchett`,
 ]
 
 
