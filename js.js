@@ -3692,6 +3692,10 @@ Sex is not only the basis of life, it is the reason for life.
   In ancient times, cats were worshipped as gods; they have not forgotten
   this
 </blockquote>Terry Pratchett`,
+
+`<blockquote>
+  I have taken more out of alcohol than alcohol has taken out of me
+</blockquote>Winston Churchill`,
 ]
 
 
