@@ -3696,6 +3696,11 @@ Sex is not only the basis of life, it is the reason for life.
 `<blockquote>
   I have taken more out of alcohol than alcohol has taken out of me
 </blockquote>Winston Churchill`,
+
+`<blockquote>
+  Remember what's important in life: friends, waffles, work. Or waffles, 
+  friends, work. Doesn't matter. But work is third.
+</blockquote>Leslie Knope`,
 ]
 
 
