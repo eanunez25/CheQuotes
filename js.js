@@ -3701,6 +3701,10 @@ Sex is not only the basis of life, it is the reason for life.
   Remember what's important in life: friends, waffles, work. Or waffles, 
   friends, work. Doesn't matter. But work is third.
 </blockquote>Leslie Knope`,
+
+`<blockquote>
+  Life is short. Running makes it seem longer.
+</blockquote>Baron Hansen`,
 ]
 
 
