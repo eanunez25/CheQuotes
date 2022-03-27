@@ -3705,6 +3705,10 @@ Sex is not only the basis of life, it is the reason for life.
 `<blockquote>
   Life is short. Running makes it seem longer.
 </blockquote>Baron Hansen`,
+
+`<blockquote>
+  I don't even listen to rap. My apartment is too nice to listen to rap in.
+</blockquote>Kanye West`,
 ]
 
 
