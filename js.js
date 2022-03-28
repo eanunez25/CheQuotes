@@ -3709,6 +3709,11 @@ Sex is not only the basis of life, it is the reason for life.
 `<blockquote>
   I don't even listen to rap. My apartment is too nice to listen to rap in.
 </blockquote>Kanye West`,
+
+`<blockquote>
+  Know your material well enough that if someone punched you mid joke 
+  you could keep going
+</blockquote>Jerry Seinfeld`,
 ]
 
 
