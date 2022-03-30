@@ -3716,6 +3716,11 @@ Sex is not only the basis of life, it is the reason for life.
 </blockquote>Jerry Seinfeld`,
 
 `<img src="images/spring.jpeg" class="image"></img>`,
+
+`<blockquote>
+  It's just a job. Grass grows, birds fly, waves pound the sand. I beat 
+  people up.
+</blockquote>Muhammad Ali`,
 ]
 
 
