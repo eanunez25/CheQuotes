@@ -3721,6 +3721,10 @@ Sex is not only the basis of life, it is the reason for life.
   It's just a job. Grass grows, birds fly, waves pound the sand. I beat 
   people up.
 </blockquote>Muhammad Ali`,
+
+`<blockquote>
+  Never floss with a stranger
+</blockquote>Joan Rivers`,
 ]
 
 
