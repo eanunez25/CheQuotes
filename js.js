@@ -3725,6 +3725,11 @@ Sex is not only the basis of life, it is the reason for life.
 `<blockquote>
   Never floss with a stranger
 </blockquote>Joan Rivers`,
+
+`<blockquote>
+  The first of April is the day we remember what we are the other 364 days
+  of the year
+</blockquote>Mark Twain`,
 ]
 
 
