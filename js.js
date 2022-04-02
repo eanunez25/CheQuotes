@@ -3730,6 +3730,10 @@ Sex is not only the basis of life, it is the reason for life.
   The first of April is the day we remember what we are the other 364 days
   of the year
 </blockquote>Mark Twain`,
+
+`<blockquote>
+  America is a land of taxation that was founded to avoid taxation
+</blockquote>Laurence Peter`,
 ]
 
 
