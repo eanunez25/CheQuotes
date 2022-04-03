@@ -3734,6 +3734,10 @@ Sex is not only the basis of life, it is the reason for life.
 `<blockquote>
   America is a land of taxation that was founded to avoid taxation
 </blockquote>Laurence Peter`,
+
+`<blockquote>
+  Whatever you are, be a good one.
+</blockquote>Abraham Lincoln`,
 ]
 
 
