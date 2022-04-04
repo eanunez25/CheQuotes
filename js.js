@@ -3738,6 +3738,15 @@ Sex is not only the basis of life, it is the reason for life.
 `<blockquote>
   Whatever you are, be a good one.
 </blockquote>Abraham Lincoln`,
+
+`<blockquote>
+  I just learned that if a hermit crab finds a new shell that is too big
+  it will wait for other hermit crabs who need new shells to gather and then
+  they will organize themselves by size and trade shells and I am pissed
+  that the crabs have a better housing market than we do
+</blockquote>sloane`,
+
+
 ]
 
 
