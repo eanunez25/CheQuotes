@@ -3746,7 +3746,21 @@ Sex is not only the basis of life, it is the reason for life.
   that the crabs have a better housing market than we do
 </blockquote>sloane`,
 
-
+`<blockquote>
+Take no chances<br>
+Stop freelancin'<br>
+Invest in your future<br>
+Don't dilute your finances<br>
+401K, make sure it's low risk<br>
+Then get some real estate<br>
+4.2% 30-year mortgage<br>
+That's important, that's a great deal<br>
+And if you can't afford it<br>
+Don't forge it on your last bill<br>
+Renting is for suckers right now<br>
+A dependable savings<br>
+And you'll retire with money in your account
+</blockquote>Kendrick Lamar`,
 ]
 
 
