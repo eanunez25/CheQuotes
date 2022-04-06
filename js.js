@@ -3767,6 +3767,11 @@ And you'll retire with money in your account
   However you choose to interpret this, you are correct.
 </blockquote>`,
 
+`<blockquote>
+  If you killed Ted Cruz on the floor of the Senate, and the trial was in 
+  the Senate, nobody would convict you
+</blockquote>Lindsey Graham`,
+
 
 ]
 
