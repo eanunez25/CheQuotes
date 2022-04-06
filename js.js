@@ -3761,6 +3761,13 @@ Renting is for suckers right now<br>
 A dependable savings<br>
 And you'll retire with money in your account
 </blockquote>Kendrick Lamar`,
+
+`<blockquote>
+  You're more likely to keep a partner with your mouth than your genitals.
+  However you choose to interpret this, you are correct.
+</blockquote>`,
+
+
 ]
 
 
