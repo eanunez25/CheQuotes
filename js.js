@@ -3772,6 +3772,10 @@ And you'll retire with money in your account
   the Senate, nobody would convict you
 </blockquote>Lindsey Graham`,
 
+`<blockquote>
+  Juggling [life issues and work problems] isn't hard. That's why the 
+  salary for jugglers is so low. Name one rich juggler.
+</blockquote>Gina Linetti`,
 
 ]
 
