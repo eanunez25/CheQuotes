@@ -3777,6 +3777,10 @@ And you'll retire with money in your account
   salary for jugglers is so low. Name one rich juggler.
 </blockquote>Gina Linetti`,
 
+`<blockquote>
+  Chuck it in the f<span id="blur">u</span>ck it bucket
+</blockquote>`,
+
 ]
 
 
