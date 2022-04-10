@@ -3781,6 +3781,11 @@ And you'll retire with money in your account
   Chuck it in the f<span id="blur">u</span>ck it bucket
 </blockquote>`,
 
+`<blockquote>
+  In my family, it took just one generation to go from segregation to the 
+  Supreme Court of the United States
+</blockquote>Ketanji Brown Jackson`,
+
 ]
 
 
