@@ -3786,6 +3786,11 @@ And you'll retire with money in your account
   Supreme Court of the United States
 </blockquote>Ketanji Brown Jackson`,
 
+`<blockquote>
+Politics is when you say you are going to do one thing while intending to do another. 
+Then you do neither what you said nor what you intended.
+</blockquote>Saddam Hussein`,
+
 ]
 
 
