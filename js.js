@@ -3791,6 +3791,10 @@ Politics is when you say you are going to do one thing while intending to do ano
 Then you do neither what you said nor what you intended.
 </blockquote>Saddam Hussein`,
 
+`<blockquote>
+  If a bag is not resealable it contains one serving
+</blockquote>El Arroyo`,
+
 ]
 
 
