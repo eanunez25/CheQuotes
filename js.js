@@ -3800,6 +3800,10 @@ If you're ever sad, just go for a run. Then you'll realize that your
 physical health is worse than your mental health.
 </blockquote>`,
 
+`<blockquote>
+  You believed in Santa for 10 years, you can believe in yourself for 10 seconds
+</blockquote>`,
+
 ]
 
 
