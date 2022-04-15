@@ -3804,6 +3804,10 @@ physical health is worse than your mental health.
   You believed in Santa for 10 years, you can believe in yourself for 10 seconds
 </blockquote>`,
 
+`<blockquote>
+  I study and work hard so my dog can have a better life
+</blockquote>`,
+
 ]
 
 
