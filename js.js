@@ -3808,6 +3808,10 @@ physical health is worse than your mental health.
   I study and work hard so my dog can have a better life
 </blockquote>`,
 
+`<blockquote>
+  My forehead is big from all the disrespectful thoughts I keep to myself
+</blockquote>`,
+
 ]
 
 
