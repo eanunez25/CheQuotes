@@ -3812,6 +3812,11 @@ physical health is worse than your mental health.
   My forehead is big from all the disrespectful thoughts I keep to myself
 </blockquote>`,
 
+`<blockquote>
+  I never use a napkin on my lap at a restaurant... because I believe in 
+  myself
+</blockquote>`,
+
 ]
 
 
