@@ -3826,7 +3826,7 @@ physical health is worse than your mental health.
 </blockquote>Mikee`,
 
 `<blockquote>
-  We are small and stupid
+  We are all small and stupid
 </blockquote>rocks`,
 
 ]
