@@ -3825,6 +3825,10 @@ physical health is worse than your mental health.
   Che is not an alpha. A Siberian will know you're not an alpha.
 </blockquote>Mikee`,
 
+`<blockquote>
+  We are small and stupid
+</blockquote>rocks`,
+
 ]
 
 
