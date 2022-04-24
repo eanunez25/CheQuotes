@@ -3842,6 +3842,10 @@ Be the reason he has the peach charm on his crocs
   Yes you will indeed!<br>
   98 and 3/4 percent guaranteed
 </blockquote>Dr. Seuss`,
+
+`<blockquote>
+  You can live a lifetime in two years
+</blockquote>Richelle Mead`,
 ]
 
 
