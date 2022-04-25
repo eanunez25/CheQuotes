@@ -3846,7 +3846,12 @@ Be the reason he has the peach charm on his crocs
 `<blockquote>
   You can live a lifetime in two years
 </blockquote>Richelle Mead`,
+
+`<blockquote>
+  Money is a poor man's credit card
+</blockquote>Marshall McLuhan`,
 ]
+
 
 
 // categories(#used) ------------------------------------------------------------------------
