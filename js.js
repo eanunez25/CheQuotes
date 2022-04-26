@@ -3853,7 +3853,7 @@ Be the reason he has the peach charm on his crocs
 
 `<blockquote>
   You spend 100% of the dollars you don't budget
-</blockquote>Wayne Gretzky?`,`
+</blockquote>Wayne Gretzky?`,
 ]
 
 
