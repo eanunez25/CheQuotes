@@ -3850,6 +3850,10 @@ Be the reason he has the peach charm on his crocs
 `<blockquote>
   Money is a poor man's credit card
 </blockquote>Marshall McLuhan`,
+
+`<blockquote>
+  You spend 100% of the dollars you don't budget
+</blockquote>Wayne Gretzky?`,`
 ]
 
 
