@@ -3854,6 +3854,10 @@ Be the reason he has the peach charm on his crocs
 `<blockquote>
   You spend 100% of the dollars you don't budget
 </blockquote>Wayne Gretzky?`,
+
+`<blockquote>
+  Don't beat yourself up forever. Beat yourself up once then move on
+</blockquote>Homer Simpson`,
 ]
 
 
