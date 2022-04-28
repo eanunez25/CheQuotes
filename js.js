@@ -3858,6 +3858,11 @@ Be the reason he has the peach charm on his crocs
 `<blockquote>
   Don't beat yourself up forever. Beat yourself up once then move on
 </blockquote>Homer Simpson`,
+
+`<blockquote>
+Started documenting the little things because eventually 
+they'll be the the big things
+</blockquote>Jasel`,
 ]
 
 
