@@ -3863,6 +3863,10 @@ Be the reason he has the peach charm on his crocs
 Started documenting the little things because eventually 
 they'll be the the big things
 </blockquote>Jasel`,
+
+`<blockquote>
+  You can contour a bad nose but not a bad attitude
+</blockquote>`,
 ]
 
 
