@@ -3867,6 +3867,8 @@ they'll be the the big things
 `<blockquote>
   You can contour a bad nose but not a bad attitude
 </blockquote>`,
+
+`<img src="images/longrun.jpg" class="image"></img>`,
 ]
 
 
