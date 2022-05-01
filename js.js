@@ -3869,6 +3869,10 @@ they'll be the the big things
 </blockquote>`,
 
 `<img src="images/longrun.jpg" class="image"></img>`,
+
+`<blockquote>
+  Four days til Cinco de Drinko
+</blockquote>`,
 ]
 
 
