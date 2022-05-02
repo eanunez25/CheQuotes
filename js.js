@@ -3873,6 +3873,10 @@ they'll be the the big things
 `<blockquote>
   Four days til Cinco de Drinko
 </blockquote>`,
+
+`<blockquote>
+  Invest in whatever seperates you from the ground
+</blockquote>`,
 ]
 
 
