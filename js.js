@@ -3877,6 +3877,10 @@ they'll be the the big things
 `<blockquote>
   Invest in whatever seperates you from the ground
 </blockquote>`,
+
+`<blockquote>
+  Casual sex implies the existance of competitive, ranked sex
+</blockquote>`,
 ]
 
 
