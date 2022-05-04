@@ -3881,6 +3881,14 @@ they'll be the the big things
 `<blockquote>
   Casual sex implies the existance of competitive, ranked sex
 </blockquote>`,
+
+`<blockquote>
+  seas the day
+</blockquote>`,
+
+`<blockquote>
+  I never feel more alone than when I'm trying ot put sunscreen on my back
+</blockquote>`,
 ]
 
 
