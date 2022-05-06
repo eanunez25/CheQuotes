@@ -3889,6 +3889,10 @@ they'll be the the big things
 `<blockquote>
   I never feel more alone than when I'm trying to put sunscreen on my back
 </blockquote>`,
+
+`<blockquote>
+  Rule number one is don't lose money. Rule number two is don't forget rule one.
+</blockquote>Warren Buffet`,
 ]
 
 
