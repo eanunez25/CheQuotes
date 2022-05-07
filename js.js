@@ -3893,6 +3893,11 @@ they'll be the the big things
 `<blockquote>
   Rule number one is don't lose money. Rule number two is don't forget rule one.
 </blockquote>Warren Buffet`,
+
+`<blockquote>
+A good rule to remember for life is that when it comes to 
+plastic surgery and sushi, never be attracted by a bargain.
+</blockquote>Graham Norton`,
 ]
 
 
