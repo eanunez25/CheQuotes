@@ -3906,6 +3906,10 @@ plastic surgery and sushi, never be attracted by a bargain.
 `<blockquote>
   more miles, more fun
 </blockquote>stranger`,
+
+`<blockquote>
+  Make friends first, make sales second, make love third. In no particular order. 
+</blockquote>Michael Scott`,
 ]
 
 
