@@ -3910,6 +3910,11 @@ plastic surgery and sushi, never be attracted by a bargain.
 `<blockquote>
   Make friends first, make sales second, make love third. In no particular order. 
 </blockquote>Michael Scott`,
+
+`<blockquote>
+  Trying to get myself out of bed by repeating "come on Barbie, let's go 
+  party"
+</blockquote>Jourdain Searies`,
 ]
 
 
