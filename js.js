@@ -3915,6 +3915,10 @@ plastic surgery and sushi, never be attracted by a bargain.
   Trying to get myself out of bed by repeating "come on Barbie, let's go 
   party"
 </blockquote>Jourdain Searies`,
+
+`<blockquote>
+  Life is a zoo in a jungle
+</blockquote>Peter de Vries`,
 ]
 
 
