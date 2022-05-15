@@ -3925,6 +3925,8 @@ plastic surgery and sushi, never be attracted by a bargain.
 </blockquote>Lara Kate Astom`,
 
 `<img src="images/cole.jpg" class="image"></img>`,
+
+`<img src="images/puff.jpg" class="image"></img>`,
 ]
 
 
