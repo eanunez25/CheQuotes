@@ -3927,6 +3927,10 @@ plastic surgery and sushi, never be attracted by a bargain.
 `<img src="images/cole.jpg" class="image"></img>`,
 
 `<img src="images/puff.jpg" class="image"></img>`,
+
+`<blockquote>
+Those who are wise won't be busy, and those who are too busy can't be wise
+</blockquote>Lin Yutang`,
 ]
 
 
