@@ -3931,6 +3931,10 @@ plastic surgery and sushi, never be attracted by a bargain.
 `<blockquote>
 Those who are wise won't be busy, and those who are too busy can't be wise
 </blockquote>Lin Yutang`,
+
+`<blockquote>
+  If the day ends with a "y", it's a good day for a run
+</blockquote>`,
 ]
 
 
