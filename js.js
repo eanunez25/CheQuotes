@@ -3935,6 +3935,10 @@ Those who are wise won't be busy, and those who are too busy can't be wise
 `<blockquote>
   If the day ends with a "y", it's a good day for a run
 </blockquote>`,
+
+`<blockquote>
+  Do you know what I need for my knee? Some tequila.
+</blockquote>Pope Francis`,
 ]
 
 
