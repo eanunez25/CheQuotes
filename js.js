@@ -3939,6 +3939,10 @@ Those who are wise won't be busy, and those who are too busy can't be wise
 `<blockquote>
   Do you know what I need for my knee? Some tequila.
 </blockquote>Pope Francis`,
+
+`<blockquote>
+  Be a pineapple. Stand tall, wear a crown, and be sweet in the inside. 
+</blockquote>`,
 ]
 
 
