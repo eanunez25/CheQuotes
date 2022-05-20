@@ -3943,6 +3943,10 @@ Those who are wise won't be busy, and those who are too busy can't be wise
 `<blockquote>
   Be a pineapple. Stand tall, wear a crown, and be sweet in the inside. 
 </blockquote>`,
+
+`<blockquote>
+The foot feels the foot when it feels the ground
+</blockquote>Buddha`,
 ]
 
 
