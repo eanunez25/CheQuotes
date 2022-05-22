@@ -3953,6 +3953,10 @@ The result is an absence of checks and balances in Russia, and the
 decision of one man to launch a wholly unjustified and brutal 
 invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 </blockquote>George W Bush`,
+
+`<blockquote>
+  It takes a long time to become young
+</blockquote>Pablo Picasso`,
 ]
 
 
