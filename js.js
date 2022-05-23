@@ -3957,6 +3957,10 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 `<blockquote>
   It takes a long time to become young
 </blockquote>Pablo Picasso`,
+
+`<blockquote>
+  The sad truth is that the truth is sad
+</blockquote>Lemony Snicket`,
 ]
 
 
