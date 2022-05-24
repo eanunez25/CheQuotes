@@ -3961,6 +3961,11 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 `<blockquote>
   The sad truth is that the truth is sad
 </blockquote>Lemony Snicket`,
+
+`<blockquote>
+  Just because you're trash doesn't mean you can't do great things. 
+  It is called garbage can, not garbage cannot
+</blockquote>`,
 ]
 
 
