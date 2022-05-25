@@ -3966,6 +3966,10 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
   Just because you're trash doesn't mean you can't do great things. 
   It is called garbage can, not garbage cannot
 </blockquote>`,
+
+`<img src="images/guns.jpg" class="image"></img>`,
+
+
 ]
 
 
