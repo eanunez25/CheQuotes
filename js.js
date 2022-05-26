@@ -3969,6 +3969,8 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 
 `<img src="images/guns.jpg" class="image"></img>`,
 
+`<img src="images/tan.jpg" class="image"></img>`,
+
 
 ]
 
