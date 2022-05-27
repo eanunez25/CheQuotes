@@ -3971,6 +3971,11 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 
 `<img src="images/tan.jpg" class="image"></img>`,
 
+`<blockquote>
+  When the cops came, the cop said: "Yell if you need help!" And one of the persons in my class
+  said "help". The guy overheard and he came in and shot her.
+</blockquote>a fourth grader`,
+
 
 ]
 
