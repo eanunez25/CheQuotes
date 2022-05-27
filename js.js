@@ -3976,7 +3976,10 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
   said "help". The guy overheard and he came in and shot her.
 </blockquote>a fourth grader`,
 
-
+`<blockquote>
+  Some patients are going to die and you just have to learn to accept that
+  it's just part of being an optometrist
+</blockquote>`,
 ]
 
 
