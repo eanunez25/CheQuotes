@@ -3980,6 +3980,11 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
   Some patients are going to die and you just have to learn to accept that
   it's just part of being an optometrist
 </blockquote>`,
+
+`<blockquote>
+  One great thing about Texas heat is that you can guarantee no one 
+  is waiting in your back seat to kill you
+</blockquote>`,
 ]
 
 
