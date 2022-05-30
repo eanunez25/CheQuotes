@@ -3985,6 +3985,10 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
   One great thing about Texas heat is that you can guarantee no one 
   is waiting in your back seat to kill you
 </blockquote>`,
+
+`<blockquote>
+  You didn't come this far to only come this far
+</blockquote>Mick Kremling`,
 ]
 
 
