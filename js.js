@@ -3989,6 +3989,10 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 `<blockquote>
   You didn't come this far to only come this far
 </blockquote>Mick Kremling`,
+
+`<blockquote>
+  Life is too easy. I must find a way to make it much harder. 
+</blockquote>marathoners`,
 ]
 
 
