@@ -3993,6 +3993,11 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 `<blockquote>
   Life is too easy. I must find a way to make it much harder. 
 </blockquote>marathoners`,
+
+`<blockquote>
+  An economist is an expert who will know tomorrow why the things he predicted
+  yesterday didn't happen today
+</blockquote>Laurence Peter`,
 ]
 
 
