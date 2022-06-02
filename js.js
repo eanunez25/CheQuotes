@@ -3998,6 +3998,8 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
   An economist is an expert who will know tomorrow why the things he predicted
   yesterday didn't happen today
 </blockquote>Laurence Peter`,
+
+`<img src="images/fly.jpg" class="image"></img>`,
 ]
 
 
