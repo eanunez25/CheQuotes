@@ -4010,6 +4010,10 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
   At mile 24, I knew I was dead. At mile 26.2, I realized I had become too 
   tough to kill.
 </blockquote>`,
+
+`<blockquote>
+  Pokemon Go was the closest we have been to world peace
+</blockquote>`,
 ]
 
 
