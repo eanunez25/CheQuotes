@@ -4014,6 +4014,10 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 `<blockquote>
   Pokemon Go was the closest we have been to world peace
 </blockquote>`,
+
+`<blockquote>
+Many ideas were conceived at sushi joints.
+</blockquote>`,
 ]
 
 
