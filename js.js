@@ -4018,6 +4018,8 @@ invasion of Iraq—I mean of Ukraine. Iraq too. Anyway, I'm 75
 `<blockquote>
 Many ideas were conceived at sushi joints.
 </blockquote>`,
+
+`<img src="images/cereal.jpg" class="image"></img>`,
 ]
 
 
