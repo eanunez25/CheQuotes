@@ -4020,6 +4020,8 @@ Many ideas were conceived at sushi joints.
 </blockquote>`,
 
 `<img src="images/cereal.jpg" class="image"></img>`,
+
+`<img src="images/purple.jpg" class="image"></img>`,
 ]
 
 
