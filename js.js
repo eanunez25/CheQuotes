@@ -4027,6 +4027,16 @@ Many ideas were conceived at sushi joints.
  the price of gas is so high that it would be cheaper to buy cocaine and 
  just run everywhere 
 </blockquote>John Kennedy`,
+
+`<blockquote>
+Eat at a local restaurant tonight. Get the cream sauce. Have a cold 
+pint at 4 o’clock in a mostly empty bar. Go somewhere you’ve never been. 
+Listen to someone you think may have nothing in common with you. Order 
+the steak rare. Eat an oyster. Have a Negroni. Have two. Be open to a 
+world where you may not understand or agree with the person next to you, 
+but have a drink with them anyways. Eat slowly. Tip your server. Check in 
+on your friends. Check in on yourself. Enjoy the ride.
+</blockquote>Anthony Bourdain`,
 ]
 
 
