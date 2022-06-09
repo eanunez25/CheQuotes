@@ -4037,6 +4037,10 @@ world where you may not understand or agree with the person next to you,
 but have a drink with them anyways. Eat slowly. Tip your server. Check in 
 on your friends. Check in on yourself. Enjoy the ride.
 </blockquote>Anthony Bourdain`,
+
+`<blockquote>
+  A good pun is it's own reword
+</blockquote>`,
 ]
 
 
