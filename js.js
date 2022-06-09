@@ -4022,6 +4022,11 @@ Many ideas were conceived at sushi joints.
 `<img src="images/cereal.jpg" class="image"></img>`,
 
 `<img src="images/purple.jpg" class="image"></img>`,
+
+`<blockquote>
+ the price of gas is so high that it would be cheaper to buy cocaine and 
+ just run everywhere 
+</blockquote>John Kennedy`,
 ]
 
 
