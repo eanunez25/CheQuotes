@@ -4041,6 +4041,11 @@ on your friends. Check in on yourself. Enjoy the ride.
 `<blockquote>
   A good pun is it's own reword
 </blockquote>`,
+
+`<blockquote>
+  That money talk, I'll not deny <br>
+  I heard it once, it said, 'Goodbye'
+</blockquote>Richard Armour`,
 ]
 
 
