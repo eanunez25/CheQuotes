@@ -4046,6 +4046,8 @@ on your friends. Check in on yourself. Enjoy the ride.
   That money talk, I'll not deny <br>
   I heard it once, it said, 'Goodbye'
 </blockquote>Richard Armour`,
+
+`<img src="images/melon.jpg" class="image"></img>`,
 ]
 
 
