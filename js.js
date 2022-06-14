@@ -4048,6 +4048,11 @@ on your friends. Check in on yourself. Enjoy the ride.
 </blockquote>Richard Armour`,
 
 `<img src="images/melon.jpg" class="image"></img>`,
+
+`<blockquote>
+  The depressing thing about tennis is that no matter how good you get, 
+  you'll never be as good as a wall
+</blockquote>Mitch Hedberg`,
 ]
 
 
