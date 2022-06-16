@@ -4055,6 +4055,10 @@ on your friends. Check in on yourself. Enjoy the ride.
 </blockquote>Mitch Hedberg`,
 
 `<img src="images/3.jpg" class="image"></img>`,
+
+`<blockquote>
+  Elephants are not people, but bees are fish
+</blockquote>New York State of Appeals`,
 ]
 
 
