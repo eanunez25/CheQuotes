@@ -4059,6 +4059,10 @@ on your friends. Check in on yourself. Enjoy the ride.
 `<blockquote>
   Elephants are not people, but bees are fish
 </blockquote>New York State of Appeals`,
+
+`<blockquote>
+  The fridge is the perfect example of what matters is on the inside
+</blockquote>El Arroyo`,
 ]
 
 
