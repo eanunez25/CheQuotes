@@ -4063,6 +4063,10 @@ on your friends. Check in on yourself. Enjoy the ride.
 `<blockquote>
   The fridge is the perfect example of what matters is on the inside
 </blockquote>El Arroyo`,
+
+`<blockquote>
+  Dogs are forever in the push up position
+</blockquote>Mitch Hedberg`,
 ]
 
 
