@@ -4067,6 +4067,8 @@ on your friends. Check in on yourself. Enjoy the ride.
 `<blockquote>
   Dogs are forever in the push up position
 </blockquote>Mitch Hedberg`,
+
+`<img src="images/foil.jpg" class="image"></img>`,
 ]
 
 
