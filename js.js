@@ -4069,6 +4069,10 @@ on your friends. Check in on yourself. Enjoy the ride.
 </blockquote>Mitch Hedberg`,
 
 `<img src="images/foil.jpg" class="image"></img>`,
+
+`<blockquote>
+  Wings should never, ever be baked. Bake cookies, not wings.
+</blockquote>Dirty Buffalo`,
 ]
 
 
