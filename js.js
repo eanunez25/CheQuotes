@@ -4073,6 +4073,10 @@ on your friends. Check in on yourself. Enjoy the ride.
 `<blockquote>
   Wings should never, ever be baked. Bake cookies, not wings.
 </blockquote>Dirty Buffalo`,
+
+`<blockquote>
+  The tans will but the memories Can-cun last forever
+</blockquote>`,
 ]
 
 
