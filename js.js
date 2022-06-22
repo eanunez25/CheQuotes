@@ -4077,6 +4077,10 @@ on your friends. Check in on yourself. Enjoy the ride.
 `<blockquote>
   The tans will but the memories Can-cun last forever
 </blockquote>`,
+
+`<blockquote>
+Cleanliness is next to managerliness
+</blockquote>Spongebob`,
 ]
 
 
