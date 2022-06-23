@@ -4081,6 +4081,8 @@ on your friends. Check in on yourself. Enjoy the ride.
 `<blockquote>
 Cleanliness is next to managerliness
 </blockquote>Spongebob`,
+
+`<img src="images/heat.jpg" class="image"></img>`,
 ]
 
 
