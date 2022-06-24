@@ -4083,6 +4083,10 @@ Cleanliness is next to managerliness
 </blockquote>Spongebob`,
 
 `<img src="images/heat.jpg" class="image"></img>`,
+
+`<blockquote>
+It’s not only about dog training. It’s about people training too.
+</blockquote>Leila Grandemange`,
 ]
 
 
