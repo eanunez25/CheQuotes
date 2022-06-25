@@ -4087,6 +4087,10 @@ Cleanliness is next to managerliness
 `<blockquote>
 It’s not only about dog training. It’s about people training too.
 </blockquote>Leila Grandemange`,
+
+`<blockquote>
+If men could get pregnant, abortion would be a sacrament.
+</blockquote>Florence Kennedy`,
 ]
 
 
