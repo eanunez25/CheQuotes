@@ -4091,6 +4091,11 @@ It’s not only about dog training. It’s about people training too.
 `<blockquote>
 If men could get pregnant, abortion would be a sacrament.
 </blockquote>Florence Kennedy`,
+
+`<blockquote>
+  90% of what can kill us on this Earth luckily for us lives in some distant
+  place called Australia
+</blockquote>`,
 ]
 
 
