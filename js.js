@@ -4096,6 +4096,10 @@ If men could get pregnant, abortion would be a sacrament.
   90% of what can kill us on this Earth luckily for us lives in some distant
   place called Australia
 </blockquote>`,
+
+`<blockquote>
+Everything and anything you want to do, you can do it in Las Vegas.
+</blockquote>Drew Carey`,
 ]
 
 
