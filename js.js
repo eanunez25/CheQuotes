@@ -4100,6 +4100,8 @@ If men could get pregnant, abortion would be a sacrament.
 `<blockquote>
 Everything and anything you want to do, you can do it in Las Vegas.
 </blockquote>Drew Carey`,
+
+`<img src="images/body.jpg" class="image"></img>`,
 ]
 
 
