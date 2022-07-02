@@ -4111,6 +4111,10 @@ Everything and anything you want to do, you can do it in Las Vegas.
 Man, I really like Vegas.
 
 </blockquote>Elvis Presley`,
+
+`<blockquote>
+  We travel not to escape life, but for life not to escape us.
+</blockquote>`,
 ]
 
 
