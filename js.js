@@ -4115,6 +4115,10 @@ Man, I really like Vegas.
 `<blockquote>
   We travel not to escape life, but for life not to escape us.
 </blockquote>`,
+
+`<blockquote>
+  Vacation calories don't count
+</blockquote>`,
 ]
 
 
