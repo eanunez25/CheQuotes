@@ -4126,6 +4126,10 @@ Man, I really like Vegas.
   just try and hold on to your lead. But prevent defense just prevents you
   from winning! It's always better to try something.
 </blockquote>Jason Mendoza`,
+
+`<blockquote>
+  Life is hard and cold. Boobs are soft and warm.
+</blockquote>`,
 ]
 
 
