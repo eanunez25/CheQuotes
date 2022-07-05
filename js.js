@@ -4130,6 +4130,8 @@ Man, I really like Vegas.
 `<blockquote>
   Life is hard and cold. Boobs are soft and warm.
 </blockquote>`,
+
+`<img src="images/fourth.jpg" class="image"></img>`,
 ]
 
 
