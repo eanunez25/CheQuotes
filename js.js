@@ -4132,6 +4132,10 @@ Man, I really like Vegas.
 </blockquote>`,
 
 `<img src="images/fourth.jpg" class="image"></img>`,
+
+`<blockquote>
+  Sleep is the best meditation
+</blockquote>Dalai Lama`,
 ]
 
 
