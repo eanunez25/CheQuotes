@@ -4136,6 +4136,10 @@ Man, I really like Vegas.
 `<blockquote>
   Sleep is the best meditation
 </blockquote>Dalai Lama`,
+
+`<blockquote>
+  I learn from the mistakes of people who took my advice
+</blockquote>`,
 ]
 
 
