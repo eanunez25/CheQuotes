@@ -4144,6 +4144,11 @@ Man, I really like Vegas.
 `<blockquote>
   I never drink water because of the disgusting things that fish do in it
 </blockquote>`,
+
+`<blockquote>
+  If aliens saw us walking our dogs and picking up their poop, who would they 
+  think is in charge?
+</blockquote>`,
 ]
 
 
