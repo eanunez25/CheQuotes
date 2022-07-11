@@ -4153,6 +4153,12 @@ Man, I really like Vegas.
 `<blockquote>
   real eyes realise real lies
 </blockquote>`,
+
+`<blockquote>
+  Two percent of people think, three percent of people think that they think, 
+  and ninty-five percent of people would rather die than think
+</blockquote>`,
+
 ]
 
 
