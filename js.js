@@ -4167,6 +4167,10 @@ Man, I really like Vegas.
   "AF" if my favorite unit of measurement
 </blockquote>`,
 
+`<blockquote>
+  Outside is scary and inside is lonely, we need a third place
+</blockquote>Donni Saphire`,
+
 ]
 
 
