@@ -4171,6 +4171,10 @@ Man, I really like Vegas.
   Outside is scary and inside is lonely, we need a third place
 </blockquote>Donni Saphire`,
 
+`<blockquote>
+  People care about people who care about themselves
+</blockquote>`,
+
 ]
 
 
