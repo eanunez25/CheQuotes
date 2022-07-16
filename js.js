@@ -4175,6 +4175,7 @@ Man, I really like Vegas.
   People care about people who care about themselves
 </blockquote>`,
 
+`<img src="images/sun.jpg" class="image"></img>`,
 ]
 
 
