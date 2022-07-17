@@ -4176,6 +4176,11 @@ Man, I really like Vegas.
 </blockquote>`,
 
 `<img src="images/sun.jpg" class="image"></img>`,
+
+`<blockquote>
+  The long run teaches you how to handle suffering. This may be running's
+  greatest gift of all.
+</blockquote>Michael D' Aulerio`,
 ]
 
 
