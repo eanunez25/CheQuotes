@@ -4181,6 +4181,10 @@ Man, I really like Vegas.
   The long run teaches you how to handle suffering. This may be running's
   greatest gift of all.
 </blockquote>Michael D' Aulerio`,
+
+`<blockquote>
+  75% of arguments start because someone hasn't eaten yet
+</blockquote>`,
 ]
 
 
