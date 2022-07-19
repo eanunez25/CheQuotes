@@ -4185,6 +4185,10 @@ Man, I really like Vegas.
 `<blockquote>
   75% of arguments start because someone hasn't eaten yet
 </blockquote>`,
+
+`<blockquote>
+  You have to be odd to be number one
+</blockquote>`,
 ]
 
 
