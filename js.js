@@ -4189,6 +4189,10 @@ Man, I really like Vegas.
 `<blockquote>
   You have to be odd to be number one
 </blockquote>`,
+
+`<blockquote>
+  Life is like sex. It's not always good but it's always worth trying.
+</blockquote>Pamela Anderson`,
 ]
 
 
