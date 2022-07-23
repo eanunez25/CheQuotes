@@ -4199,6 +4199,10 @@ Man, I really like Vegas.
 </blockquote>`,
 
 `<img src="images/10.jpg" class="image"></img>`,
+
+`<blockquote>
+  My dentist said I'm grinding even when I'm asleep
+</blockquote>`,
 ]
 
 
