@@ -4203,6 +4203,10 @@ Man, I really like Vegas.
 `<blockquote>
   My dentist said I'm grinding even when I'm asleep
 </blockquote>`,
+
+`<blockquote>
+  This can't be the same heat Whitney Houston wanted to feel with somebody
+</blockquote>`,
 ]
 
 
