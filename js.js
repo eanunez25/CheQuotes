@@ -4207,6 +4207,12 @@ Man, I really like Vegas.
 `<blockquote>
   This can't be the same heat Whitney Houston wanted to feel with somebody
 </blockquote>`,
+
+`<blockquote>
+  Take excellent care of the front end of your day and the rest of the day
+  will pretty much take care of itself
+</blockquote>Robin Sharma`,
+
 ]
 
 
