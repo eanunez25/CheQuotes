@@ -4222,6 +4222,10 @@ Man, I really like Vegas.
   Dobbie is a free elf
 </blockquote>Dobbie`,
 
+`<blockquote>
+  If it's not fun, why bother?
+</blockquote>Reggie Fils-Aime`,
+
 ]
 
 
