@@ -4226,6 +4226,8 @@ Man, I really like Vegas.
   If it's not fun, why bother?
 </blockquote>Reggie Fils-Aime`,
 
+
+`<img src="images/body.png" class="image"></img>`,
 ]
 
 
