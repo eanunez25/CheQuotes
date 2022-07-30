@@ -4228,6 +4228,10 @@ Man, I really like Vegas.
 
 
 `<img src="images/body.png" class="image"></img>`,
+
+`<blockquote>
+  My life has been full of terrible misfortunes, most of which never happened
+</blockquote>Montaigne`,
 ]
 
 
