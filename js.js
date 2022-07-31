@@ -4232,6 +4232,13 @@ Man, I really like Vegas.
 `<blockquote>
   My life has been full of terrible misfortunes, most of which never happened
 </blockquote>Montaigne`,
+
+`<blockquote>
+  It's not success that leads to happiness, but our happiness that leads to success. 
+  Happier people are better at work and progress further in their careers.
+  They're better at home and better in their relationships. So we should
+  all just be happy all the time. 
+</blockquote>Adam Jones`,
 ]
 
 
