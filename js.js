@@ -4239,6 +4239,10 @@ Man, I really like Vegas.
   They're better at home and better in their relationships. So we should
   all just be happy all the time. 
 </blockquote>Adam Jones`,
+
+`<blockquote>
+  Be fearful when others are greedy and greedy when others are fearful
+</blockquote>Warren Buffet`,
 ]
 
 
