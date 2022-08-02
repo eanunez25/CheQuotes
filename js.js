@@ -4243,6 +4243,12 @@ Man, I really like Vegas.
 `<blockquote>
   Be fearful when others are greedy and greedy when others are fearful
 </blockquote>Warren Buffet`,
+
+`<blockquote>
+  Whether a mile or a marathon, you get there the same way... one step at a time.
+  Such is life.
+</blockquote>Baylor Barbee`,
+
 ]
 
 
