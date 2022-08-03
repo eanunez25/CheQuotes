@@ -4249,6 +4249,8 @@ Man, I really like Vegas.
   Such is life.
 </blockquote>Baylor Barbee`,
 
+`<img src="images/chicken.jpg" class="image"></img>`,
+
 ]
 
 
