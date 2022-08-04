@@ -4251,6 +4251,10 @@ Man, I really like Vegas.
 
 `<img src="images/chicken.jpg" class="image"></img>`,
 
+`<blockquote>
+A queen is never late, everyone else is simply early
+</blockquote>Queen Clarisse Renaldi`,
+
 ]
 
 
