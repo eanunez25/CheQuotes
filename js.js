@@ -4255,6 +4255,10 @@ Man, I really like Vegas.
 A queen is never late, everyone else is simply early
 </blockquote>Queen Clarisse Renaldi`,
 
+`<blockquote>
+  It's Friday, time to make stories for Monday
+</blockquote>`,
+
 ]
 
 
