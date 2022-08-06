@@ -4259,6 +4259,10 @@ A queen is never late, everyone else is simply early
   It's Friday, time to make stories for Monday
 </blockquote>`,
 
+`<blockquote>
+  The secret of your success if found in your daily routine
+</blockquote>Adam Jones`,
+
 ]
 
 
