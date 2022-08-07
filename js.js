@@ -4263,6 +4263,10 @@ A queen is never late, everyone else is simply early
   The secret of your success if found in your daily routine
 </blockquote>Adam Jones`,
 
+`<blockquote>
+  There is not enough time to do all the nothing we want to do
+</blockquote>Bill Watterson`,
+
 ]
 
 
