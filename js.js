@@ -4267,6 +4267,10 @@ A queen is never late, everyone else is simply early
   There is not enough time to do all the nothing we want to do
 </blockquote>Bill Watterson`,
 
+`<blockquote>
+  I cannot afford to waste my time making money
+</blockquote>Louis Agassiz`,
+
 ]
 
 
