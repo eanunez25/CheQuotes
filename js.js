@@ -4271,6 +4271,10 @@ A queen is never late, everyone else is simply early
   I cannot afford to waste my time making money
 </blockquote>Louis Agassiz`,
 
+`<blockquote>
+  with great cuteness comes no responsibility
+</blockquote>`,
+
 ]
 
 
