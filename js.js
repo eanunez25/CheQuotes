@@ -4280,6 +4280,10 @@ A queen is never late, everyone else is simply early
 </blockquote>Malu`,
 
 `<img src="images/vegas.jpg" class="image"></img>`,
+
+`<blockquote>
+  Blackjack is a hard way to make an easy living
+</blockquote>Brian Dunson`,
 ]
 
 
