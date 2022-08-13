@@ -4284,6 +4284,10 @@ A queen is never late, everyone else is simply early
 `<blockquote>
   Blackjack is a hard way to make an easy living
 </blockquote>Brian Dunson`,
+
+`<blockquotes>
+  Whatever happens in Vegas, stays in Las Vegas
+</blockquotes>Bruno Mars`,
 ]
 
 
