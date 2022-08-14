@@ -4288,6 +4288,10 @@ A queen is never late, everyone else is simply early
 `<blockquotes>
   Whatever happens in Vegas, stays in Las Vegas
 </blockquotes>Bruno Mars`,
+
+`<blockquote>
+  you can get better and older... or just older
+</blockquote>`,
 ]
 
 
