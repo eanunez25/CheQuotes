@@ -4292,6 +4292,10 @@ A queen is never late, everyone else is simply early
 `<blockquote>
   you can get better and older... or just older
 </blockquote>`,
+
+`<blockquote>
+  sucks getting old
+</blockquote>overheard in ER`,
 ]
 
 
