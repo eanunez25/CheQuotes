@@ -4298,6 +4298,28 @@ A queen is never late, everyone else is simply early
 </blockquote>overheard in ER`,
 
 `<img src="images/bub.png" class="image"></img>`,
+
+`<blockquote>
+  Sometimes you have to spend money you don't have to make it seem like
+  you have money you don't spend
+</blockquote>Randall Park`,
+
+`<blockquote>
+  Your 30s is just your 20s with money
+</blockquote>`,
+
+`<blockquote>
+  Couples who churn together stay together
+</blockquote>`,
+
+`<blockquote>
+  The first 20 years after you start running are the hardest
+</blockquote>Amanda Brooks`,
+
+`<blockquote>
+  Banana is such an aggressive fruit, you can add 15 fruits to a blender
+  but add 1 banana and it's a banana smoothie
+</blockquote>Joshua Greene`,
 ]
 
 
