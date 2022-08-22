@@ -4320,6 +4320,10 @@ A queen is never late, everyone else is simply early
   Banana is such an aggressive fruit, you can add 15 fruits to a blender
   but add 1 banana and it's a banana smoothie
 </blockquote>Joshua Greene`,
+
+`<blockquote>
+  Tip the world over on its side and everything loose will land in Los Angeles
+</blockquote>Frank Lloyd Wright`,
 ]
 
 
