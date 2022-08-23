@@ -4324,6 +4324,10 @@ A queen is never late, everyone else is simply early
 `<blockquote>
   Tip the world over on its side and everything loose will land in Los Angeles
 </blockquote>Frank Lloyd Wright`,
+
+`<blockquote>
+  Do or not do. There is no try.
+</blockquote>Yoda`,
 ]
 
 
