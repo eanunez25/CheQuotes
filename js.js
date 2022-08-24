@@ -4328,6 +4328,12 @@ A queen is never late, everyone else is simply early
 `<blockquote>
   Do or not do. There is no try.
 </blockquote>Yoda`,
+
+`<blockquote>
+  It's opener there, in the wide open air.<br>
+  Out there things can happen, and frequently do<br>
+  to people as brainy and footsy as you.
+</blockquote>Dr. Seuss`,
 ]
 
 
