@@ -4338,6 +4338,10 @@ A queen is never late, everyone else is simply early
 `<blockquote>
   Stressed spelled backwards is desserts
 </blockquote>`,
+
+`<blockquote>
+  My fashion philosophy is: if you're not covered in dog hair, your life is empty.
+</blockquote>Elayne Boosler`,
 ]
 
 
