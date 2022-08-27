@@ -4342,6 +4342,10 @@ A queen is never late, everyone else is simply early
 `<blockquote>
   My fashion philosophy is: if you're not covered in dog hair, your life is empty.
 </blockquote>Elayne Boosler`,
+
+`<blockquote>
+  A nickel ain't worth a dime anymore
+</blockquote>Yogi Berra`,
 ]
 
 
