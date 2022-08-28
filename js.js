@@ -4346,6 +4346,11 @@ A queen is never late, everyone else is simply early
 `<blockquote>
   A nickel ain't worth a dime anymore
 </blockquote>Yogi Berra`,
+
+`<blockquote>
+  It's not a Sunday unless you completely waste it 
+  then feel really sad around 8pm
+</blockquote>`,
 ]
 
 
