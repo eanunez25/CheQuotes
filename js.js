@@ -4351,6 +4351,10 @@ A queen is never late, everyone else is simply early
   It's not a Sunday unless you completely waste it 
   then feel really sad around 8pm
 </blockquote>`,
+
+`<blockquote>
+  Days do by slowly, years go by quickly
+</blockquote>`,
 ]
 
 
