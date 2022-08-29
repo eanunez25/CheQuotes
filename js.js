@@ -4353,7 +4353,7 @@ A queen is never late, everyone else is simply early
 </blockquote>`,
 
 `<blockquote>
-  Days do by slowly, years go by quickly
+  Days go by slowly, years go by quickly
 </blockquote>`,
 ]
 
