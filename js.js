@@ -4355,6 +4355,10 @@ A queen is never late, everyone else is simply early
 `<blockquote>
   Days go by slowly, years go by quickly
 </blockquote>`,
+
+`<blockquote>
+  Quality is remembered long after price is forgotten
+</blockquote>Aldo Gucci`,
 ]
 
 
