@@ -4364,6 +4364,10 @@ A queen is never late, everyone else is simply early
 August 29, 2001: Albert Pujols hits a home run and Serena Williams wins at the US Open.<br><br>
 August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the US Open.
 </blockquote>`,
+
+`<blockquote>
+  They hate us cuz they ain't us
+</blockquote>`,
 ]
 
 
