@@ -4368,6 +4368,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   They hate us cuz they ain't us
 </blockquote>`,
+
+`<blockquote>
+  You can always acquire more money, but you can never acquire more time
+</blockquote>`,
 ]
 
 
