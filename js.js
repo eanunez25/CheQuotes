@@ -4372,6 +4372,12 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   You can always acquire more money, but you can never acquire more time
 </blockquote>`,
+
+`<blockquote>
+  The future of successful businesses will only have two employees, a man, and a dog. 
+  The man will be there to feed the dog. The dog will be there to keep that
+  man from touching the equipment.
+</blockquote>Warren Bennis`,
 ]
 
 
