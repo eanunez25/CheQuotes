@@ -4378,6 +4378,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
   The man will be there to feed the dog. The dog will be there to keep that
   man from touching the equipment.
 </blockquote>Warren Bennis`,
+
+`<blockquote>
+  Beyonce wrote "Crazy in Love" in just two hours
+</blockquote>`,
 ]
 
 
