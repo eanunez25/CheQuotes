@@ -4382,6 +4382,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   Beyonce wrote "Crazy in Love" in just two hours
 </blockquote>`,
+
+`<blockquote>
+  Nothing will work unless you do
+</blockquote>Maya Angelou`,
 ]
 
 
