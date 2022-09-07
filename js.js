@@ -4390,6 +4390,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   My alma mater was books
 </blockquote>Malcolm X`,
+
+`<blockquote>
+  To alcohol! The cause and solution to all of life's problems.
+</blockquote>Homer Simpson`,
 ]
 
 
