@@ -4394,6 +4394,11 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   To alcohol! The cause and solution to all of life's problems.
 </blockquote>Homer Simpson`,
+
+`<blockquote>
+  This whole country is a strip club. You've got people tossing the money
+  and people doing the dance.
+</blockquote>J Lo`,
 ]
 
 
