@@ -4399,6 +4399,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
   This whole country is a strip club. You've got people tossing the money
   and people doing the dance.
 </blockquote>J Lo`,
+
+`<blockquote>
+  I have to be seen to be believed
+</blockquote>Queen Elizabeth II`,
 ]
 
 
