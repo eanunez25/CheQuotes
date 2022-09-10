@@ -4405,9 +4405,9 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 </blockquote>Queen Elizabeth II`,
 
 `<blockquote>
-  Safe sex is great sex
-  Better wear a latex
-  Cause you don't want that late text
+  Safe sex is great sex<br>
+  Better wear a latex<br>
+  Cause you don't want that late text<br>
   That "I think I'm late" text
 </blockquote>Lil Wayne`,
 ]
