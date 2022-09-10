@@ -4403,6 +4403,13 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   I have to be seen to be believed
 </blockquote>Queen Elizabeth II`,
+
+`<blockquote>
+  Safe sex is great sex
+  Better wear a latex
+  Cause you don't want that late text
+  That "I think I'm late" text
+</blockquote>Lil Wayne`,
 ]
 
 
