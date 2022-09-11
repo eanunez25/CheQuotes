@@ -4410,6 +4410,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
   Cause you don't want that late text<br>
   That "I think I'm late" text
 </blockquote>Lil Wayne`,
+
+`<blockquote>
+  If someone is hotter than you, you are cooler than them
+</blockquote>`,
 ]
 
 
