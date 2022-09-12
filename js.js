@@ -4414,6 +4414,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   If someone is hotter than you, you are cooler than them
 </blockquote>`,
+
+`<blockquote>
+  No parent should outlive their Tamogotchi
+</blockquote>`,
 ]
 
 
