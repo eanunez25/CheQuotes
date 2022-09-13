@@ -4418,6 +4418,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   No parent should outlive their Tamogotchi
 </blockquote>`,
+
+`<blockquote>
+  The more you run, the more tacos you can eat
+</blockquote>`,
 ]
 
 
