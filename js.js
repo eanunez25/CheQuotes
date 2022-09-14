@@ -4422,6 +4422,14 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   The more you run, the more tacos you can eat
 </blockquote>`,
+
+`<blockquote>
+  farts are just ghosts of the things we ate
+</blockquote>`,
+
+`<blockquote>
+  someone's therapist knows about you
+</blockquote>`,
 ]
 
 
