@@ -4434,6 +4434,10 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   a strong butt is the key to a happy life
 </blockquote>Dr. Jordan Metzl`,
+
+`<blockquote>
+  Your future self is watching you right now through your memories
+</blockquote>`,
 ]
 
 
