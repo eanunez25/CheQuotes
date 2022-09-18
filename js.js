@@ -4438,6 +4438,11 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   Your future self is watching you right now through your memories
 </blockquote>`,
+
+`<blockquote>
+  I only have one rule: never screw over a girl whose last name ends in 
+  a vowel, because she's got brothers.
+</blockquote>Barney Stinson`,
 ]
 
 
