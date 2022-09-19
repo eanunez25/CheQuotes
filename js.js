@@ -4443,6 +4443,16 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
   I only have one rule: never screw over a girl whose last name ends in 
   a vowel, because she's got brothers.
 </blockquote>Barney Stinson`,
+
+`<blockquote>
+  We squint at the sun because its bright<br>
+  We squint at people because they aren't
+</blockquote>`,
+
+`<blockquote>
+  'Mickey' is a nickname and nicknames are for friends. Michael Mouse 
+  is no friend of mine
+</blockquote>Kevin Magnet`,
 ]
 
 
