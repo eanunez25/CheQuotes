@@ -4457,7 +4457,7 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
 `<blockquote>
   Victor Hugo wrote in the nude as a form of motivation. He was a horrible
   procrastinator so he would lock himself in a room and have his clothes taken
-  as encouragement ot get his work done.
+  as encouragement to get his work done.
 </blockquote>`,
 ]
 
