@@ -4459,6 +4459,18 @@ August 29, 2022: Albert Pujols hits a home run and Serena Williams wins at the U
   procrastinator so he would lock himself in a room and have his clothes taken
   as encouragement to get his work done.
 </blockquote>`,
+
+`<blockquote>
+I cannot remember the books I've read any more than the meals I have 
+eaten; even so, they have made me.
+</blockquote>Ralph Waldo Emerson`,
+
+`<blockquote>
+You’re under no obligation to be the same person 
+you were five minutes ago.
+</blockquote>Alan Watts`,
+
+
 ]
 
 
