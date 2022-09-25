@@ -4476,6 +4476,10 @@ you were five minutes ago.
   I like Florida. Everything is in the 80's: the temperatures, the ages,
   and the IQ's
 </blockquote>George Carlin`,
+
+`<blockquote>
+  Monday: chest day- God's favorite muscle
+</blockquote>`,
 ]
 
 
