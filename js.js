@@ -4471,6 +4471,11 @@ you were five minutes ago.
 </blockquote>Alan Watts`,
 
 `<img src="images/ironman.jpg" class="image"></img>`,
+
+`<blockquote>
+  I like Florida. Everything is in the 80's: the temperatures, the ages,
+  and the IQ's
+</blockquote>George Carlin`,
 ]
 
 
