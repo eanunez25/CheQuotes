@@ -4480,6 +4480,11 @@ you were five minutes ago.
 `<blockquote>
   Monday: chest day- God's favorite muscle
 </blockquote>`,
+
+`<blockquote>
+  The Adam Levine thing doesn't affect my faith in love, as long as 
+  Ryan Reynolds doesn't cheat on Blake everything will be fine
+</blockquote>`,
 ]
 
 
