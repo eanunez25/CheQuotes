@@ -4485,6 +4485,15 @@ you were five minutes ago.
   The Adam Levine thing doesn't affect my faith in love, as long as 
   Ryan Reynolds doesn't cheat on Blake everything will be fine
 </blockquote>`,
+
+`<blockquote>
+  Make America gay again
+</blockquote>Donald Trump`, 
+
+`<blockquote>
+Men! It's like if there weren't pickle jars to open and spiders to 
+kill and computers to back up, what would be their point?
+</blockquote>Marshall Eriksen`,
 ]
 
 
