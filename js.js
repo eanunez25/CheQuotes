@@ -4487,7 +4487,7 @@ you were five minutes ago.
 </blockquote>`,
 
 `<blockquote>
-  Make America gay again
+  We have to keep our country gay
 </blockquote>Donald Trump`, 
 
 `<blockquote>
