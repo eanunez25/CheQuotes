@@ -4494,6 +4494,11 @@ you were five minutes ago.
 Men! It's like if there weren't pickle jars to open and spiders to 
 kill and computers to back up, what would be their point?
 </blockquote>Marshall Eriksen`,
+
+`<blockquote>
+  The Philipoines is home to the slwoest marathon runners in the world, 
+  with an average finish time of about 5 hours and 25 minutes.
+</blockquote>livestrong.com`,
 ]
 
 
