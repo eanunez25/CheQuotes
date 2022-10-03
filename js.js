@@ -4509,6 +4509,10 @@ kill and computers to back up, what would be their point?
 `<blockquote>
   Shrek and Fiona chose to be ogres over being white
 </blockquote>Ocky`,
+
+`<blockquote>
+  Chuck Norris killed 2 stones with 1 bird
+</blockquote>`,
 ]
 
 
