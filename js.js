@@ -4513,6 +4513,26 @@ kill and computers to back up, what would be their point?
 `<blockquote>
   Chuck Norris killed 2 stones with 1 bird
 </blockquote>`,
+
+`<blockquote>
+  Chuck Norris’ password is the last 9 digits of pi
+</blockquote>`,
+
+`<blockquote>
+  When Superman gets ready for bed, he puts on his Chuck Norris pajamas
+</blockquote>`,
+
+`<blockquote>
+Chuck Norris actually died 10 years ago. The reaper ist too scared to tell him.
+</blockquote>`,
+
+`<blockquote>
+  Chuck Norris can speak braille in French to deaf people who died last week underwater
+</blockquote>`,
+
+`<blockquote>
+When Chuck Norris was born he drove his mother home from the hospital.
+</blockquote>`,
 ]
 
 
