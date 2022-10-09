@@ -4533,6 +4533,10 @@ Chuck Norris actually died 10 years ago. The reaper ist too scared to tell him.
 `<blockquote>
 When Chuck Norris was born he drove his mother home from the hospital.
 </blockquote>`,
+
+`<blockquote>
+Oedipus’ mother has a Chuck Norris complex.
+</blockquote>`,
 ]
 
 
