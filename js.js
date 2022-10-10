@@ -4537,6 +4537,10 @@ When Chuck Norris was born he drove his mother home from the hospital.
 `<blockquote>
 Oedipus’ mother has a Chuck Norris complex.
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris went to the Virgin Islands. Now they’re just called ‘the Islands’
+</blockquote>`,
 ]
 
 
