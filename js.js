@@ -4541,6 +4541,14 @@ Oedipus’ mother has a Chuck Norris complex.
 `<blockquote>
 Chuck Norris went to the Virgin Islands. Now they’re just called ‘the Islands’
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris knows Victoria’s secret
+</blockquote>`,
+
+`<blockquote>
+It took 9 women 4 years to give birth to Chuck Norris
+</blockquote>`,
 ]
 
 
