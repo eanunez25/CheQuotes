@@ -4549,6 +4549,22 @@ Chuck Norris knows Victoria’s secret
 `<blockquote>
 It took 9 women 4 years to give birth to Chuck Norris
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris has a bear skin rug. The bear's not dead, just too afraid to move.
+</blockquote>`,
+
+`<blockquote>
+The first opening 30 minutes of “Saving Private Ryan” was loosely based on a game of Dodgeball played by Chuck Norris in the 3rd grade
+</blockquote>`,
+
+`<blockquote>
+Chuck Norris can run a 4 minute mile in two minutes.
+</blockquote>`,
+
+`<blockquote>
+Chuck Norris actually died 10 years ago. The reaper ist too scared to tell him.
+</blockquote>`,
 ]
 
 
