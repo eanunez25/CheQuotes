@@ -4565,6 +4565,10 @@ Chuck Norris can run a 4 minute mile in two minutes.
 `<blockquote>
 Chuck Norris actually died 10 years ago. The reaper ist too scared to tell him.
 </blockquote>`,
+
+`<blockquote>
+  Chuck Norris once threw a grenade that killed 5 people, and then it exploded.
+</blockquote>`,
 ]
 
 
