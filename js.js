@@ -4569,6 +4569,10 @@ Chuck Norris actually died 10 years ago. The reaper ist too scared to tell him.
 `<blockquote>
   Chuck Norris once threw a grenade that killed 5 people, and then it exploded.
 </blockquote>`,
+
+`<blockquote>
+When Chuck Norris’s daughter lost her virginity, he got it back.
+</blockquote>`,
 ]
 
 
