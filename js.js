@@ -4573,6 +4573,18 @@ Chuck Norris actually died 10 years ago. The reaper ist too scared to tell him.
 `<blockquote>
 When Chuck Norris’s daughter lost her virginity, he got it back.
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris has been to Mars. That’s why there are no signs of life
+</blockquote>`,
+
+`<blockquote>
+Chuck Norris was in every Star Wars movie. He played the force
+</blockquote>`,
+
+`<blockquote>
+When Chuck Norris turned 18, his parents moved out
+</blockquote>`,
 ]
 
 
