@@ -4585,6 +4585,10 @@ Chuck Norris was in every Star Wars movie. He played the force
 `<blockquote>
 When Chuck Norris turned 18, his parents moved out
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris uses one chopstick
+</blockquote>`,
 ]
 
 
