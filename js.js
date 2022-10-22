@@ -4589,6 +4589,10 @@ When Chuck Norris turned 18, his parents moved out
 `<blockquote>
 Chuck Norris uses one chopstick
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris doesn’t use a vibrating toothbrush. His plastic one trembles in fear.
+</blockquote>`,
 ]
 
 
