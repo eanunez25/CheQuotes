@@ -4593,6 +4593,10 @@ Chuck Norris uses one chopstick
 `<blockquote>
 Chuck Norris doesn’t use a vibrating toothbrush. His plastic one trembles in fear.
 </blockquote>`,
+
+`<blockquote>
+When Alexander Graham Bell invented the telephone, he had two missed calls from Chuck Norris
+</blockquote>`,
 ]
 
 
