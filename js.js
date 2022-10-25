@@ -4597,6 +4597,10 @@ Chuck Norris doesn’t use a vibrating toothbrush. His plastic one trembles in f
 `<blockquote>
 When Alexander Graham Bell invented the telephone, he had two missed calls from Chuck Norris
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris’ tears cure cancer, it is just a pity he has never cried
+</blockquote>`,
 ]
 
 
