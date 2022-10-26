@@ -4601,6 +4601,18 @@ When Alexander Graham Bell invented the telephone, he had two missed calls from 
 `<blockquote>
 Chuck Norris’ tears cure cancer, it is just a pity he has never cried
 </blockquote>`,
+
+`<blockquote>
+When Chuck Norris is nearby, woodchucks insist on using their formal 
+name Woodland Charles, as to not risk offence.
+</blockquote>`,
+
+`<blockquote>
+Chuck Norris and Superman once agreed to a fight, the loser had to 
+wear their underwear on the outside of their pants.
+</blockquote>`,
+
+
 ]
 
 
