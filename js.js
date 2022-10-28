@@ -4612,7 +4612,9 @@ Chuck Norris and Superman once agreed to a fight, the loser had to
 wear their underwear on the outside of their pants.
 </blockquote>`,
 
-
+`<blockquote>
+There are no jokes about Chuck Norris. It's all true.
+</blockquote>`,
 ]
 
 
