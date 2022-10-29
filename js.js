@@ -4615,6 +4615,11 @@ wear their underwear on the outside of their pants.
 `<blockquote>
 There are no jokes about Chuck Norris. It's all true.
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris once roundhouse kicked so fast it broke the speed of light, 
+went back in time, and killed Amelia Earhart.
+</blockquote>`,
 ]
 
 
