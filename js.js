@@ -4620,6 +4620,10 @@ There are no jokes about Chuck Norris. It's all true.
 Chuck Norris once roundhouse kicked so fast it broke the speed of light, 
 went back in time, and killed Amelia Earhart.
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris had a paper route as a kid. There were no survivors.
+</blockquote>`,
 ]
 
 
