@@ -4624,6 +4624,10 @@ went back in time, and killed Amelia Earhart.
 `<blockquote>
 Chuck Norris had a paper route as a kid. There were no survivors.
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris can get Chick-fil-A on Sundays
+</blockquote>`,
 ]
 
 
