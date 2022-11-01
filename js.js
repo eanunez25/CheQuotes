@@ -4628,6 +4628,10 @@ Chuck Norris had a paper route as a kid. There were no survivors.
 `<blockquote>
 Chuck Norris can get Chick-fil-A on Sundays
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris can win a game of connect 4 in 3 moves.
+</blockquote>`,
 ]
 
 
