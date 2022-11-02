@@ -4636,6 +4636,16 @@ Chuck Norris can win a game of connect 4 in 3 moves.
 `<blockquote>
 Chuck Norris makes onions cry
 </blockquote>`,
+
+`<blockquote>
+There is no theory of evolution, just a list of creatures 
+Chuck Norris allows to live.
+</blockquote>`,
+
+`<blockquote>
+  Chuck Norris once gave a box of watches to a group of kids. They 
+  are now known as the Power Rangers.
+</blockquote>`,
 ]
 
 
