@@ -4646,6 +4646,16 @@ Chuck Norris allows to live.
   Chuck Norris once gave a box of watches to a group of kids. They 
   are now known as the Power Rangers.
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris makes a lot of money selling his urine, it is called Red Bull.
+</blockquote>`,
+
+`<blockquote>
+Chuck Norris’ cowboy boots are made of real cowboys
+</blockquote>`,
+
+
 ]
 
 
