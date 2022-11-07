@@ -4655,6 +4655,10 @@ Chuck Norris makes a lot of money selling his urine, it is called Red Bull.
 Chuck Norris’ cowboy boots are made of real cowboys
 </blockquote>`,
 
+`<blockquote>
+Chuck Norris keeps a diary. It's known as the Guinness Book of Records.
+</blockquote>`,
+
 
 ]
 
