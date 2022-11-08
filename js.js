@@ -4659,6 +4659,10 @@ Chuck Norris’ cowboy boots are made of real cowboys
 Chuck Norris keeps a diary. It's known as the Guinness Book of Records.
 </blockquote>`,
 
+`<blockquote>
+Chuck Norris donates blood every month. Just not his own.
+</blockquote>`,
+
 
 ]
 
