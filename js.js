@@ -4663,7 +4663,9 @@ Chuck Norris keeps a diary. It's known as the Guinness Book of Records.
 Chuck Norris donates blood every month. Just not his own.
 </blockquote>`,
 
-
+`<blockquote>
+Chuck Norris once had a race with time. Time is still running.
+</blockquote>`,
 ]
 
 
