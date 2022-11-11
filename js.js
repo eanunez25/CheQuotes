@@ -4675,6 +4675,15 @@ Chuck Norris pee'd his name in the snow at Aspen. He was standing in Dallas.
 Chuck Norris' dog once ran into the street, and a car got ran over by it
 </blockquote>`,
 
+`<blockquote>
+Chuck Norris' cat has 10 lives. Chuck Norris has 346,903. 
+He's still on life #1 and so is his 97 yr old cat.
+</blockquote>`,
+
+`<blockquote>
+Chuck Norris demands a 29th day of February every 4 years. 
+We call this leap year. It's true name is leapspinkick year.
+</blockquote>`,
 ]
 
 
