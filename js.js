@@ -4670,6 +4670,11 @@ Chuck Norris once had a race with time. Time is still running.
 `<blockquote>
 Chuck Norris pee'd his name in the snow at Aspen. He was standing in Dallas.
 </blockquote>`,
+
+`<blockquote>
+Chuck Norris' dog once ran into the street, and a car got ran over by it
+</blockquote>`,
+
 ]
 
 
