@@ -4684,6 +4684,15 @@ He's still on life #1 and so is his 97 yr old cat.
 Chuck Norris demands a 29th day of February every 4 years. 
 We call this leap year. It's true name is leapspinkick year.
 </blockquote>`,
+
+`<blockuqote>
+  A few guys tried to follow Chuck Norris during a light workout while 
+  he was on vacatin in Hawaii. It's now called the Ironman Triathlon.
+</blockuqote>`,
+
+`<blockquote>
+When Chuck Norris heard about Child Abuse, he made Aduld Abuse.
+</blockquote>`,
 ]
 
 
