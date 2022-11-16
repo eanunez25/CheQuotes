@@ -4693,6 +4693,14 @@ We call this leap year. It's true name is leapspinkick year.
 `<blockquote>
 When Chuck Norris heard about Child Abuse, he made Aduld Abuse.
 </blockquote>`,
+
+`<blockquote>
+The 'Fifty Shades of Grey' trilogy is loosly based on 
+Chuck Norris' prepubescent years.
+</blockquote>`,
+
+
+
 ]
 
 
