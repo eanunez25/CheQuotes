@@ -4699,7 +4699,10 @@ The 'Fifty Shades of Grey' trilogy is loosly based on
 Chuck Norris' prepubescent years.
 </blockquote>`,
 
-
+`<blockquote>
+Chuck Norris doesn't lock his doors at home. 
+He encourages intruders as much as possible.
+</blockquote>`,
 
 ]
 
