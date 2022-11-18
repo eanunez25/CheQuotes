@@ -4704,6 +4704,16 @@ Chuck Norris doesn't lock his doors at home.
 He encourages intruders as much as possible.
 </blockquote>`,
 
+`<blockquote>
+If a tree falls in the woods, not only did Chuck Norris hear it, 
+he probably kicked it over too.
+</blockquote>`,
+
+`<blockquote>
+Chuck Norris' motto: "The difficult I do immediately. 
+The impossible takes 3 seconds longer".
+</blockquote>`,
+
 ]
 
 
