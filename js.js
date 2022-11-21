@@ -4719,6 +4719,10 @@ When a telemarketer phones Chuck Norris' number,
 the first thing they hear is the pleading voice of one their loved ones.
 </blockquote>`,
 
+`<blockquote>
+Chuck Norris is the reason the BeeGees sing "Staying Alive"
+</blockquote>`,
+
 ]
 
 
