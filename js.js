@@ -4723,6 +4723,16 @@ the first thing they hear is the pleading voice of one their loved ones.
 Chuck Norris is the reason the BeeGees sing "Staying Alive"
 </blockquote>`,
 
+`<blockquote>
+If you have five dollars and Chuck Norris has five dollars, 
+Chuck Norris has more money than you.
+</blockquote>`,
+
+`<blockquote>
+  Chuck Norris once urinated in the gas tank of a semi truck. That 
+  truck is now known as Optimus Prime.
+</blockquote>`,
+
 ]
 
 
