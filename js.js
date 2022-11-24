@@ -4733,6 +4733,10 @@ Chuck Norris has more money than you.
   truck is now known as Optimus Prime.
 </blockquote>`,
 
+`<blockquote>
+  Chuck Norris can cook a frozen turkey in 15 minutes with a candle
+</blockquote>`,
+
 ]
 
 
