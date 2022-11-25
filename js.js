@@ -4737,6 +4737,11 @@ Chuck Norris has more money than you.
   Chuck Norris can cook a frozen turkey in 15 minutes with a candle
 </blockquote>`,
 
+`<blockquote>
+  Chuck Norris does not have an oven or microwave because revenge
+  is a dish best served cold
+</blockquote>`,
+
 ]
 
 
