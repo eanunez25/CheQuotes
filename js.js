@@ -4742,6 +4742,16 @@ Chuck Norris has more money than you.
   is a dish best served cold
 </blockquote>`,
 
+`<blockquote>
+For some, the left testicle is larger than the right one. 
+For Chuck Norris, each testicle is larger than the other one.
+</blockquote>`,
+
+`<blockquote>
+  Chuck Norris roundhouse kicked the world once. 
+  It hasn't stopped spinning since.
+</blockquote>`,
+
 ]
 
 
