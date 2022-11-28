@@ -4752,6 +4752,10 @@ For Chuck Norris, each testicle is larger than the other one.
   It hasn't stopped spinning since.
 </blockquote>`,
 
+`<blockquote>
+Jesus might of walked on water, but chuck norris swims through land.
+</blockquote>`,
+
 ]
 
 
