@@ -4756,6 +4756,11 @@ For Chuck Norris, each testicle is larger than the other one.
 Jesus might of walked on water, but chuck norris swims through land.
 </blockquote>`,
 
+`<blockquote>
+Chuck Norris died yesterday.<br>
+But he's already feeling better.
+</blockquote>`,
+
 ]
 
 
