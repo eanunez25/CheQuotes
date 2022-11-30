@@ -4761,6 +4761,10 @@ Chuck Norris died yesterday.<br>
 But he's already feeling better.
 </blockquote>`,
 
+`<blockquote>
+  Chuck Norris refers to himself in the fourth person
+</blockquote>`,
+
 ]
 
 
