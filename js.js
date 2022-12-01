@@ -4765,6 +4765,10 @@ But he's already feeling better.
   Chuck Norris refers to himself in the fourth person
 </blockquote>`,
 
+`<blockquote>
+  December, the Friday of the months
+</blockquote>`,
+
 ]
 
 
