@@ -4769,6 +4769,14 @@ But he's already feeling better.
   December, the Friday of the months
 </blockquote>`,
 
+`<blockquote>
+How did it get so late so soon? <br>
+It's night before it's afternoon. <br>
+December is here before it's June. <br>
+My goodness how the time has flewn. <br>
+How did it get so late so soon?
+</blockquote>Dr. Seuss`,
+
 ]
 
 
