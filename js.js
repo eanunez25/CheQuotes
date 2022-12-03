@@ -4776,6 +4776,12 @@ December is here before it's June. <br>
 My goodness how the time has flewn. <br>
 How did it get so late so soon?
 </blockquote>Dr. Seuss`,
+  
+ `<blockquote>
+  needed some tweezers<br>
+  spenty ninty bucks at target<br>
+  guess what i forgot
+ </blockquote>ean`,
 
 ]
 
