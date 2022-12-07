@@ -4797,6 +4797,10 @@ see better.
 Kids in back seats cause accidents, accidents in back seats cause kids.
 </blockquote>`,
 
+`<blockquote>
+Sex is like money; only too much is enough.
+</blockquote>John Updike`,
+
 ]
 
 
