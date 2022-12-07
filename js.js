@@ -4801,6 +4801,10 @@ Kids in back seats cause accidents, accidents in back seats cause kids.
 Sex is like money; only too much is enough.
 </blockquote>John Updike`,
 
+`<blockquote>
+  Stay hungry. Stay foolish. 
+</blockquote>Steve Jobs`,
+
 ]
 
 
