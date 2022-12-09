@@ -4808,6 +4808,11 @@ Sex is like money; only too much is enough.
  `<blockquote>
   If there is a watermelon, why isn't there a earthmelon, firemelon, and airmelon? You know- the elemelons. 
  </blockquote>Dzintra Sullivan`,
+  
+ `<blockquote>
+  No matter how bad it gets, 
+  I'm always rich at the dollar store
+ <blockquote>`,
 
 ]
 
