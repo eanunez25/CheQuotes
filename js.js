@@ -4804,6 +4804,10 @@ Sex is like money; only too much is enough.
 `<blockquote>
   Stay hungry. Stay foolish. 
 </blockquote>Steve Jobs`,
+  
+ `<blockquote>
+  If there is a watermelon, why isn't there a earthmelon, firemelon, and airmelon? You know- the elemelons. 
+ </blockquote>Dzintra Sullivan`,
 
 ]
 
