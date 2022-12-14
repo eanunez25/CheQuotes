@@ -4825,6 +4825,10 @@ Sex is like money; only too much is enough.
  `<blockquote>
   Those who Bulvgarian split squat will be given a thicc, joocy dumpy
  </blockquote>Legdaylations 1:05`,  
+
+ `<blockquote>
+   Every cigarette you smoke takes 7 minutes off your student debt loan
+ </blockquote>`,
 ]
 
 
