@@ -4837,6 +4837,11 @@ Sex is like money; only too much is enough.
    Our exes be sad<br>
    And the new b<span id="blur">it</span>ches bad
  </blockquote>`,
+
+ `<blockquote>
+   If you can make her laugh and giggle, <br>
+   You can make that a<span id="blur">ss</span> clap and jiggle
+ </blockquote>`,
 ]
 
 
