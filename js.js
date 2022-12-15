@@ -4829,6 +4829,14 @@ Sex is like money; only too much is enough.
  `<blockquote>
    Every cigarette you smoke takes 7 minutes off your student debt loan
  </blockquote>`,
+
+ `<blockquote>
+   This is to our success:<br>
+   May our bros be glad<br>
+   Our ops be mad<br>
+   Our exes be sad<br>
+   And the new b<span id="blur">it</span>ches bad
+ </blockquote>`,
 ]
 
 
