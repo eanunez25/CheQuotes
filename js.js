@@ -4842,6 +4842,11 @@ Sex is like money; only too much is enough.
    If you can make her laugh and giggle, <br>
    You can make that a<span id="blur">ss</span> clap and jiggle
  </blockquote>`,
+
+ `<blockquote>
+   A year from now, you're gonna weigh more or less than 
+   what you do right now.
+ </blockquote>Phil McGraw`,
 ]
 
 
