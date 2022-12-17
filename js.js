@@ -4847,6 +4847,10 @@ Sex is like money; only too much is enough.
    A year from now, you're gonna weigh more or less than 
    what you do right now.
  </blockquote>Phil McGraw`,
+  
+ `<blockquote>
+  Men are like waffles. Women are like spaghetti.
+ </blockquote>Pam Farrel`
 ]
 
 
