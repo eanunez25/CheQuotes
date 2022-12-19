@@ -4851,6 +4851,10 @@ Sex is like money; only too much is enough.
  `<blockquote>
   Men are like waffles. Women are like spaghetti.
  </blockquote>Pam Farrel`
+  
+ `<blockquote>
+   The less clothes you wear, the better the runner you are. 
+ </blockquote>`,
 ]
 
 
