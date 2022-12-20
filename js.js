@@ -4852,6 +4852,10 @@ Sex is like money; only too much is enough.
  `<blockquote>
    The less clothes you wear, the better the runner you are. 
  </blockquote>`,
+  
+  `<blockquote>
+    Always read something that will make you look good if you die in the middle of it.
+  </blockquote>P. J. O'Rourke`,
 ]
 
 
