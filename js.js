@@ -4865,6 +4865,10 @@ Sex is like money; only too much is enough.
   Think about the bread<br>
   keep the hoes on read
 </blockquote>`,
+
+`<blockquote>
+  small dick, big dreams
+</blockquote>Bernard Remorin`,
 ]
 
 
