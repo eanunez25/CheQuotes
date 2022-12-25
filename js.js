@@ -4869,6 +4869,10 @@ Sex is like money; only too much is enough.
 `<blockquote>
   small dick, big dreams
 </blockquote>Bernard Remorin`,
+
+`<blockquote>
+  You can't spell Christmas without ritas
+</blockquote>`,
 ]
 
 
