@@ -4890,6 +4890,11 @@ Sex is like money; only too much is enough.
   let it grow<br>
   let it grow
 </blockquote>`,
+
+`<blockquote>
+  Strippers work to become nurses. Nurses quit to become strippers. <br>
+  It's the circle of life. 
+</blockquote>`,
 ]
 
 
