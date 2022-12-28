@@ -4881,6 +4881,15 @@ Sex is like money; only too much is enough.
 `<blockquote>
   a burrito is just a modest taco
 </blockquote>`,
+
+`<blockquote>
+  oh the weather outside is frightful<br>
+  but the gains are so delightful<br>
+  since we've no place to go<br>
+  let it grow<br>
+  let it grow<br>
+  let it grow
+</blockquote>`,
 ]
 
 
