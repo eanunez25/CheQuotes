@@ -4902,6 +4902,10 @@ Sex is like money; only too much is enough.
 </blockquote>`,
 
 `<img src="images/run.jpeg" class="image"></img>`,
+  
+`<blockquote>
+  Youth is when you're allowed to stay up late on New Year's Eve. Middle age is when you're forced to.
+</blockquote>Bill Vaughan`,
 ]
 
 
