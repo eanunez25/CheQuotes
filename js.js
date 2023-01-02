@@ -4906,6 +4906,14 @@ Sex is like money; only too much is enough.
 `<blockquote>
   Youth is when you're allowed to stay up late on New Year's Eve. Middle age is when you're forced to.
 </blockquote>Bill Vaughan`,
+
+`<blockquote>
+  Doing curls might get you girls<br>
+  But training legs will get you sex<br>
+  For doing squats and hip thrusts are definite musts<br>
+  And the stronger the dumpy<br>
+  The more power to humpy
+</blockquote>Legdaylations 9:45`,
 ]
 
 
