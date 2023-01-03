@@ -4914,6 +4914,12 @@ Sex is like money; only too much is enough.
   And the stronger the dumpy<br>
   The more power to humpy
 </blockquote>Legdaylations 9:45`,
+  
+`<blockquote>
+  Haters gonna hate<br>
+  Potatoes gonna potate<br>
+  Who cares
+</blockquote>`,
 ]
 
 
