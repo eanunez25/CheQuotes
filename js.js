@@ -4917,8 +4917,7 @@ Sex is like money; only too much is enough.
   
 `<blockquote>
   Haters gonna hate<br>
-  Potatoes gonna potate<br>
-  Who cares
+  Potatoes gonna potate
 </blockquote>`,
 ]
 
