@@ -4919,6 +4919,10 @@ Sex is like money; only too much is enough.
   Haters gonna hate<br>
   Potatoes gonna potate
 </blockquote>`,
+  
+`<blockquote>
+  Always remember that you are absolutely unique. Just like everyone else.
+</blockquote>Margaret Mead`,
 ]
 
 
