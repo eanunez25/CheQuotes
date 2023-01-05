@@ -4923,6 +4923,10 @@ Sex is like money; only too much is enough.
 `<blockquote>
   Always remember that you are absolutely unique. Just like everyone else.
 </blockquote>Margaret Mead`,
+  
+`<blockquote>
+  I’m at a place in my life when errands are starting to count as going out.
+</blockquote>`,
 ]
 
 
