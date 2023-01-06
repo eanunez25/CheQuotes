@@ -4927,6 +4927,10 @@ Sex is like money; only too much is enough.
 `<blockquote>
   I’m at a place in my life when errands are starting to count as going out.
 </blockquote>`,
+  
+`<blockquote>
+  If something's worth doing, it's worth doing poorly
+</blockquote>`,
 ]
 
 
