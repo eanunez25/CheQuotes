@@ -4931,6 +4931,10 @@ Sex is like money; only too much is enough.
 `<blockquote>
   If something's worth doing, it's worth doing poorly
 </blockquote>`,
+  
+`<blockquote>
+  I'm so lucky. Everything works in my favor.
+</blockquote>Monica Silverio`,
 ]
 
 
