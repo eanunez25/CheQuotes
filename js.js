@@ -4935,6 +4935,11 @@ Sex is like money; only too much is enough.
 `<blockquote>
   I'm so lucky. Everything works in my favor.
 </blockquote>Monica Silverio`,
+  
+`<blockquote>
+  Say what you will about boys’ clubs or toxic masculinity. Any two men will eventually 
+  get along if you give them enough time alone (and alcohol)
+</blockquote>u/DavyJonesRocker`,
 ]
 
 
