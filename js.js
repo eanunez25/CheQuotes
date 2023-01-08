@@ -4940,6 +4940,11 @@ Sex is like money; only too much is enough.
   Say what you will about boys’ clubs or toxic masculinity. Any two men will eventually 
   get along if you give them enough time alone (and alcohol)
 </blockquote>u/DavyJonesRocker`,
+  
+`<blockquote>
+  DINK = double income no kids
+  DINK WAD = double income with no kids with a dog
+</blockquote>Ness Baker`,
 ]
 
 
