@@ -4942,7 +4942,7 @@ Sex is like money; only too much is enough.
 </blockquote>u/DavyJonesRocker`,
   
 `<blockquote>
-  DINK = double income no kids
+  DINK = double income no kids<br>
   DINK WAD = double income with no kids with a dog
 </blockquote>Ness Baker`,
 ]
