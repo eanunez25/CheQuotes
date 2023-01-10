@@ -4949,6 +4949,10 @@ Sex is like money; only too much is enough.
 `<blockquote>
   UUGUHHUHHFLALLGGLG^LLGLAH^GAHPPP^thh^h^h^h^h^h^h^h^h^
 </blockquote>King Joffrey Baratheon`,
+  
+`<blockquote>
+  The problem isn't the problem
+</blockquote>`,
 ]
 
 
