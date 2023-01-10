@@ -4945,6 +4945,10 @@ Sex is like money; only too much is enough.
   DINK = double income no kids<br>
   DINK WAD = double income with no kids with a dog
 </blockquote>Ness Baker`,
+  
+`<blockquote>
+  UUGUHHUHHFLALLGGLG^LLGLAH^GAHPPP^thh^h^h^h^h^h^h^h^h^
+</blockquote>King Joffrey Baratheon`,
 ]
 
 
