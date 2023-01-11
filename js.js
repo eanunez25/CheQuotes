@@ -4955,7 +4955,8 @@ Sex is like money; only too much is enough.
 </blockquote>`,
   
 `<blockquote>
-  the smallest decisions can compound into significant differences over a lifetime
+  the smallest decisions can compound into significant differences 
+  over a lifetime
 </blockquote>Alpha Waymond Wang`,
 ]
 
