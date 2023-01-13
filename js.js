@@ -4960,8 +4960,10 @@ Sex is like money; only too much is enough.
 </blockquote>Alpha Waymond Wang`,
   
 `<blockquote>
-
-</blockquote>`,
+  Don’t do drugs, don’t have sex, and don’t touch your eyebrows.
+</blockquote>Emilia Clarke, Daenerys Stormborn of House Targaryen, the First of Her Name, 
+Queen of the Andals and the First Men, Protector of the Seven Kingdoms, the Mother of Dragons, 
+the Khaleesi of the Great Grass Sea, the Unburnt, the Breaker of Chains `,
 ]
 
 
