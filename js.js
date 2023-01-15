@@ -4968,6 +4968,10 @@ the Khaleesi of the Great Grass Sea, the Unburnt, the Breaker of Chains `,
 `<blockquote>
   Life's pretty good, and why wouldn't it be? I'm a pirate after all.
 </blockquote>Johnny Depp`,
+
+`<blockquote>
+  Happy least productive day of the week
+</blockquote>`,
 ]
 
 
