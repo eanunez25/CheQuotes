@@ -4972,6 +4972,17 @@ the Khaleesi of the Great Grass Sea, the Unburnt, the Breaker of Chains `,
 `<blockquote>
   Happy least productive day of the week
 </blockquote>`,
+  
+`<blockquote>
+  The Filipino blood is so strong
+</blockquote>R'Bonney Gabriel`,
+  
+`<blockquote>
+  Spongebob: What am I now?<br>
+  Patrick: Uh, stupid<br>
+  Spongebob: No, I'm Texas<br>
+  Patrick: What's the difference?
+</blockquote>`,
 ]
 
 
