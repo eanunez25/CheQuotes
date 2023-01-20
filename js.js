@@ -5000,6 +5000,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   The marathon is like a buffet. It's long, it's hard, and by the end of it, you're ready to take a nap.
 </blockquote>`,
+  
+`<blockquote>
+  In the first half of the race, don't be an idiot. In the second half, don't be a wimp.
+</blockquote>Scott Douglas`,
 ]
 
 
