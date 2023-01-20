@@ -4992,6 +4992,14 @@ the Khaleesi of the Great Grass Sea, the Unburnt, the Breaker of Chains `,
 When life gives you lemons, don't just make lemonade, <br>
 add some sugar and turn it into a lemon parade.
 </blockquote>AI generated motivational quote`,
+ 
+`<blockquote>
+  The only thing better than a slice of pie is sharing it with a friend.
+</blockquote>Stephanie Parsley Ledyard`,
+  
+`<blockquote>
+  The marathon is like a buffet. It's long, it's hard, and by the end of it, you're ready to take a nap.
+</blockquote>`,
 ]
 
 
