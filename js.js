@@ -5004,6 +5004,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   In the first half of the race, don't be an idiot. In the second half, don't be a wimp.
 </blockquote>Scott Douglas`,
+  
+`<blockquote>
+  I don't sweat, I sparkle
+</blockquote>`,
 ]
 
 
