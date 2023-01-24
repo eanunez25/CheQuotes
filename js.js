@@ -5008,6 +5008,14 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   I don't sweat, I sparkle
 </blockquote>`,
+
+`<blockquote>
+  Man is what he reads.
+</blockquote>Joseph Brodsky`,
+
+`<blockquote>
+  Never wear anything that panics the cat.
+</blockquote>P. J. O'Rourke`,
 ]
 
 
