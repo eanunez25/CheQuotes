@@ -5020,6 +5020,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Everytime you get dressed, remember that if you die that's your ghost outfit forever
 </blockquote>`,
+  
+`<blockquote>
+  Don't blame others for the road you're on. That's your own asphalt. 
+</blockquote>`,
 ]
 
 
