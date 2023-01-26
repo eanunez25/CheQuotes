@@ -5016,6 +5016,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Never wear anything that panics the cat.
 </blockquote>P. J. O'Rourke`,
+  
+`<blockquote>
+  Everytime you get dressed, remember that if you die that's your ghost outfit forever
+</blockquote>`,
 ]
 
 
