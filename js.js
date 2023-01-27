@@ -5024,6 +5024,8 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Don't blame others for the road you're on. That's your own asphalt. 
 </blockquote>`,
+
+`<img src="images/fryer.jpeg" class="image"></img>`,
 ]
 
 
