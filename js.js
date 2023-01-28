@@ -5024,6 +5024,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Don't blame others for the road you're on. That's your own asphalt. 
 </blockquote>`,
+  
+`<blockquote>
+ Never name a street dog. They will follow you forever.
+</blockquote>Abuelita`,
 
 `<img src="images/fryer.jpeg" class="image"></img>`,
 ]
