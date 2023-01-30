@@ -5030,6 +5030,10 @@ add some sugar and turn it into a lemon parade.
 </blockquote>Abuelita`,
 
 `<img src="images/fryer.jpeg" class="image"></img>`,
+  
+`<blockquote>
+  When you use a bird to write with, it’s called tweeting.
+</blockquote>Maui`,
 ]
 
 
