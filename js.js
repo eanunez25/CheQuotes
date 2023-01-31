@@ -5038,6 +5038,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   The only time to eat diet food is while you're waiting for the steak to cook.
 </blockquote>Julia Child`,
+  
+`<blockquote>
+  You mess with the meow meow, you get the peow peow
+</blockquote>`,
 ]
 
 
