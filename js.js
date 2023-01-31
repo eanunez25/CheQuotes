@@ -5034,6 +5034,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   When you use a bird to write with, it’s called tweeting.
 </blockquote>Maui`,
+  
+`<blockquote>
+  The only time to eat diet food is while you're waiting for the steak to cook.
+</blockquote>Julia Child`,
 ]
 
 
