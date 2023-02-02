@@ -5044,9 +5044,9 @@ add some sugar and turn it into a lemon parade.
 </blockquote>`,
   
 `<blockquote>
-  Not yet, not yet
-  Not yet, not yet
-  Eat me now!!!
+  Not yet, not yet<br>
+  Not yet, not yet<br>
+  Eat me now!!!<br>
   Too late
 </blockquote>Avocados`,
   
