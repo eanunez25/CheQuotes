@@ -5042,6 +5042,13 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   You mess with the meow meow, you get the peow peow
 </blockquote>`,
+  
+`<blockquote>
+  Not yet, not yet
+  Not yet, not yet
+  Eat me now!!!
+  Too late
+</blockquote>Avocados`,
 ]
 
 
