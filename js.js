@@ -5049,6 +5049,14 @@ add some sugar and turn it into a lemon parade.
   Eat me now!!!
   Too late
 </blockquote>Avocados`,
+  
+`<blockquote>
+  It's better to be happy in sweatpants than be sad in jeans
+</blockquote>`,
+  
+`<blockquote>
+  We all have a favorite eyebrow
+</blockquote>`,
 ]
 
 
