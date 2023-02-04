@@ -5057,6 +5057,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   We all have a favorite eyebrow
 </blockquote>`,
+  
+`<blockquote>
+  Pants are an illusion and so is death
+</blockquote>Huu`,
 ]
 
 
