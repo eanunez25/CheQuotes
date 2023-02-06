@@ -5061,6 +5061,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Pants are an illusion and so is death
 </blockquote>Huu`,
+  
+`<blockquote>
+  A pun has not completely matured until it is full groan
+</blockquote>`,
 ]
 
 
