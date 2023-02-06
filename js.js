@@ -5065,6 +5065,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   A pun has not completely matured until it is full groan
 </blockquote>`,
+  
+`<blockquote>
+  Procrastinating pays off eventually
+</blockquote>`,
 ]
 
 
