@@ -5085,6 +5085,8 @@ add some sugar and turn it into a lemon parade.
 // `<blockquote></blockquote>`,
 // <a href="">link</a>
 
+// git remote update; git status -uno
+
 //  greetings ------------------------------------------------------------------------
 let anytimeGreetings = [
   "Yo",
@@ -5310,5 +5312,6 @@ console.log("Quotes to be filtered: " + toBeSorted.length);
 
 //  about ------------------------------------------------------------------------
 const about = document.querySelector(".about");
-const dayStreak = (Math.floor(dayDifference).toString() + " days.").bold()
-about.innerHTML = "Inspiring Rachael everyday with motivational quotes for the last " + dayStreak;
+const dayStreak = (Math.floor(dayDifference).toString() + " days ").bold()
+const yearStreak = ("(" + (dayDifference/365).toFixed(1).toString() + " years).")
+about.innerHTML = "Inspiring Rachael everyday with motivational quotes for the last " + dayStreak + yearStreak;
