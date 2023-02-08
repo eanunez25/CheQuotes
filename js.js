@@ -5069,6 +5069,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Procrastinating pays off eventually
 </blockquote>`,
+
+`<blockquote>
+  Americans don't have health insurance
+</blockquote>Joe Biden`,
 ]
 
 
