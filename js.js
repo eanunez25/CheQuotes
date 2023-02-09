@@ -5073,6 +5073,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Americans don't have health insurance
 </blockquote>Joe Biden`,
+
+`<blockquote>
+  It's a well-known fact that tall people are evil.
+</blockquote>Kevin Hart`,
 ]
 
 
