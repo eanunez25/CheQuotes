@@ -5077,6 +5077,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   It's a well-known fact that tall people are evil.
 </blockquote>Kevin Hart`,
+  
+`<blockquote>
+  SH<span id="blur">I</span>T
+</blockquote>Joe Goldberg`,
 ]
 
 
