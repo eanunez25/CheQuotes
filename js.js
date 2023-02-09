@@ -5081,6 +5081,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   SH<span id="blur">I</span>T
 </blockquote>Joe Goldberg`,
+  
+`<blockquote>
+  Remember the scary ting you did that one time? And after you did it, it wasn't so scary anymore.
+</blockquote>Joe Fairless`,
 ]
 
 
