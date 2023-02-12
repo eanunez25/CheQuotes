@@ -5083,7 +5083,7 @@ add some sugar and turn it into a lemon parade.
 </blockquote>Joe Goldberg`,
   
 `<blockquote>
-  Remember the scary ting you did that one time? And after you did it, it wasn't so scary anymore.
+  Remember the scary thing you did that one time? And after you did it, it wasn't so scary anymore.
 </blockquote>Joe Fairless`,
 ]
 
