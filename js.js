@@ -5085,6 +5085,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Remember the scary thing you did that one time? And after you did it, it wasn't so scary anymore.
 </blockquote>Joe Fairless`,
+
+`<blockquote>
+  football is 80 percent mental and 40 percent physical
+</blockquote>`,
 ]
 
 
