@@ -5100,6 +5100,10 @@ add some sugar and turn it into a lemon parade.
   It’s a known fact that lobsters fall in love and mate for life. 
   You can actually see old lobster couples, walking around their tank, holding claws.
 </blockquote>Phoebe Buffay`,
+  
+`<blockquote>
+  leaders are readers
+</blockquote>`,
 ]
 
 
