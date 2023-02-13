@@ -5089,6 +5089,17 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   football is 80 percent mental and 40 percent physical
 </blockquote>`,
+  
+`<blockquote>
+  When you become a mom, there’s something that just happens where you feel like you could take on the world — you can do anything,
+  and the Super Bowl is one of the biggest stages in the world, so as scary as that was, there’s something exhilarating about the challenge of it all.
+  It’s important for my son to see that.
+</blockquote>Rihanna`,
+  
+`<blockquote>
+  It’s a known fact that lobsters fall in love and mate for life. 
+  You can actually see old lobster couples, walking around their tank, holding claws.
+</blockquote>Phoebe Buffay`,
 ]
 
 
