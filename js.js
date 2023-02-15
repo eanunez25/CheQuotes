@@ -5104,6 +5104,8 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   leaders are readers
 </blockquote>`,
+
+`<img src="images/philly.jpg" class="image"></img>`,
 ]
 
 
