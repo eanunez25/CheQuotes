@@ -5106,6 +5106,10 @@ add some sugar and turn it into a lemon parade.
 </blockquote>`,
 
 `<img src="images/philly.jpg" class="image"></img>`,
+  
+`<blockquote>
+  BEAUTY IS IN THE EYE OF THE BEHOLDER
+</blockquote>Vlad`,
 ]
 
 
