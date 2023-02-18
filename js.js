@@ -5110,6 +5110,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   BEAUTY IS IN THE EYE OF THE BEHOLDER
 </blockquote>Vlad`,
+  
+`<blockquote>
+  Ramen
+</blockquote>Scooby Doo ending a prayer`,
 ]
 
 
