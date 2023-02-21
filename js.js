@@ -5122,6 +5122,23 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
    Did you know diarrhea is hereditary? It runs in your jeans
 </blockquote>Ellie`,
+  
+`<blockquote>
+   Okay. I was at a wine tasting with my cousin Ernesto. Which was mainly reds, and you know I don't like reds, man. 
+   But there was a rose that saved the day. It was delightful. And then he tells me about this girl, Emily, 
+   that we used to kick it with. It was actually the first pair of boobs I ever touched.
+   So, uh, he tells me that she's working as a housekeeper now, right? And she's dating this dude, Carlos, 
+   who's a shot caller from across the bay. And she tells him about the dude that she's cleaning for. Right? 
+   That he's like this big-shot CEO, that is all retired now, but he's loaded. And so, Carlos and Ernesto are on the same softball team, 
+   and they get to talking, right? And here comes the good part. Carlos says, "Yo, man. 
+   This guy's got a big-<span id="blur">a</span>ss safe just sitting in the basement, just chilling." Of course Ernesto comes to me because he knows I got mad 
+   thieving skills. Of course, I ask him... "Did Emily tell Carlos to tell you to get to me what kind of safe it was?" And he says, "Nah, dawg. 
+   All she said is that it's super-legit and whatever's in it it's gotta be good."
+</blockquote>Luis`,
+  
+`<blockquote>
+   My jewelry's all fake- from Claire's. Or I get it from my mom's boutique in Barbados.
+</blockquote>Rihanna`,
 ]
 
 
