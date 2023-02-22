@@ -5137,6 +5137,10 @@ add some sugar and turn it into a lemon parade.
 </blockquote>Luis`,
   
 `<blockquote>
+   Ants don't give up
+</blockquote>Hank`,
+  
+`<blockquote>
    My jewelry's all fake- from Claire's. Or I get it from my mom's boutique in Barbados.
 </blockquote>Rihanna`,
 ]
