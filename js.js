@@ -5143,6 +5143,20 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
    My jewelry's all fake- from Claire's. Or I get it from my mom's boutique in Barbados.
 </blockquote>Rihanna`,
+  
+`<blockquote>
+  Owners of dogs will have noticed that, if you provide them with food and water and shelter and affection, 
+  they will think you are god. Whereas owners of cats are compelled to realize that, if you provide them with food and water and shelter and affection, 
+  they draw the conclusion that they are gods.
+</blockquote>Christopher Hitchens`,
+  
+`<blockquote>
+  I never got why parents kept photos of their kids at work until my niece was born and I tried to tattoo her face on the inside of my eyelids
+</blockquote>Scaachi`,
+  
+`<blockquote>
+  Candy is dandy but liquor is quicker
+</blockquote>Ogden Nash`,
 ]
 
 
