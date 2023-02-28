@@ -5162,6 +5162,10 @@ add some sugar and turn it into a lemon parade.
   If you play golf, you're too poor for horses. You buy horses if you're too
   poor for sailing. If you are sailing, you're probably too poor for jets and yachts.
 </blockquote>German saying`,
+  
+`<blockquote>
+  True terror is to wake up one morning and discover that your high school class is running the country
+</blockquote>K. Vonnegut`,
 ]
 
 
