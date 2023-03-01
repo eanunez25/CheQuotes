@@ -5166,6 +5166,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   True terror is to wake up one morning and discover that your high school class is running the country
 </blockquote>K. Vonnegut`,
+  
+`<blockquote>
+  Today is the oldest you have been, and the youngest you will ever be.
+</blockquote>Nicky Gumbel`,
 ]
 
 
