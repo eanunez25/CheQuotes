@@ -5170,6 +5170,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Today is the oldest you have been, and the youngest you will ever be.
 </blockquote>Nicky Gumbel`,
+  
+`<blockquote>
+  Consistency
+</blockquote>`,
 ]
 
 
