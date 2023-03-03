@@ -5174,6 +5174,15 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Consistency
 </blockquote>`,
+  
+`<blockquote>
+  I usually take a two-hour nap from one to four.
+</blockquote>Yogi Berra`,
+  
+`<blockquote>
+  You can do anything, but not everything.
+</blockquote>David Allen`,  
+
 ]
 
 
