@@ -5182,7 +5182,14 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   You can do anything, but not everything.
 </blockquote>David Allen`,  
+  
+`<blockquote>
+  The biggest room in the world is the room for improvement
+</blockquote>`,
 
+`<blockquote>
+  Never fight with a dinosaur, you'll get jur<span id="blur">a</span>sskicked
+</blockquote>`,
 ]
 
 
