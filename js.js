@@ -5190,6 +5190,15 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Never fight with a dinosaur, you'll get jur<span id="blur">a</span>sskicked
 </blockquote>`,
+  
+`<blockquote>
+  Early to rise, early to bed, makes a man healthy, wealthy, and dead.
+</blockquote>James Thurber`,
+  
+`<blockquote>
+  Dogs have no money. They’re broke their entire lives. You know why dogs have no money? No pockets
+</blockquote>Jerry Seinfeld`,
+
 ]
 
 
