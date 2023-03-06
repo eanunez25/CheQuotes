@@ -5186,6 +5186,14 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   The biggest room in the world is the room for improvement
 </blockquote>`,
+  
+`<blockquote>
+  Murder is like potato chips: you can't stop with just one.
+</blockquote>Stephen King`,
+  
+`<blockquote>
+  Foot to human is a root to tree
+</blockquote>Footy Rooty`,
 
 `<blockquote>
   Never fight with a dinosaur, you'll get jur<span id="blur">a</span>sskicked
