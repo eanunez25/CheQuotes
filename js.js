@@ -5207,6 +5207,10 @@ add some sugar and turn it into a lemon parade.
   Dogs have no money. They’re broke their entire lives. You know why dogs have no money? No pockets
 </blockquote>Jerry Seinfeld`,
 
+`<blockquote>
+  Find what you love and let it kill you
+</blockquote>You season 4`,
+
 ]
 
 
