@@ -5214,6 +5214,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   I love love handles
 </blockquote>Mikee Wooden`,
+  
+`<blockquote>
+  As dangerous as those things are, at least they're predictable. It's normal people that scare me.
+</blockquote>Last of Us`,
 ]
 
 
