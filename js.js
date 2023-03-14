@@ -5218,6 +5218,12 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   As dangerous as those things are, at least they're predictable. It's normal people that scare me.
 </blockquote>Last of Us`,
+  
+`<blockquote>
+  I saw my fellow Asian actors up on the screen [in Crazy Rich Asians], and I had serious FOMO because I wanted to be up there with them. 
+  I thought about it for a long time, because I hadn’t done it in 20 years, and you don’t know if people will still embrace you. 
+  But when I stepped in front of the camera again, I realized that's what was missing all those years.
+</blockquote>Ke Huy Quan`,
 ]
 
 
