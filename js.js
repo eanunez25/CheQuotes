@@ -5224,6 +5224,10 @@ add some sugar and turn it into a lemon parade.
   I thought about it for a long time, because I hadn’t done it in 20 years, and you don’t know if people will still embrace you. 
   But when I stepped in front of the camera again, I realized that's what was missing all those years.
 </blockquote>Ke Huy Quan`,
+
+`<blockquote>
+  Camping is nature's way of promoting the motel business.
+</blockquote>Dave Barry`,
 ]
 
 
