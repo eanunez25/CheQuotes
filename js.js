@@ -5228,6 +5228,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Camping is nature's way of promoting the motel business.
 </blockquote>Dave Barry`,
+
+`<blockquote>
+  It is sometimes an appropriate response to reality to go insane
+</blockquote>Phillip Dick`,
 ]
 
 
