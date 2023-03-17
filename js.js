@@ -5232,6 +5232,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   It is sometimes an appropriate response to reality to go insane
 </blockquote>Phillip Dick`,
+
+`<blockquote>
+  The true art of memory is the art of attention.
+</blockquote>Samuel Johnson`,
 ]
 
 
