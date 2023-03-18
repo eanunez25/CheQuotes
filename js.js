@@ -5236,6 +5236,11 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   The true art of memory is the art of attention.
 </blockquote>Samuel Johnson`,
+
+`<blockquote>
+  Nobody matters. It's only important how you feel about yourself and how 
+  Keanu Reeves would feel about you if he met you
+</blockquote>Jameela Jamil`,
 ]
 
 
