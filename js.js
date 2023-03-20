@@ -5245,6 +5245,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   If you don't jump to put jeans on, you don't feel my pain
 </blockquote>Beyonce`,
+
+`<blockquote>
+  It is difficult to catch a black cat in a dark room- especially if the cat isn't there.
+</blockquote>Chinese proverb`,
 ]
 
 
