@@ -5249,6 +5249,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   It is difficult to catch a black cat in a dark room- especially if the cat isn't there.
 </blockquote>Chinese proverb`,
+
+`<blockquote>
+  It gets late early out there
+</blockquote>Yogi Berra`,
 ]
 
 
