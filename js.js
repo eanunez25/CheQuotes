@@ -5253,6 +5253,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   It gets late early out there
 </blockquote>Yogi Berra`,
+  
+`<blockquote>
+  Food, love, career, and mothers, the four major guilt groups.
+</blockquote>Cathy Guisewite`,
 ]
 
 
