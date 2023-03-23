@@ -5257,6 +5257,11 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Food, love, career, and mothers, the four major guilt groups.
 </blockquote>Cathy Guisewite`,
+
+`<blockquote>
+  Step with care and great tact, and remember that Life's a 
+  Great Balancing Act.
+</blockquote>Dr. Seuss`, 
 ]
 
 
