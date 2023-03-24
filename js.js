@@ -5262,6 +5262,11 @@ add some sugar and turn it into a lemon parade.
   Step with care and great tact, and remember that Life's a 
   Great Balancing Act.
 </blockquote>Dr. Seuss`, 
+  
+
+`<blockquote>
+  Why is tamales pronounced tamales but females is pronounced females instead of females
+</blockquote>`,
 ]
 
 
