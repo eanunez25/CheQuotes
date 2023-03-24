@@ -5263,9 +5263,12 @@ add some sugar and turn it into a lemon parade.
   Great Balancing Act.
 </blockquote>Dr. Seuss`, 
   
-
 `<blockquote>
   Why is tamales pronounced tamales but females is pronounced females instead of females
+</blockquote>`,
+  
+`<blockquote>
+  Spongebob never got his license because sponges scrub. And scrubs belong in the passenger side of their best friend's ride. 
 </blockquote>`,
 ]
 
