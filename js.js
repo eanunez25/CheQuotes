@@ -5270,6 +5270,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Spongebob never got his license because sponges scrub. And scrubs belong in the passenger side of their best friend's ride. 
 </blockquote>`,
+  
+`<blockquote>
+  Who needs to diet... just go to Japan for a month
+</blockquote>`,
 ]
 
 
