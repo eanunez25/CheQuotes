@@ -5274,6 +5274,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Who needs to diet... just go to Japan for a month
 </blockquote>`,
+  
+`<blockquote>
+  When you get over the age of 25, you won't need an alarm clock anymore. Your problems will wake you up by force. 
+</blockquote>`,
 ]
 
 
