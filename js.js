@@ -5282,6 +5282,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Biceps are like ornaments on a Christmas tree
 </blockquote>Ed Coan`,
+  
+`<blockquote>
+  There is no reason to be alive if you can't do the deadlift
+</blockquote>Jon Pall Sigmarsson`,
 ]
 
 
