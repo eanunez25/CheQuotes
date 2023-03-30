@@ -5286,6 +5286,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   There is no reason to be alive if you can't do the deadlift
 </blockquote>Jon Pall Sigmarsson`,
+  
+`<blockquote>
+  If you want to beat the man, you've gotta out-eat the man
+</blockquote>JM Blakely`,
 ]
 
 
