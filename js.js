@@ -5290,6 +5290,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   If you want to beat the man, you've gotta out-eat the man
 </blockquote>JM Blakely`,
+  
+`<blockquote>
+  Life has its ups and downs, we call them squats.
+</blockquote>`,
 ]
 
 
