@@ -5298,6 +5298,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Sweat is your fat crying
 </blockquote>`,
+  
+`<blockquote>
+  Happiness is the real rich. Health is the real wealth. Kindness is the real cool. And a peace of mind is the real bag.
+</blockquote>obj`,
 ]
 
 
