@@ -5302,6 +5302,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Happiness is the real rich. Health is the real wealth. Kindness is the real cool. And a peace of mind is the real bag.
 </blockquote>obj`,
+  
+`<blockquote>
+  Life is like jury duty. Just do it and get it over with.
+</blockquote>Dana Gould`,
 ]
 
 
