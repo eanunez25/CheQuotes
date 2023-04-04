@@ -5306,6 +5306,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Life is like jury duty. Just do it and get it over with.
 </blockquote>Dana Gould`,
+  
+`<blockquote>
+  Some may never live, but the crazy never die.
+</blockquote>Hunter S Thompson`,
 ]
 
 
