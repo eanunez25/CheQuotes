@@ -5314,6 +5314,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Rule no. 33: accept what you can't change and change what you can't accept
 </blockquote>`,
+  
+`<blockquote>
+  You're never gonna be old, humans are going to be immortal by 2026
+</blockquote>Schmidt`,
 ]
 
 
