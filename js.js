@@ -5310,6 +5310,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Some may never live, but the crazy never die.
 </blockquote>Hunter S Thompson`,
+  
+`<blockquote>
+  Rule no. 33: accept what you can't change and change what you can't accept
+</blockquote>`,
 ]
 
 
