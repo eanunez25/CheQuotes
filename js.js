@@ -5318,6 +5318,15 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   You're never gonna be old, humans are going to be immortal by 2026
 </blockquote>Schmidt`,
+  
+`<blockquote>
+  I like to do cardio workouts once in a while, as much as possible. I want to stay healthy. Some people be like, "Yo, Khaled, 
+  I don't see you lose weight." Because I don't lose, all I do is win.
+</blockquote>DJ Khaled`,
+  
+`<blockquote>
+  For some reason, people look at me and laugh. I don't know why.
+</blockquote>Zooey Deschanel`,
 ]
 
 
