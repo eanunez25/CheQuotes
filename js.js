@@ -5331,6 +5331,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Everybunny needs somebunny sometimes
 </blockquote>`,
+  
+`<blockquote>
+  If you can't feed a hundred people, then feed just one.
+</blockquote>Mother Teresa`,
 ]
 
 
