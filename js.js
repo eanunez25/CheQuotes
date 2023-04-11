@@ -5335,6 +5335,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   If you can't feed a hundred people, then feed just one.
 </blockquote>Mother Teresa`,
+  
+`<blockquote>
+  A hen is only an egg's way of making another egg.
+</blockquote>Samuel Butler`,
 ]
 
 
