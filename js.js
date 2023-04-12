@@ -5339,6 +5339,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   A hen is only an egg's way of making another egg.
 </blockquote>Samuel Butler`,
+  
+`<blockquote>
+  The harder I work, the more luck I have
+</blockquote>`,
 ]
 
 
