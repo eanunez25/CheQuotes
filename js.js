@@ -5355,6 +5355,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Happiness is enjoying the little things (sushi) in life
 </blockquote>`,
+  
+`<blockquote>
+  It is a mistake to think you can solve any major problems just with potatoes.
+</blockquote>Douglas Adams`,
 ]
 
 
