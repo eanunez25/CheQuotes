@@ -5363,6 +5363,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Flaky is for pastry, not for people
 </blockquote>`,
+  
+`<blockquote>
+  My name is Adam Sandler. I'm not particularly talented. I'm not particularly good-looking. And yet I'm a multi-millionaire.
+</blockquote>Adam Sandler`,
 ]
 
 
