@@ -5367,6 +5367,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   My name is Adam Sandler. I'm not particularly talented. I'm not particularly good-looking. And yet I'm a multi-millionaire.
 </blockquote>Adam Sandler`,
+  
+`<blockquote>
+  I just remember this tall, blond, ghostly creature and I looked up and I was like, ‘You smell like weed.’ He looked down at me and he was like, ‘I am weed.’ 
+</blockquote>Megan Fox`,
 ]
 
 
