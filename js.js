@@ -5371,6 +5371,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   I just remember this tall, blond, ghostly creature and I looked up and I was like, ‘You smell like weed.’ He looked down at me and he was like, ‘I am weed.’ 
 </blockquote>Megan Fox`,
+  
+`<blockquote>
+  Scratch a dog and you'll find a permanent job.
+</blockquote>Franklin P. Jones`,
 ]
 
 
