@@ -5375,6 +5375,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Scratch a dog and you'll find a permanent job.
 </blockquote>Franklin P. Jones`,
+  
+`<blockquote>
+  If you're in a heterosexual relationship and you're a female, you win.
+</blockquote>Megan Fox`,
 ]
 
 
