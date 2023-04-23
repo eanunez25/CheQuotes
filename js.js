@@ -5383,6 +5383,12 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   With confidence, you have won before you even started
 </blockquote>`,
+  
+`<blockquote>
+  This is a capsaicin burn. It will hurt more than you have ever been burned and you will have a scar.
+  Stay with the pain. Don't shut this out. This is your pain. This is your burning anus. Dont' shut this out.
+  What you are feeling is premature enlightenment. It is only after we have lost everything that we are free to do anything. 
+</blockquote>`,
 ]
 
 
