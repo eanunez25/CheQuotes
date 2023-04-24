@@ -5389,6 +5389,10 @@ add some sugar and turn it into a lemon parade.
   Stay with the pain. Don't shut this out. This is your pain. This is your burning anus. Dont' shut this out.
   What you are feeling is premature enlightenment. It is only after we have lost everything that we are free to do anything. 
 </blockquote>`,
+  
+`<blockquote>
+  You can't really achieve anything in three years
+</blockquote>Cate Blanchett`,
 ]
 
 
@@ -5527,7 +5531,7 @@ for(let i = 0; i < neemTimes; i++) {
 let oneYear = []
 let oyTimes = 10000
 for(let i = 0; i < oyTimes; i++) {
-  oneYear.push("Two Years of CheQuotes")
+  oneYear.push("Three Years of CheQuotes")
 }
 
 
