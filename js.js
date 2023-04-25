@@ -5393,6 +5393,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   You can't really achieve anything in three years
 </blockquote>Cate Blanchett`,
+  
+`<blockquote>
+  If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.
+</blockquote>Abraham Lincoln`,
 ]
 
 
