@@ -5397,6 +5397,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.
 </blockquote>Abraham Lincoln`,
+  
+`<blockquote>
+  I make grave mistakes all the time. Everything seems to work out.
+</blockquote>Thor`,
 ]
 
 
