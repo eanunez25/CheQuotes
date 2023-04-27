@@ -5401,6 +5401,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   I make grave mistakes all the time. Everything seems to work out.
 </blockquote>Thor`,
+  
+`<blockquote>
+  Exercise in the morning before your brain figures out what you're doing
+</blockquote>`,
 ]
 
 
