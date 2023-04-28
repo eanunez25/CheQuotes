@@ -5405,6 +5405,14 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Exercise in the morning before your brain figures out what you're doing
 </blockquote>`,
+  
+`<blockquote>
+  Look after yourself and each other.
+</blockquote>Jerry Springer`,
+  
+`<blockquote>
+  When Lady GaGa was in college, some of her classmates had a Facebook group called "Stefani Germanotta, you'll never be famous".
+</blockquote>`,
 ]
 
 
