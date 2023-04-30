@@ -5413,6 +5413,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   When Lady GaGa was in college, some of her classmates had a Facebook group called "Stefani Germanotta, you'll never be famous".
 </blockquote>`,
+  
+`<blockquote>
+  98 percent of all human endeavor is killing time
+</blockquote>Jerry Seinfeld`,
 ]
 
 
