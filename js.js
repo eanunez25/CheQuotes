@@ -5417,6 +5417,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   98 percent of all human endeavor is killing time
 </blockquote>Jerry Seinfeld`,
+  
+`<blockquote>
+  The hardest years in life are those between ten and seventy.
+</blockquote>Helen Hayes`,
 ]
 
 
