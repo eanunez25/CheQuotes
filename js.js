@@ -5433,6 +5433,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Bet on me? Bet I will
 </blockquote>Lizzo`,
+  
+`<blockquote>
+  As they say, teach a man how to fish, and you feed him for a lifetime. However, if he doesn’t like sushi, then you’ll also have to teach him how to cook.
+</blockquote>`,
 ]
 
 
