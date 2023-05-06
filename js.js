@@ -5437,6 +5437,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   As they say, teach a man how to fish, and you feed him for a lifetime. However, if he doesn’t like sushi, then you’ll also have to teach him how to cook.
 </blockquote>`,
+  
+`<blockquote>
+  No heat, no eat
+</blockquote>`,
 ]
 
 
