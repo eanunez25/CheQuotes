@@ -5449,6 +5449,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   One cannot make love well if one has not dined well
 </blockquote>Virginia Woolf`,
+  
+`<blockquote>
+  If more of us valued food and cheer above hoarded gold, it would be a merrier world
+</blockquote>J.R.R. Tolkein`,
 ]
 
 
