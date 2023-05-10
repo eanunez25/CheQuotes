@@ -5453,6 +5453,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   If more of us valued food and cheer above hoarded gold, it would be a merrier world
 </blockquote>J.R.R. Tolkein`,
+  
+`<blockquote>
+  We must, we must, we must increase our bust.
+</blockquote>Judy Blume, Are You There God? It's Me, Margaret`, 
 ]
 
 
