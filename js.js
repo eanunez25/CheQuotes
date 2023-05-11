@@ -5457,6 +5457,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   We must, we must, we must increase our bust.
 </blockquote>Judy Blume, Are You There God? It's Me, Margaret`, 
+  
+`<blockquote>
+  two incomes are better than one, so make sure your partner gets two jobs
+</blockquote>`,
 ]
 
 
