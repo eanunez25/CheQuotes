@@ -5461,6 +5461,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   two incomes are better than one, so make sure your partner gets two jobs
 </blockquote>`,
+  
+`<blockquote>
+  the best way to stay out of people's business is to know what that business is
+</blockquote>`,
 ]
 
 
