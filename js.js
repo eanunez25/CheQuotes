@@ -5469,6 +5469,14 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   every pizza is a personal pizza if you’re a runner
 </blockquote>`,
+  
+`<blockquote>
+  Life is short, running makes it seem longer.
+</blockquote>`,
+  
+`<blockquote>
+  You want a friend in Washington? Get a dog.
+</blockquote>Harry S Truman`,
 ]
 
 
