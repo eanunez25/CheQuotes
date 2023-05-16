@@ -5477,6 +5477,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   You want a friend in Washington? Get a dog.
 </blockquote>Harry S Truman`,
+  
+`<blockquote>
+  What holds the world together, as I have learned from bitter experience, is sexual intercourse.
+</blockquote>Henry Miller`,
 ]
 
 
