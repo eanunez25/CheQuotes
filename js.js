@@ -5481,6 +5481,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   What holds the world together, as I have learned from bitter experience, is sexual intercourse.
 </blockquote>Henry Miller`,
+  
+`<blockquote>
+  サルも木から落ちる。
+</blockquote>Even monkeys fall from trees.`,
 ]
 
 
