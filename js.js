@@ -5485,6 +5485,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   サルも木から落ちる。
 </blockquote>Even monkeys fall from trees.`,
+  
+`<blockquote>
+  Never underestimate the power of a stomach flu. It could be the start of a great diet. 
+</blockquote>`,
 ]
 
 
