@@ -5493,6 +5493,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Never let anyone ruin your day, it's your day to ruin yourself
 </blockquote>`,
+  
+`<blockquote>
+  We are Groot
+</blockquote>Groot`,
 ]
 
 
