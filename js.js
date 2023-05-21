@@ -5497,6 +5497,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   We are Groot
 </blockquote>Groot`,
+  
+`<blockquote>
+  It really is good to have friends
+</blockquote>Lylla`,
 ]
 
 
