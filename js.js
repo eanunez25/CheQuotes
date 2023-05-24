@@ -5509,6 +5509,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   you can't be number one without taking care of number two
 </blockquote>Nick Bare`,
+  
+`<blockquote>
+  Apples, you eat their clothes, but oranges, you don't?
+</blockquote>Jason Mendoza`,
 ]
 
 
