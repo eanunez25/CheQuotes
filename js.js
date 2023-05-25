@@ -5513,6 +5513,10 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Apples, you eat their clothes, but oranges, you don't?
 </blockquote>Jason Mendoza`,
+  
+`<blockquote>
+  Who needs a heart when a heart can be broken
+</blockquote>Tina Turner`,
 ]
 
 
