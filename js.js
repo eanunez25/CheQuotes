@@ -5517,6 +5517,34 @@ add some sugar and turn it into a lemon parade.
 `<blockquote>
   Who needs a heart when a heart can be broken
 </blockquote>Tina Turner`,
+  
+`<blockquote>
+Maintaining a daily journal is one of the best personal growth initiatives
+you will ever take. Writing down your daily experiences along with the
+lessons you have drawn from them will make you wiser with each passing
+day. You will develop self – awareness and make fewer mistakes. And
+keeping a journal will help clarify your intentions so that you remain
+focused on the things that truly count.
+Writing in a journal offers you the opportunity to have regular one – on –
+one conversations with yourself. It forces you to do some deep thinking in
+a world where deep thinking is a thing of the past. It will also make you a
+clearer thinker and help you live in a more intentional and enlightened
+way. In addition, it provides a central place where you can record your
+insights on important issues, note key success strategies that have worked
+for you and commit to all those things you know are important to achieve
+for a high–quality professional, personal and spiritual life. And your personal journal
+gives you a private place to flex your imagination and define your dreams.
+A journal is not a diary. A diary is a place where your record events while
+a journal is a place where you analyze and evaluate them. Keeping a
+journal encourages you to consider what you do, why you do it and what
+you have learned from all you have done. And writing in a journal
+promotes personal growth and wisdom by giving you a forum to study,
+and then leverage, your past for greater success in your future.
+Medical researchers have even found that writing in a private journal for
+as little as 15 minutes a day can improve health, functioning of your
+immune system and your overall attitude. Remember, if your life is worth
+thinking about, it is worth writing about.
+</blockquote>the monk who sold his Ferrari`,
 ]
 
 
