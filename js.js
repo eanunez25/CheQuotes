@@ -5553,6 +5553,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   a blowjob a day keeps the doctor away
 </blockquote>the doctor`,
+  
+`<blockquote>
+  When I go to bed on Friday night, I set my alarm to 1 AM. 
+</blockquote>Ms. Tootsie, Snow's BBQ`,
 ]
 
 
