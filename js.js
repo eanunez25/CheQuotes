@@ -5569,6 +5569,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   Aging is a fact of life. Looking your age is not.
 </blockquote>`,
+  
+`<blockquote>
+  Believe you can and you're halfway there
+</blockquote>Theodore Roosevelt`,
 ]
 
 
