@@ -5573,6 +5573,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   Believe you can and you're halfway there
 </blockquote>Theodore Roosevelt`,
+  
+`<blockquote>
+  The best skincare in your 50s, is sunscreen in your 20s
+</blockquote>`,
 ]
 
 
