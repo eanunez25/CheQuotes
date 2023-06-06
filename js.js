@@ -5585,7 +5585,16 @@ thinking about, it is worth writing about.
 `<blockquote>
   it is not enought to be busy, so are the ants
 </blockquote>Henry David Thoreau`,
+  
+`<blockquote>
+  If you want creativity, take a zero off your budget. If you want sustainability, take off two zeros.
+</blockquote>Jaime Lerner`,
+  
+`<blockquote>
+  Put your own oxygen mask before assisting others
+</blockquote>`,
 ]
+
 
 
 
