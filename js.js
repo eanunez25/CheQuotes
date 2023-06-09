@@ -5601,6 +5601,11 @@ thinking about, it is worth writing about.
 `<blockquote>
   Who's Rachael?
 </blockquote>Trung`,
+  
+`<blockquote>
+  Do you remember Rachael? -Monica
+  From Friends? -Trung
+</blockquote>`,
 ]
 
 
