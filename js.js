@@ -5603,7 +5603,7 @@ thinking about, it is worth writing about.
 </blockquote>Trung`,
   
 `<blockquote>
-  Do you remember Rachael? -Monica
+  Do you remember Rachael? -Monica<br>
   From Friends? -Trung
 </blockquote>`,
 ]
