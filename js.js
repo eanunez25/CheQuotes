@@ -5610,6 +5610,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   BOOOOOOBIEES
 </blockquote>Ramya Puttagunta`,
+  
+`<blockquote>
+  Fun is like life insurance; the older you get, the more it costs.
+</blockquote>Kin Hubbard`,
 ]
 
 
