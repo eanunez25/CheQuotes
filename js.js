@@ -5614,6 +5614,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   Fun is like life insurance; the older you get, the more it costs.
 </blockquote>Kin Hubbard`,
+  
+`<blockquote>
+  Autobots, transform and roll out!
+</blockquote>Optimus Prime`,
 ]
 
 
