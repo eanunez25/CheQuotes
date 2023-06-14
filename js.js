@@ -5618,6 +5618,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   Autobots, transform and roll out!
 </blockquote>Optimus Prime`,
+  
+`<blockquote>
+  It's really cold outside, they are calling it a major freeze, weeks ahead of normal. Man, we could use a big fat dose of global warming!
+</blockquote>Donald Trump`,
 ]
 
 
