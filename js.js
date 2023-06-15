@@ -5622,6 +5622,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   It's really cold outside, they are calling it a major freeze, weeks ahead of normal. Man, we could use a big fat dose of global warming!
 </blockquote>Donald Trump`,
+  
+`<blockquote>
+  BBQ is like sex. Even when it's bad it's still pretty good.
+</blockquote>`,
 ]
 
 
