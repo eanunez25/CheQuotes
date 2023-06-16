@@ -5626,6 +5626,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   BBQ is like sex. Even when it's bad it's still pretty good.
 </blockquote>`,
+
+`<blockquote>
+  Today's good mood is sponsored by sushi
+</blockquote>`,
 ]
 
 
