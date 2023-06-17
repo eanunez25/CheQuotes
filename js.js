@@ -5630,6 +5630,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   Today's good mood is sponsored by sushi
 </blockquote>`,
+  
+`<blockquote>
+  They invented brunch so we could have wine for breakfast.
+</blockquote>`,
 ]
 
 
