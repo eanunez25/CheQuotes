@@ -5634,6 +5634,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   They invented brunch so we could have wine for breakfast.
 </blockquote>`,
+  
+`<blockquote>
+  Raising kids may be a thankless job, but at least the pay sucks
+</blockquote>Jim Gaffigan`,
 ]
 
 
