@@ -5642,6 +5642,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   45 + 45 = 135
 </blockquote>bodybuilders`,
+  
+`<blockquote>
+  He who knows that enough is enough will always have enough.
+</blockquote>Lao Tzu`,
 ]
 
 
