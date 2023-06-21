@@ -5646,6 +5646,10 @@ thinking about, it is worth writing about.
 `<blockquote>
   He who knows that enough is enough will always have enough.
 </blockquote>Lao Tzu`,
+
+`<blockquote>
+  Butterfly. Windshield wiper. Half a butterfly.
+</blockquote>Ember`,
 ]
 
 
