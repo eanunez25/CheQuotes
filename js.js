@@ -5650,6 +5650,43 @@ thinking about, it is worth writing about.
 `<blockquote>
   Butterfly. Windshield wiper. Half a butterfly.
 </blockquote>Ember`,
+
+`<blockquote>
+  In the scorching Texas heat, over a hundred degrees,<br>
+  Amidst the blazing sun, I seek a refreshing tease.<br>
+  A cup of boba beckons, with its charms so sweet,<br>
+  A perfect blend of joy and relief, the ultimate retreat.<br><br>
+  
+  I stroll along the streets, feeling the warmth embrace,<br>
+  Seeking solace from the heat, a smile on my face.<br>
+  In a little corner shop, I find my summer's cheer,<br>
+  A sanctuary of flavors, where worries disappear.<br><br>
+  
+  The pearls within the cup, like little orbs of bliss,<br>
+  A burst of taste awaits me, in each and every sip.<br>
+  They dance upon my tongue, like summer's tender breeze,<br>
+  Cooling down my spirit, putting my mind at ease.<br><br>
+  
+  Creamy milky goodness, swirls with fruity delight,<br>
+  A symphony of flavors, harmonizing just right.<br>
+  As I sip the sweet elixir, time begins to slow,<br>
+  Each droplet of deliciousness, my senses start to glow.<br><br>
+  
+  The tapioca pearls, like treasures in the sea,<br>
+  Delighting in their chewiness, a whimsical decree.<br>
+  They slide through the straw, bringing joy with each sip,<br>
+  Transforming the fiery heat into a delightful trip.<br><br>
+  
+  With boba in my hand, I find respite from the blaze,<br>
+  A momentary escape, a haven from the summer's haze.<br>
+  In the Texas heat, where the sun reigns supreme,<br>
+  A cup of boba reigns, a refreshing, dreamy theme.<br><br>
+  
+  So, let us savor every moment, sip by sip we'll partake,<br>
+  In this poetic dance, where coolness and warmth awake.<br>
+  In Texas' fiery embrace, we find tranquility's embrace,<br>
+  A cup of boba in hand, a delightful summer's grace.
+</blockquote>`,
 ]
 
 
