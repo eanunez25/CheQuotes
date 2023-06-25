@@ -5718,6 +5718,39 @@ thinking about, it is worth writing about.
   In this lively city, memories will thrive,<br>
   Four adventures await, in Austin we'll thrive.
 </blockquote>`,
+
+`<blockquote>
+  
+Leaving Austin's charm, a vibrant retreat,<br>
+Homeward to McAllen, a rhythm so sweet.<br>
+A week filled with boba, flavors divine,<br>
+Good food and laughter, memories to enshrine.<br><br>
+
+From food trucks to restaurants, culinary delight,<br>
+Austin's gastronomic scene, a savory height.<br>
+But now I embark on the journey back home,<br>
+To McAllen's embrace, where comfort is known.<br><br>
+
+A friend's movie screening, a cinematic display,<br>
+Austin's creative spirit lighting the way.<br>
+Clapping and cheering, we shared the applause,<br>
+But McAllen's silver screen awaits with its cause.<br><br>
+
+Clubbing till dawn, the music a trance,<br>
+Austin's nightlife, a vibrant dance.<br>
+But now it's time to return to my zone,<br>
+McAllen's rhythms, a beat of my own.<br><br>
+
+At the karaoke bar, voices soared high,<br>
+Austin's melodies reaching the sky.<br>
+Now it's time to sing in McAllen's tune,<br>
+In familiar spaces, under the same moon.<br><br>
+
+As I journey back, memories hold tight,<br>
+From Austin's allure to McAllen's delight.<br>
+Each moment cherished, etched deep within,<br>
+A week well-spent, a tale to begin.
+</blockquote>`,
 ]
 
 
