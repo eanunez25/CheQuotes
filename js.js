@@ -5751,6 +5751,17 @@ From Austin's allure to McAllen's delight.<br>
 Each moment cherished, etched deep within,<br>
 A week well-spent, a tale to begin.
 </blockquote>`,
+
+`<blockquote>
+  Got a secret? Can you keep it?<br>
+  Swear this one you'll save<br>
+  Better lock it, in your pocket<br>
+  Taking this one to the grave<br>
+  If I show you then I know you<br>
+  Won't tell what I said<br>
+  Cause two can keep a secret<br>
+  If one of them is dead
+</blockquote>`,
 ]
 
 
