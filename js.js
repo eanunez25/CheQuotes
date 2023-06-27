@@ -5762,6 +5762,10 @@ A week well-spent, a tale to begin.
   Cause two can keep a secret<br>
   If one of them is dead
 </blockquote>`,
+
+`<blockquote>
+  Cure for an obsession: get another one.
+</blockquote>Mason Cooley`,
 ]
 
 
