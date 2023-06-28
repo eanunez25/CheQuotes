@@ -5766,6 +5766,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Cure for an obsession: get another one.
 </blockquote>Mason Cooley`,
+
+`<blockquote>
+  The tomatoes moved from the bottom shelf to the top shelf and subsequently uncooked the spaghetti.
+</blockquote>Barry`,
 ]
 
 
