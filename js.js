@@ -5770,6 +5770,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   The tomatoes moved from the bottom shelf to the top shelf and subsequently uncooked the spaghetti.
 </blockquote>Barry`,
+  
+`<blockquote>
+  Always live in the ugliest house on the street - then you don't have to look at it. 
+</blockquote>David Hockney`,
 ]
 
 
