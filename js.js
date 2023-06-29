@@ -5774,6 +5774,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Always live in the ugliest house on the street - then you don't have to look at it. 
 </blockquote>David Hockney`,
+
+`<blockquote>
+  Money doesn't make you happy. I now have $50 million but I was just as happy when I had $48 million.
+</blockquote>Arnold Schwarzenegger`,
 ]
 
 
