@@ -5778,6 +5778,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Money doesn't make you happy. I now have $50 million but I was just as happy when I had $48 million.
 </blockquote>Arnold Schwarzenegger`,
+
+`<blockquote>
+  Remember to drink lots of water and stay indoors between 11:00am and November 2nd.
+</blockquote>`,
 ]
 
 
