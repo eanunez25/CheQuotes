@@ -5786,6 +5786,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   The first hundred years are the hardest.
 </blockquote>Wilson Mizner`,
+
+`<blockquote>
+  Good friends, good books and a sleepy conscience: this is the ideal life.
+</blockquote>Mark Twain`,
 ]
 
 
