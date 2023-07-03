@@ -5790,6 +5790,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Good friends, good books and a sleepy conscience: this is the ideal life.
 </blockquote>Mark Twain`,
+
+`<blockquote>
+  Some people have no idea it's their last day with all ten fingers
+</blockquote>`,
 ]
 
 
