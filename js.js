@@ -5794,6 +5794,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Some people have no idea it's their last day with all ten fingers
 </blockquote>`,
+
+`<blockquote>
+  If I don’t have anything to do all day, I might not even put my pants on.
+</blockquote>J Law`,
 ]
 
 
