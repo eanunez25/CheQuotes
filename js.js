@@ -5802,6 +5802,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   X never ever marks the spot
 </blockquote>Indiana Jones`,
+
+`<blockquote>
+  Man does not control his own fate. The women in his life do that for him.
+</blockquote>Groucho Marx`,
 ]
 
 
