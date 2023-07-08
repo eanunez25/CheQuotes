@@ -5806,6 +5806,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Man does not control his own fate. The women in his life do that for him.
 </blockquote>Groucho Marx`,
+
+`<blockquote>
+  There's a reason why God designed our bodies so that, when we lie down in bed, our hands naturally come to rest on our genitals.
+</blockquote>Caitlin Moran`,
 ]
 
 
