@@ -5810,6 +5810,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   There's a reason why God designed our bodies so that, when we lie down in bed, our hands naturally come to rest on our genitals.
 </blockquote>Caitlin Moran`,
+
+`<blockquote>
+  Art is only important if you relate to it
+</blockquote>Augusto Contreras`,
 ]
 
 
