@@ -5814,6 +5814,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Art is only important if you relate to it
 </blockquote>Augusto Contreras`,
+
+`<blockquote>
+  Not all those who wander are lost.
+</blockquote>J. R. R. Tolkien`,
 ]
 
 
