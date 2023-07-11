@@ -5818,6 +5818,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Not all those who wander are lost.
 </blockquote>J. R. R. Tolkien`,
+
+`<blockquote>
+  I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.
+</blockquote>Bilbo Baggins`,
 ]
 
 
