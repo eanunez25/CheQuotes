@@ -5836,6 +5836,10 @@ A week well-spent, a tale to begin.
   Houston is a cruel, crazy town on a filthy river in East Texas with no zoning laws and a culture of sex, money and violence. 
   It's a shabby, sprawling metropolis ruled by brazen women, crooked cops and super-rich pansexual cowboys who live by the code of the West
 </blockquote>Hunter S. Thompson`,
+
+`<blockquote>
+  Slow runners make fast runners look good
+</blockquote>`,
 ]
 
 
