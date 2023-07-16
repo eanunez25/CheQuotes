@@ -5840,6 +5840,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Slow runners make fast runners look good
 </blockquote>`,
+
+`<blockquote>
+   It's not better than sex. However, if you're not getting any, might as well play disc golf. 
+</blockquote>`,
 ]
 
 
