@@ -5844,6 +5844,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
    It's not better than sex. However, if you're not getting any, might as well play disc golf. 
 </blockquote>`,
+
+`<blockquote>
+   Rachael needs more sun
+</blockquote>Vlad`,
 ]
 
 
