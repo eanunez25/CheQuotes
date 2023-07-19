@@ -5852,6 +5852,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
    The days are long but the years are short
 </blockquote>`,
+
+`<blockquote>
+   Insanity is hereditary; you get it from your children.
+</blockquote>Sam Levenson`,
 ]
 
 
