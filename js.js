@@ -5856,6 +5856,10 @@ A week well-spent, a tale to begin.
 `<blockquote>
    Insanity is hereditary; you get it from your children.
 </blockquote>Sam Levenson`,
+
+`<blockquote>
+   Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?
+</blockquote>George Carlin`,
 ]
 
 
