@@ -5860,6 +5860,14 @@ A week well-spent, a tale to begin.
 `<blockquote>
    Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?
 </blockquote>George Carlin`,
+
+`<blockquote>
+   Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+</blockquote>William Blake`,
+
+`<blockquote>
+   
+</blockquote>`,
 ]
 
 
