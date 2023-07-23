@@ -5870,6 +5870,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+   Look at trees. Be near trees. Plant trees. (Trees are great)
+</blockquote>`,
+
+`<blockquote>
+   Don't be the bigger person today, be the problem
+</blockquote>`,
+
+`<blockquote>
    
 </blockquote>`,
 ]
