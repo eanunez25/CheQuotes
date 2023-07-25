@@ -5882,6 +5882,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+   I'd rather have 4 quarters than 100 pennies
+</blockquote>Al Capone`,
+
+`<blockquote>
    
 </blockquote>`,
 ]
