@@ -5878,6 +5878,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Every girl is a doll, either Barbie or Annabelle
+</blockquote>`,
+
+`<blockquote>
    
 </blockquote>`,
 ]
