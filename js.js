@@ -5886,6 +5886,10 @@ A week well-spent, a tale to begin.
 </blockquote>Al Capone`,
 
 `<blockquote>
+   If you cannot decide, the answer is no
+</blockquote>Naval Ravikant`,
+
+`<blockquote>
    
 </blockquote>`,
 ]
