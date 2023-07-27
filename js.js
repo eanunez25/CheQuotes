@@ -5890,6 +5890,10 @@ A week well-spent, a tale to begin.
 </blockquote>Naval Ravikant`,
 
 `<blockquote>
+   It's all connected
+</blockquote>Cal Stone`,
+
+`<blockquote>
    
 </blockquote>`,
 ]
