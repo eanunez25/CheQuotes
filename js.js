@@ -5894,6 +5894,10 @@ A week well-spent, a tale to begin.
 </blockquote>Cal Stone`,
 
 `<blockquote>
+   If there's one thing worse than chlamydia, it's Florida
+</blockquote>Olive Penderghast`,
+
+`<blockquote>
    
 </blockquote>`,
 ]
