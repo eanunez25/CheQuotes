@@ -5910,7 +5910,7 @@ A week well-spent, a tale to begin.
   I hope it's Ben and Socrates poop all up in your kitchen<br>
   I hope the zipper on your jacket get stuck<br>
   And your headphones short, and your charger don't work<br>
-  And you spill shit on your shirt<br>
+  And you spill sh<span id="blur">i</span>t on your shirt<br>
   I hope your tears don't hurt, and I can smile in your face<br>
   Cut my losses, how Delilah changed my locks to a fade
 </blockquote>Chance the Rapper`,
