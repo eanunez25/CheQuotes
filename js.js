@@ -5898,6 +5898,24 @@ A week well-spent, a tale to begin.
 </blockquote>Olive Penderghast`,
 
 `<blockquote>
+  I hope you get a paper cut on your tongue<br>
+  From a razor in a paper cup<br>
+  I hope every soda you drink already shaken up<br>
+  I hope your dreams dry like raisins in the baking sun<br>
+  I hope your titties all saggy in your early 20's<br>
+  I hope there's always snow in your driveway<br>
+  I hope you never get off Fridays<br>
+  And you work at a Friday's that's always busy on Fridays<br>
+  I hope you win the lottery and lose your ticket<br>
+  I hope it's Ben and Socrates poop all up in your kitchen<br>
+  I hope the zipper on your jacket get stuck<br>
+  And your headphones short, and your charger don't work<br>
+  And you spill shit on your shirt<br>
+  I hope your tears don't hurt, and I can smile in your face<br>
+  Cut my losses, how Delilah changed my locks to a fade
+</blockquote>Chance the Rapper`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
