@@ -5916,6 +5916,13 @@ A week well-spent, a tale to begin.
 </blockquote>Chance the Rapper`,
 
 `<blockquote>
+  You’re off to great places, <br>
+  today is your day. <br>
+  Your mountain is waiting, <br>
+  so get on your way.
+</blockquote>Dr. Seuss`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
