@@ -5927,7 +5927,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  The more you fear something happening, the more likely it is to occur
+</blockquote>Murphy's Law`,
 
+`<blockquote>
+  
 </blockquote>`,
 ]
 
