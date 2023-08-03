@@ -5931,6 +5931,10 @@ A week well-spent, a tale to begin.
 </blockquote>Murphy's Law`,
 
 `<blockquote>
+  The surest way to make a monkey of a man is to quote him.
+</blockquote>Robert Benchley`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
