@@ -5935,6 +5935,10 @@ A week well-spent, a tale to begin.
 </blockquote>Robert Benchley`,
 
 `<blockquote>
+  No man should escape our universities without knowing how little he knows.
+</blockquote>Oppenheimer`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
