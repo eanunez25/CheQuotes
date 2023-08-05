@@ -5939,6 +5939,11 @@ A week well-spent, a tale to begin.
 </blockquote>Oppenheimer`,
 
 `<blockquote>
+  It is the best day ever. So was yesterday, and so is 
+  tomorrow, and every day from now until forever.
+</blockquote>Barbie`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
