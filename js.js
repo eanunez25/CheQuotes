@@ -5944,6 +5944,10 @@ A week well-spent, a tale to begin.
 </blockquote>Barbie`,
 
 `<blockquote>
+  When I found out the patriarchy wasn't about horses, I lost interest
+</blockquote>Ken`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
