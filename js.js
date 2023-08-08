@@ -5952,6 +5952,12 @@ A week well-spent, a tale to begin.
 </blockquote>Keisha, Caitlin, Diane, Marissa`,
 
 `<blockquote>
+  We have a saying in Chinese: 'There isn’t a problem that can’t be solved 
+  in a Hot Pot.' When people feel down, they eat Hot Pot. Hot Pot brings 
+  happiness.
+</blockquote>Zoey Yang`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
