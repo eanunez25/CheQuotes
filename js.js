@@ -5966,6 +5966,10 @@ A week well-spent, a tale to begin.
 </blockquote>Humphrey Bogart`,
 
 `<blockquote>
+  I never think of the future - it comes soon enough.
+</blockquote>Albert Einstein`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
