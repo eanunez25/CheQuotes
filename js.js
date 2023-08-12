@@ -5970,6 +5970,10 @@ A week well-spent, a tale to begin.
 </blockquote>Albert Einstein`,
 
 `<blockquote>
+  Women eat while they are talking; men talk while they are eating. 
+</blockquote>Malcolm de Chazal`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
