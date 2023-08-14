@@ -5978,6 +5978,11 @@ A week well-spent, a tale to begin.
 </blockquote>Taylor Swift`,
 
 `<blockquote>
+  There’s no such thing as a best friend.  That’s just something Hello 
+  Kitty created to sell more Hello Kitty. 
+</blockquote>Jessica Huang`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
