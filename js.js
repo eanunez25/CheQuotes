@@ -5987,6 +5987,16 @@ A week well-spent, a tale to begin.
 </blockquote>Michaelangelo`,
 
 `<blockquote>
+  Humans are the demon scum of the Earth. Avoid them. Don’t say hi. 
+  They lust to murder that which is different from them. 
+  To interact with them is to die.
+</blockquote>TMNT`,
+
+`<blockquote>
+  Throwing up is cheating
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
