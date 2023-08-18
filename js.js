@@ -6002,6 +6002,16 @@ A week well-spent, a tale to begin.
 </blockquote>Randall Park`,
 
 `<blockquote>
+  Cake represents joy – Birthdays, graduations, retirements. 
+  No one's ever heard of a wedding pie. Every important milestone in 
+  your life, cake was there. Cake watched you grow up. And sure, some 
+  may say pie burst out, but I say pie is confused. It doesn't know 
+  what it wants to be. Is it savory? Is it sweet? Shepherd's pie has 
+  lamb in it. Do they seem like good shepherds to you? So, really, 
+  when you think about it, pie is murder. If you choose life, choose cake.
+</blockquote>Evan Huang`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
