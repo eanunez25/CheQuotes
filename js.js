@@ -5994,7 +5994,12 @@ A week well-spent, a tale to begin.
 
 `<blockquote>
   Throwing up is cheating
-</blockquote>`,
+</blockquote>Vlad`,
+
+`<blockquote>
+  Sometimes you have to spend money you don't have to make it seem 
+  like you have money that you don't spend
+</blockquote>Randall Park`,
 
 `<blockquote>
   
