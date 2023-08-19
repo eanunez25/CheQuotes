@@ -6012,6 +6012,10 @@ A week well-spent, a tale to begin.
 </blockquote>Evan Huang`,
 
 `<blockquote>
+  Laziness is the mother of all bad habits, but ultimately, she is a mother and we should respect her
+</blockquote>Shikamaru`,
+
+`<blockquote>
   I call her Shrek cause she got a donkey
 </blockquote>Post Malone`,
 
