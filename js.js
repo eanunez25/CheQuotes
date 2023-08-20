@@ -6020,6 +6020,25 @@ A week well-spent, a tale to begin.
 </blockquote>Post Malone`,
 
 `<blockquote>
+  Nobody ever drowned in their own sweat.
+</blockquote>Ann Landers`,
+
+`<blockquote>
+  I hate Disneyland. It primes our kids for Las Vegas.
+</blockquote>Tom Waits`,
+
+`<blockquote>
+  Good, better, best. <br>
+  Never let it rest. <br>
+  Til your good is better <br>
+  and your better is best.
+</blockquote>St. Jerome`,
+
+`<blockquote>
+  Everything and anything you want to do, you can do in Las Vegas
+</blockquote>Drew Carey`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
