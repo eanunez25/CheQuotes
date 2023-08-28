@@ -6047,8 +6047,8 @@ A week well-spent, a tale to begin.
 </blockquote>Jonathan Swift`,
 
 `<blockquote>
-  
-</blockquote>`,
+  A hospital is no place to be sick.
+</blockquote>Samuel Goldwyn`,
 
 `<blockquote>
   
