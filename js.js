@@ -6051,6 +6051,10 @@ A week well-spent, a tale to begin.
 </blockquote>Samuel Goldwyn`,
 
 `<blockquote>
+  Don't lie to the girl of your life for the hoe of the night
+</blockquote>Drake`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
