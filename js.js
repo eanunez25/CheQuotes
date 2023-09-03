@@ -6071,6 +6071,11 @@ A week well-spent, a tale to begin.
 </blockquote>out of context beer mile training tip`,
 
 `<blockquote>
+  September is here. Time to pick a Halloween costume & start 
+  Christmas shopping. Happy New Year everyone!
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
