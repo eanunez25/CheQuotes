@@ -6084,8 +6084,18 @@ A week well-spent, a tale to begin.
 </blockquote>`,  
 
 `<blockquote>
-  
+  A white lie is a lie that protects you from all the things that
+  make white people soft
 </blockquote>`, 
+
+`<blockquote>
+  Your job is a vacation from poverty
+</blockquote>`, 
+
+`<blockquote>
+  
+</blockquote>`,
+
 
 // 12/1/31
 `<blockquote>
