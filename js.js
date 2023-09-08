@@ -6351,16 +6351,17 @@ const minusFive = document.querySelector("h3.minus-five")
 const minusSix = document.querySelector("h3.minus-six")
 const minusSeven = document.querySelector("h3.minus-seven")
 
-let date = today.getMonth()
-let monthHistory = date + 1
+let previousDate = (interval) => {
+  return new Date(Date.now()-(86400000*interval)).toLocaleDateString('en-us', {weekday:"long", month:"long", day:"numeric"})
+}
 
-minusOne.innerHTML = monthHistory + "/" + String(today.getDate()-1)
-minusTwo.innerHTML = monthHistory + "/" + String(today.getDate()-2)
-minusThree.innerHTML = monthHistory + "/" + String(today.getDate()-3)
-minusFour.innerHTML = monthHistory + "/" + String(today.getDate()-4)
-minusFive.innerHTML = monthHistory + "/" + String(today.getDate()-5)
-minusSix.innerHTML = monthHistory + "/" + String(today.getDate()-6)
-minusSeven.innerHTML = monthHistory + "/" + String(today.getDate()-7)
+minusOne.innerHTML = previousDate(1)
+minusTwo.innerHTML = previousDate(2)
+minusThree.innerHTML = previousDate(3)
+minusFour.innerHTML = previousDate(4)
+minusFive.innerHTML = previousDate(5)
+minusSix.innerHTML = previousDate(6)
+minusSeven.innerHTML = previousDate(7)
 
 const minusOneQ = document.querySelector("p.minus-one")
 const minusTwoQ = document.querySelector("p.minus-two")
