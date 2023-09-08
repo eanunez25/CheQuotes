@@ -6341,6 +6341,43 @@ todaysQuote = () => {
 todaysQuote();
 
 
+// history -----------------------------------------------------------------------------
+
+const minusOne = document.querySelector("h3.minus-one")
+const minusTwo = document.querySelector("h3.minus-two")
+const minusThree = document.querySelector("h3.minus-three")
+const minusFour = document.querySelector("h3.minus-four")
+const minusFive = document.querySelector("h3.minus-five")
+const minusSix = document.querySelector("h3.minus-six")
+const minusSeven = document.querySelector("h3.minus-seven")
+
+let date = today.getMonth()
+let monthHistory = date + 1
+
+minusOne.innerHTML = monthHistory + "/" + String(today.getDate()-1)
+minusTwo.innerHTML = monthHistory + "/" + String(today.getDate()-2)
+minusThree.innerHTML = monthHistory + "/" + String(today.getDate()-3)
+minusFour.innerHTML = monthHistory + "/" + String(today.getDate()-4)
+minusFive.innerHTML = monthHistory + "/" + String(today.getDate()-5)
+minusSix.innerHTML = monthHistory + "/" + String(today.getDate()-6)
+minusSeven.innerHTML = monthHistory + "/" + String(today.getDate()-7)
+
+const minusOneQ = document.querySelector("p.minus-one")
+const minusTwoQ = document.querySelector("p.minus-two")
+const minusThreeQ = document.querySelector("p.minus-three")
+const minusFourQ = document.querySelector("p.minus-four")
+const minusFiveQ = document.querySelector("p.minus-five")
+const minusSixQ = document.querySelector("p.minus-six")
+const minusSevenQ = document.querySelector("p.minus-seven")
+
+minusOneQ.innerHTML = cheQuotes[Math.floor(dayDifference)-1]
+minusTwoQ.innerHTML = cheQuotes[Math.floor(dayDifference)-2]
+minusThreeQ.innerHTML = cheQuotes[Math.floor(dayDifference)-3]
+minusFourQ.innerHTML = cheQuotes[Math.floor(dayDifference)-4]
+minusFiveQ.innerHTML = cheQuotes[Math.floor(dayDifference)-5]
+minusSixQ.innerHTML = cheQuotes[Math.floor(dayDifference)-6]
+minusSevenQ.innerHTML = cheQuotes[Math.floor(dayDifference)-7]
+
 //  quote count ------------------------------------------------------------------------
 const quotesLeft = cheQuotes.length - dayDifference -1;
 console.log("Quotes left: " + quotesLeft);
