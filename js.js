@@ -6097,6 +6097,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
   
 `<blockquote>
+  Going out until 2 AM is just borrowing happiness from tomorrow
+</blockquote>Chinese Proverb`,
+
+`<blockquote>
   
 </blockquote>`,
 
