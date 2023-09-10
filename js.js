@@ -6101,6 +6101,11 @@ A week well-spent, a tale to begin.
 </blockquote>Chinese Proverb`,
 
 `<blockquote>
+  Jogging is very beneficial. It's good for your legs and your feet. 
+  It's also very good for the ground. If makes it feel needed.
+</blockquote>Charles Schulz`,
+
+`<blockquote>
   
 </blockquote>`,
 
