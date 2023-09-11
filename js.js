@@ -6110,7 +6110,8 @@ A week well-spent, a tale to begin.
 </blockquote>Robin Scherbatsky`,
 
 `<blockquote>
-  
+  In a world full of Karen's, be a Sharon. Sharon is based. Sharon is nice.
+  Sharon is fun. Sharon is good.
 </blockquote>`,
 
 `<blockquote>
