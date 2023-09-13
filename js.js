@@ -6115,6 +6115,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+Rule number one: If you want to own something, pee on it
+</blockquote>Jamie Foxx`,
+
+`<blockquote>
   
 </blockquote>`,
 
