@@ -6115,11 +6115,16 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
-Rule number one: If you want to own something, pee on it
+  Rule number one: If you want to own something, pee on it
 </blockquote>Jamie Foxx`,
 
 `<blockquote>
-  
+  The rest of the months are for hitting up bars: Septem-bar, Octo-bar, Novem-bar, 
+  Decem-bar
+</blockquote>`,
+
+`<blockquote>
+
 </blockquote>`,
 
 
