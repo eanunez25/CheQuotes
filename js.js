@@ -6132,6 +6132,12 @@ A week well-spent, a tale to begin.
 </blockquote>Herbert Henry Asquist`,
 
 `<blockquote>
+  When we drink, we get drunk. When we get drunk, we fall asleep.
+  And when we go to sleep, we commit no sin. And when we commit no sin, we go to heaven.
+  So let's get drunk and all go to heaven.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 
