@@ -6146,6 +6146,10 @@ A week well-spent, a tale to begin.
 </blockquote>John Cena, Vacation Friends`,
 
 `<blockquote>
+  If there's no light, there's no problem
+</blockquote>Rachael Joy Lumba`,
+
+`<blockquote>
   
 </blockquote>`,
 
