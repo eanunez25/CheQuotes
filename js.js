@@ -6150,9 +6150,49 @@ A week well-spent, a tale to begin.
 </blockquote>Rachael Joy Lumba`,
 
 `<blockquote>
-  
+  When you want to skip the gym, remember your height starts with a 5
 </blockquote>`,
 
+`<blockquote>
+  The Taco Bell drive thru at 1am will have a $200k Mercedes S65 waiting
+  right behind a '96 Cavalier that's never had the oil chnaged followed 
+  by a moped ridden by three people all craving the same thing: to live mas. 
+  Truly the last great melting pot of class in this country. 
+</blockquote>`,
+
+`<blockquote>
+  I'm not an alcoholic but my friends are and I'm competitive.
+</blockquote>Conall Boyle`,
+
+`<blockquote>
+
+</blockquote>`,
+
+// 11/1/23
+`<blockquote>
+  When the nut was plentiful
+  When the nut was tender<br>
+  Because I’m fasting from the nut<br>
+  I go outside to clear my mind<br>
+  But I see a nut tree<br>
+  I see nuts of every kind<br><br>
+  And so I begin to wonder<br>
+  If fasting from the nut was a blunder<br>
+  Should I just go crazy? Should I release the thunder?<br>
+  But oh no! I made a bet that I could resist the nut<br>
+  And I am not a baller<br>
+  Best believe that I am not paying that five dollar<br><br>
+  A week left in my journey<br>
+  For the nut I am yearning<br>
+  The nut will not bug me<br>
+  I’m not a rolly polly<br>
+  I am a man<br>
+  The nut will not control me<br><br>
+  So December comes blooming<br>
+  Blooming like a daisy<br>
+  Best believe nightest December<br>
+  Ya boy is going crazy
+</blockquote>`,
 
 // 12/1/31
 `<blockquote>
