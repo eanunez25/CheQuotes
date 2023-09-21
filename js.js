@@ -6165,6 +6165,16 @@ A week well-spent, a tale to begin.
 </blockquote>Conall Boyle`,
 
 `<blockquote>
+  I don't want to be too technical or anything. But according to 
+  chemistry, alcohol is a solution.
+</blockquote>`,
+
+`<blockquote>
+  There's so many great things to do with the human mouth. 
+  Why waste it on talking?
+</blockquote>Barney Stinson`,
+
+`<blockquote>
 
 </blockquote>`,
 
