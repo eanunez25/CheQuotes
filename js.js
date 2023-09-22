@@ -6155,7 +6155,7 @@ A week well-spent, a tale to begin.
 
 `<blockquote>
   The Taco Bell drive thru at 1am will have a $200k Mercedes S65 waiting
-  right behind a '96 Cavalier that's never had the oil chnaged followed 
+  right behind a '96 Cavalier that's never had the oil changed followed 
   by a moped ridden by three people all craving the same thing: to live mas. 
   Truly the last great melting pot of class in this country. 
 </blockquote>`,
