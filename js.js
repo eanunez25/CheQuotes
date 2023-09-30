@@ -6193,7 +6193,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  A drunk man's words are a sober man's thoughts
+</blockquote>`,
 
+`<blockquote>
+  
 </blockquote>`,
 
 // 11/1/23
