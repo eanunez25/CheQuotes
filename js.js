@@ -6197,6 +6197,15 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Every dead body on Mt Everest was once a highly motivated person, so
+  maybe calm down
+</blockquote>`,
+
+`<blockquote>
+  I need a room full of mirrors so I can be surrounded by winners
+</blockquote>Ye`,
+
+`<blockquote>
   
 </blockquote>`,
 
