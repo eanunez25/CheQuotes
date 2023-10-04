@@ -6210,6 +6210,11 @@ A week well-spent, a tale to begin.
 </blockquote>Rosamund Pike`,
 
 `<blockquote>
+  A Bro is always entitled to do something stupid, as long as 
+  the rest of his Bros are all doing it.
+</blockquote>Barney Stinson`,
+
+`<blockquote>
   
 </blockquote>`,
 
