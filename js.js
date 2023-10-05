@@ -6220,6 +6220,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Men! It's like if there weren't pickle jars to open and 
+  spiders to kill and computers to back up, what would be their point?
+</blockquote>Marshall Eriksen`,
+
+`<blockquote>
   
 </blockquote>`,
 
