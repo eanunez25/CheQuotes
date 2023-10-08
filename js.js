@@ -6229,7 +6229,7 @@ A week well-spent, a tale to begin.
 </blockquote>Marissa this morning`,
 
 `<blockquote>
-  I want you to deal with your problems by becomining rich
+  I want you to deal with your problems by becoming rich
 </blockquote>Jordan Belfort`,
 
 `<blockquote>
