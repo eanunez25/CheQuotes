@@ -6233,6 +6233,15 @@ A week well-spent, a tale to begin.
 </blockquote>Jordan Belfort`,
 
 `<blockquote>
+  Run into the setting sun. Run and suffer. But don't mess up your hair!
+</blockquote>Might Guy`,
+
+`<blockquote>
+  I could eat it for breakfast, lunch, and dinner. Half of my body's
+  made of ramen.
+</blockquote>Naruto`,
+
+`<blockquote>
   
 </blockquote>`,
 
