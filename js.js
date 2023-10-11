@@ -6242,6 +6242,10 @@ A week well-spent, a tale to begin.
 </blockquote>Naruto`,
 
 `<blockquote>
+  What seems impossible today will one day be your warm up
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
