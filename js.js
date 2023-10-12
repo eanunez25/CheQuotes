@@ -6250,6 +6250,17 @@ A week well-spent, a tale to begin.
 </blockquote>Emma Chase`,
 
 `<blockquote>
+  A Texan, a Californian, and a Seattleite walk into a bar. Wanting to show off some hometown pride, 
+  the Texan orders an entire bottle of whiskey. He takes one drink, throws the bottle up into the air, 
+  shoots it with his gun, and says, "Where I come from, we've got plenty of whiskey." The Californian, 
+  not to be outdone, orders a fine Napa Valley wine. He drinks one glass, borrows the Texan's gun, throws 
+  the bottle in the air, shoots it, and says, "Where I come from, we've got plenty of wine." The Seattleite 
+  has been watching all of this and figures it's his turn. He orders a northwest microbrew, drinks the entire 
+  thing, throws the bottle in the air, takes the gun and shoots the Californian, catches the bottle and says, 
+  "Where I come from, we've got plenty of Californians, but I need to recycle this."
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
