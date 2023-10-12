@@ -6246,8 +6246,13 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Don't put off until tomorrow anyone you can be doing today
+</blockquote>Emma Chase`,
+
+`<blockquote>
   
 </blockquote>`,
+
 
 // 11/1/23
 `<blockquote>
