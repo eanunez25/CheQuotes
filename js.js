@@ -6261,7 +6261,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
-  
+  A helicopter was flying around above Seattle...  A helicopter was flying around above Seattle 
+  when an electrical malfunction disabled all of the aircraft's electronic navigation and communications equipment.  
+  Due to the clouds and haze, the pilot could not determine the helicopter's position. The pilot saw a tall building, 
+  flew toward it, circled, and held up a handwritten sign that said "WHERE AM I?" in large letters. People in the 
+  tall building quickly responded to the aircraft, drew a large sign, and held it in a building window. Their sign 
+  said "YOU ARE IN A HELICOPTER."   The pilot smiled, waved, looked at his map, determined the course to steer to 
+  SEA-TAC airport, and landed safely. After they were on the ground, the copilot asked the pilot how he had done it. 
+  "I knew it had to be the Microsoft Building, because they gave me a technically correct but completely useless answer."
 </blockquote>`,
 
 
