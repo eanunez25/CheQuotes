@@ -6271,8 +6271,6 @@ A week well-spent, a tale to begin.
   "I knew it had to be the Microsoft Building, because they gave me a technically correct but completely useless answer."
 </blockquote>`,
 
-
-// 11/1/23
 `<blockquote>
   When the nut was plentiful
   When the nut was tender<br>
@@ -6299,6 +6297,33 @@ A week well-spent, a tale to begin.
   Blooming like a daisy<br>
   Best believe nightest December<br>
   Ya boy is going crazy
+</blockquote>`,
+
+`<blockquote>
+  THe only pain I want in my life is cham-pain
+</blockquote>`,
+
+`<blockquote>
+  Drinking rum before 10am makes you a pirate not an alcoholic
+</blockquote>`,
+
+`<blockquote>
+  Getting durnk is such a gamble. Am I going straight to bed? Start a fight?
+  Pretend like I'm a ballroom dancer? Blackout? Do something I regret? You 
+  never know.
+</blockquote>`,
+
+`<blockquote>
+  If you're Filipino with big legs, those are the legs that killed
+  Magellan. Don't forget.
+</blockquote>Matt Manalo`,
+
+`<blockquote>
+  Male bees die after mating. That's basically their life. Honey. Nut. Cheerio.
+</blockquote>`,
+
+`<blockquote>
+
 </blockquote>`,
 
 // 12/1/31
