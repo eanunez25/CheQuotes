@@ -6323,6 +6323,17 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Not eating all day to get drunk off 1 beer instead of 3 is just being financially responsible
+</blockquote>`,
+
+`<blockquote>
+  In heaven there is no beer<br>
+  that is why we drink it here<br>
+  and when we are gone from here<br>
+  our friends will be drinking our beer
+</blockquote>`,
+  
+`<blockquote>
 
 </blockquote>`,
 
