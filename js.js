@@ -6334,6 +6334,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
   
 `<blockquote>
+  Never open your mouth until you know what the shot is
+</blockquote>Ricky Roma`,
+
+`<blockquote>
 
 </blockquote>`,
 
