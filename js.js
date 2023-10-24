@@ -6338,8 +6338,12 @@ A week well-spent, a tale to begin.
 </blockquote>Ricky Roma`,
 
 `<blockquote>
-
+  Can we normalize drinking at 3pm so I can be drunk and in bed by 10pm. I have work & gym in the morning
 </blockquote>`,
+
+`<blockquote>
+
+</blockquote>`,  
 
 // 12/1/31
 `<blockquote>
