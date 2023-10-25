@@ -6342,6 +6342,16 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+    If all be true that I do think<br>
+    Then there are five good reasons why we drink<br>
+    Good friends<br>
+    Good wine<br>
+    Lest we be dry<br>
+    Or if we are just passing by<br>
+    Or any other reason why
+</blockquote>`,  
+
+`<blockquote>
 
 </blockquote>`,  
 
