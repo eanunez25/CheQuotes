@@ -6352,9 +6352,13 @@ A week well-spent, a tale to begin.
 </blockquote>`,  
 
 `<blockquote>
+  Clear alcohols are for rich women on diets
+</blockquote>Rob Swanson`,  
 
-</blockquote>`,  
+`<blockquote>
 
+</blockquote>`, 
+  
 // 12/1/31
 `<blockquote>
   The last day of 2023 will be 123123
