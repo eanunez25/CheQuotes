@@ -6356,6 +6356,10 @@ A week well-spent, a tale to begin.
 </blockquote>Rob Swanson`,  
 
 `<blockquote>
+  I distrust camels, and anyone else who can go a week without a drink.
+</blockquote>Joe E Ellis`, 
+
+`<blockquote>
 
 </blockquote>`, 
   
