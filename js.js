@@ -6360,6 +6360,10 @@ A week well-spent, a tale to begin.
 </blockquote>Joe E Ellis`, 
 
 `<blockquote>
+  What if alcohol is addicted to me and I'm just the victim? Ever think of that.
+</blockquote>`, 
+
+`<blockquote>
 
 </blockquote>`, 
   
