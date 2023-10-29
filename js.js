@@ -6364,7 +6364,7 @@ A week well-spent, a tale to begin.
 </blockquote>`, 
 
 `<blockquote>
-
+ hiking is just stumbling on great places to drink
 </blockquote>`, 
   
 // 12/1/31
