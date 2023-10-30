@@ -6366,6 +6366,14 @@ A week well-spent, a tale to begin.
 `<blockquote>
  hiking is just stumbling on great places to drink
 </blockquote>`, 
+
+`<blockquote>
+   Washington is nicknamed the Evergreen State because it sounds better than the Incessant Nagging Drizzle State
+</blockquote>Dave Barry`, 
+
+`<blockquote>
+ 
+</blockquote>`, 
   
 // 12/1/31
 `<blockquote>
