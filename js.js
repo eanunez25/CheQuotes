@@ -6372,6 +6372,10 @@ A week well-spent, a tale to begin.
 </blockquote>Dave Barry`, 
 
 `<blockquote>
+   We consider ourselves vegetarians because we survive on the blood of animals but it's like a human only living on tofu
+</blockquote>Edward Cullen`, 
+
+`<blockquote>
  
 </blockquote>`, 
   
