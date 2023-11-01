@@ -6376,6 +6376,19 @@ A week well-spent, a tale to begin.
 </blockquote>Edward Cullen`, 
 
 `<blockquote>
+  You know you're from Washington when you refer to Mt. Rainier as "the mountain"
+</blockquote>`, 
+
+`<blockquote>
+ You know you're from Washington when you live in a small town and when you try explaining where you live, you eventually
+ just say: oh, nevermind, just near Seattle
+</blockquote>`, 
+
+`<blockquote>
+   You know you're from Washington when 65 degress is hot
+</blockquote>`, 
+
+`<blockquote>
  
 </blockquote>`, 
   
