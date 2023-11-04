@@ -6389,8 +6389,20 @@ A week well-spent, a tale to begin.
 </blockquote>`, 
 
 `<blockquote>
- 
+   Life is short. Not as short as you, but still short. Enjoy it, go outside, and do whatever short people do.
 </blockquote>`, 
+
+`<blockquote>
+   Married people with kids and careers find time to have affairs. Don't let any person tell you they're too busy for you.
+</blockquote>`, 
+
+`<blockquote>
+   The weekend will always last longer if you start drinking on Wednesday
+</blockquote>`,
+
+`<blockquote>
+ 
+</blockquote>`,   
   
 // 12/1/31
 `<blockquote>
