@@ -6401,6 +6401,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+   Life is not a waste of time. Time is not a waste of life. Let's stop wasting time, get wasted, and have the time of our lives.
+</blockquote>`,   
+
+`<blockquote>
  
 </blockquote>`,   
   
