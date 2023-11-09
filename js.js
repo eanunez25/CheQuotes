@@ -6409,7 +6409,8 @@ A week well-spent, a tale to begin.
 </blockquote>Julia Child`,   
 
 `<blockquote>
-   
+   I only drink on days that start with a T. So that's Tuesday & Thursday.
+   Today. Tomorrow. Thaturday. Thunday.
 </blockquote>`,
 
 `<blockquote>
