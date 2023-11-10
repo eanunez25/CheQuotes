@@ -6414,6 +6414,34 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  When life hands you lemons, make lemonade? No. First you roll out a 
+  multi-media campaign to convince people lemons are incredibly scarce, 
+  which only works if you stockpile lemons, control the supply, then a 
+  media blitz. Lemon is the only way to say “I love you,” the must-have 
+  accessory for engagements or anniversaries. Roses are out, lemons are in. 
+  Billboards that say she won’t have sex with you unless you got lemons. 
+  You cut De Beers in on it. Limited edition lemon bracelets, yellow 
+  diamonds called lemon drops. You get Apple to call their new operating 
+  system OS-Lemón. A little accent over the “o.” You charge 40% more for 
+  organic lemons, 50% more for conflict-free lemons. You pack the Capitol 
+  with lemon lobbyists, you get a Kardashian to suck a lemon wedge in a 
+  leaked sex tape. Timotheé Chalamet wears lemon shoes at Cannes. Get a 
+  hashtag campaign. Something isn’t “cool” or “tight” or “awesome,” no, 
+  it’s “lemon.” “Did you see that movie? Did you see that concert? It 
+  was effing lemon.” Billie Eilish, “OMG, hashtag… lemon.” You get Dr. 
+  Oz to recommend four lemons a day and a lemon suppository supplement 
+  to get rid of toxins ‘cause there’s nothing scarier than toxins. Then 
+  you patent the seeds. You write a line of genetic code that makes the 
+  lemons look just a little more like tits… and you get a gene patent 
+  for the tit-lemon DNA sequence, you cross-pollinate… you get those 
+  seeds circulating in the wild, and then you sue the farmer for copyright 
+  infringement when that genetic code shows up on their land. Sit back, 
+  rake in the millions, and then, when you’re done, and you’ve sold your 
+  lem-pire for a few billion dollars, then, and only then, you make some 
+  fucking lemonade.
+</blockquote>Roderick Usher`,
+
+`<blockquote>
  
 </blockquote>`,
   
