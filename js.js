@@ -6442,6 +6442,10 @@ A week well-spent, a tale to begin.
 </blockquote>Roderick Usher`,
 
 `<blockquote>
+  Let me tell you something. I'm from Chicago. I don't break.
+</blockquote>Obama`,
+
+`<blockquote>
  
 </blockquote>`,
   
