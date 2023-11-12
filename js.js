@@ -6446,7 +6446,19 @@ A week well-spent, a tale to begin.
 </blockquote>Obama`,
 
 `<blockquote>
- 
+  I’m from Chicago. Thin crust pizza? No thank you. I’m from Chicago.
+</blockquote>Julius Pepperwood`,
+
+`<blockquote>
+  Anybody here from Chicago? Chicago, Illinois? City of Big Shoulders, Big Dreams!
+</blockquote>Nick Miller`,
+
+`<blockquote>
+  
+</blockquote>`,
+
+`<blockquote>
+  
 </blockquote>`,
   
 // 12/1/31
