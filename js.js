@@ -6454,8 +6454,8 @@ A week well-spent, a tale to begin.
 </blockquote>Nick Miller`,
 
 `<blockquote>
-  
-</blockquote>`,
+  You treat an outside wound with rubbing alcohol, you treat an inside wound with drinking alcohol. It's science.
+</blockquote>Nick Miller`,
 
 `<blockquote>
   
