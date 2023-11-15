@@ -6458,6 +6458,10 @@ A week well-spent, a tale to begin.
 </blockquote>Nick Miller`,
 
 `<blockquote>
+  The difference between stupidity and genius is that genius has its limits
+</blockquote>Neji Hyuga`,
+
+`<blockquote>
   
 </blockquote>`,
   
