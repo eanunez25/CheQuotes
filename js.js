@@ -6466,6 +6466,12 @@ A week well-spent, a tale to begin.
 </blockquote>`,
   
 `<blockquote>
+  Before modern medicine really started kicking off on the 19th century, the average mortality rate was in your 30s.
+  So when your back hurts or your neck is cranked or you just have tummy issues, this is your body whispering to you 
+  its time to go.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
   
