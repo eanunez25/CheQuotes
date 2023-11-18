@@ -6472,6 +6472,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  A cute girl stopped me on the way, so I danced
+</blockquote>Kakashi Hatake`,
+
+`<blockquote>
   
 </blockquote>`,
   
