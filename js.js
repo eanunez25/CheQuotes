@@ -6476,6 +6476,10 @@ A week well-spent, a tale to begin.
 </blockquote>Kakashi Hatake`,
 
 `<blockquote>
+  Scratch a dog and you'll find a permanent job.
+</blockquote>Franklin P. Jones`,
+
+`<blockquote>
   
 </blockquote>`,
   
