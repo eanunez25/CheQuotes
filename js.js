@@ -6480,6 +6480,10 @@ A week well-spent, a tale to begin.
 </blockquote>Franklin P. Jones`,
 
 `<blockquote>
+  If we needed to talk about feelings, they would be called ‘talkings.’
+</blockquote>Nick Miller`,
+
+`<blockquote>
   
 </blockquote>`,
   
