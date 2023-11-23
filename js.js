@@ -6492,6 +6492,17 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  May your stuffing be tasty. <br>
+  May your turkey be plump. <br>
+  May your potatoes and gravy <br>
+  have nary a lump. <br>
+  May your yams be delicious <br>
+  and your pies take the prize, <br>
+  and may your Thanksgiving dinner <br>
+  stay off of your thighs
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
   
