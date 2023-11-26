@@ -6515,6 +6515,12 @@ A week well-spent, a tale to begin.
 </blockquote>Waluigi`,
 
 `<blockquote>
+  Thanks to the gym, the average guy has bigger boobs, rounder glutes, and is better at meal prepping than most
+  women. I miss the good old days when a fit guy was someone who went for a jog and did a bicep curl. It's hard
+  enough being a woman without having to compete with men for feminine quantities. 
+</blockquote>Najah Hatahet`,
+
+`<blockquote>
   
 </blockquote>`,
   
