@@ -6521,6 +6521,10 @@ A week well-spent, a tale to begin.
 </blockquote>Najah Hatahet`,
 
 `<blockquote>
+  If you want a guarantee, buy a toaster
+</blockquote>Clint Eastwood`,
+
+`<blockquote>
   
 </blockquote>`,
   
