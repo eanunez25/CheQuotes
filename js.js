@@ -6525,6 +6525,10 @@ A week well-spent, a tale to begin.
 </blockquote>Clint Eastwood`,
 
 `<blockquote>
+  There are huge mathematical advantages to doing nothing
+</blockquote>Charlie Munger`,
+
+`<blockquote>
   
 </blockquote>`,
   
