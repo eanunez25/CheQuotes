@@ -6528,14 +6528,16 @@ A week well-spent, a tale to begin.
   There are huge mathematical advantages to doing nothing
 </blockquote>Charlie Munger`,
 
+// 12/1/31
+`<blockquote>
+  The last day of 2023 will be 123123
+</blockquote>`, 
+
 `<blockquote>
   
 </blockquote>`,
   
-// 12/1/31
-`<blockquote>
-  The last day of 2023 will be 123123
-</blockquote>`,    
+   
 ]
 
 
