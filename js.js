@@ -6539,6 +6539,10 @@ A week well-spent, a tale to begin.
 </blockquote>Anthony Bourdain`,
 
 `<blockquote>
+  You can observe a lot by just watching.
+</blockquote>Yogi Berra`,
+
+`<blockquote>
   
 </blockquote>`,
   
