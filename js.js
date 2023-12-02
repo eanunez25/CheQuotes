@@ -6543,6 +6543,18 @@ A week well-spent, a tale to begin.
 </blockquote>Yogi Berra`,
 
 `<blockquote>
+  The greater their presence, the greater their gains.
+</blockquote>Eyrie Dynasties`,
+
+`<blockquote>
+  My side girl got a 5S with a screen crack, still hit me back right away
+</blockquote>Drake`,
+
+`<blockquote>
+  I DON'T TAKE NAPS 
+</blockquote>Drake`,
+
+`<blockquote>
   
 </blockquote>`,
   
