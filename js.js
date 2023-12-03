@@ -6546,6 +6546,11 @@ A week well-spent, a tale to begin.
   The greater their presence, the greater their gains.
 </blockquote>Eyrie Dynasties`,
 
+//shes the man
+`<blockquote>
+  Girls with asses like mine do not talk to boys with faces like yours
+</blockquote>Monique, She's the Man`,
+
 `<blockquote>
   My side girl got a 5S with a screen crack, still hit me back right away
 </blockquote>Drake`,
