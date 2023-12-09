@@ -6569,6 +6569,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  There is no escape. The only hope is the sweet relief of death.
+</blockquote>Lumalee`,
+
+`<blockquote>
   
 </blockquote>`,
   
