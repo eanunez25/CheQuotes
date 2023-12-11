@@ -6578,6 +6578,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Candy is nature’s way of making up for Mondays
+</blockquote>Rebecca Gober`,
+
+`<blockquote>
   
 </blockquote>`,
   
