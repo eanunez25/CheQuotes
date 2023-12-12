@@ -6582,6 +6582,10 @@ A week well-spent, a tale to begin.
 </blockquote>Rebecca Gober`,
 
 `<blockquote>
+  The optimist sees the donut. The pessimist sees the hole.
+</blockquote>Oscar Wilde`,
+
+`<blockquote>
   
 </blockquote>`,
   
