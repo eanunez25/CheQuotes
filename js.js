@@ -6586,6 +6586,12 @@ A week well-spent, a tale to begin.
 </blockquote>Oscar Wilde`,
 
 `<blockquote>
+  Captain Ray Holt: When I die, please give Kevin my regards.<br>
+  Bob Annderson: What should I tell him?<br>
+  Captain Ray Holt: Regards.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
   
