@@ -6596,6 +6596,10 @@ A week well-spent, a tale to begin.
 </blockquote>Marissa Jain`,
 
 `<blockquote>
+  First you take a drink, then the drink takes a drink, then the drink takes you.
+</blockquote>F. Scott Fitzgerald`,
+
+`<blockquote>
   
 </blockquote>`,
   
