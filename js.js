@@ -6600,9 +6600,13 @@ A week well-spent, a tale to begin.
 </blockquote>F. Scott Fitzgerald`,
 
 `<blockquote>
+  If you're having a bad day, just remember that the airport in Vienna has a counter for people who flew to Austria
+  instead of Australia
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
-  
    
 ]
 
