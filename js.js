@@ -6613,6 +6613,10 @@ A week well-spent, a tale to begin.
 </blockquote>Coriolanus Snow`,
 
 `<blockquote>
+  It’s just super fun
+</blockquote>Bill Gates on playing pickleball (Bill Gates has actually played pickleball for decades)`,
+
+`<blockquote>
   
 </blockquote>`,
    
