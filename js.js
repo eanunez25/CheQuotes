@@ -6617,6 +6617,10 @@ A week well-spent, a tale to begin.
 </blockquote>Bill Gates on playing pickleball (Bill Gates has actually played pickleball for decades)`,
 
 `<blockquote>
+  Always read something that will make you look good if you die in the middle of it.
+</blockquote>PJ O'Rourke`,
+
+`<blockquote>
   
 </blockquote>`,
    
