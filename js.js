@@ -6621,6 +6621,10 @@ A week well-spent, a tale to begin.
 </blockquote>PJ O'Rourke`,
 
 `<blockquote>
+  It is literally impossible to be a woman.
+</blockquote>Gloria, Barbie`,
+
+`<blockquote>
   
 </blockquote>`,
    
