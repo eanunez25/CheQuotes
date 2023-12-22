@@ -6625,6 +6625,11 @@ A week well-spent, a tale to begin.
 </blockquote>Gloria, Barbie`,
 
 `<blockquote>
+  Tip your drag queens, bartenders, and don't rub your chopsticks together 
+  at the sushi restaurant. Also, just in general, don't be a dirtbag human.
+</blockquote>Aquaria`,
+
+`<blockquote>
   
 </blockquote>`,
    
