@@ -6640,6 +6640,21 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  When four of Santa's elves got sick, the trainee elves did not produce toys as fast as the regular ones, 
+  and Santa began to feel the pre-Christmas pressure. Then Mrs. Claus told Santa her Mother was coming to visit, 
+  which stressed Santa even more. When he went to harness the reindeer, he found that three of them were about 
+  to give birth and two others had jumped the fence and were gone, heaven knows where. Then when he began to load 
+  the sleigh, one of the floorboards cracked, the toy bag fell to the ground and all the toys were scattered. 
+  Frustrated, Santa went in the house for a cup of apple cider and a shot of rum. When he went to the cupboard, 
+  he discovered the elves had finished the cider and the liquor. In his frustration, he accidentally dropped the 
+  liquor bottle, and it broke into hundreds of little glass pieces all over the kitchen floor. He went to get the 
+  broom and found the mice had eaten all the straw off the end of the broom. Just then the doorbell rang, and an 
+  irritated Santa stomped to the door, yanked it open, and there stood a little angel with a great big Christmas tree. 
+  The angel said very cheerfully, 'Merry Christmas, Santa. Isn't this a lovely day? I have a beautiful tree for you.
+  Where would you like me to stick it? And so began the tradition of the little angel on top of the Christmas tree.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
    
