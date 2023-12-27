@@ -6659,6 +6659,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ernest`,
 
 `<blockquote>
+  There are shortcuts to happiness and dancing is one of them
+</blockquote>Vicki Braum`,
+
+`<blockquote>
   
 </blockquote>`,
    
