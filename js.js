@@ -6663,6 +6663,10 @@ A week well-spent, a tale to begin.
 </blockquote>Vicki Braum`,
 
 `<blockquote>
+  Jackie Chan is a myth
+</blockquote>Jackie Chan`,
+
+`<blockquote>
   
 </blockquote>`,
    
