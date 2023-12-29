@@ -6667,6 +6667,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jackie Chan`,
 
 `<blockquote>
+  Always put your bros before your ho ho hos
+</blockquote>Santa`,  
+
+`<blockquote>
   If you want to be successful, don't have a wife
 </blockquote>`,
 
