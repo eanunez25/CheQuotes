@@ -6668,7 +6668,13 @@ A week well-spent, a tale to begin.
 
 `<blockquote>
   Always put your bros before your ho ho hos
-</blockquote>Santa`,  
+</blockquote>Santa`, 
+
+`<blockquote>
+  Well college was a waste of time. What I want is to help people and you don't need a degree for that. 
+  Look at dogs: they help the blind and people who pretend to be nervous on planes. They never went to Ruff-gers University
+  or Boston Collie or UC Bark-ley or Marma-Duke or Corgi Mellon or the Mutt-sachusetts Inti-cute of Technolo-dog. 
+</blockquote>Unbreakable Kimmy`,  
 
 `<blockquote>
   If you want to be successful, don't have a wife
