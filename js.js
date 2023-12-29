@@ -6667,8 +6667,20 @@ A week well-spent, a tale to begin.
 </blockquote>Jackie Chan`,
 
 `<blockquote>
-  
+  If you want to be successful, don't have a wife
 </blockquote>`,
+
+`<blockquote>
+  Life is like a Pringles can, you always got to work for that last chip
+</blockquote>`,
+
+`<blockquote>
+  When times get rough, just get buff
+</blockquote>`,  
+
+`<blockquote>
+  
+</blockquote>`,  
    
 ]
 
