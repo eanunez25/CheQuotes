@@ -6681,6 +6681,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Anyone can be a doctor. They just have to be stupid enough to stick with it. 
+</blockquote>William Quidilla, M.D.`,  
+
+`<blockquote>
+  Rachael is so inconsiderate
+</blockquote>Monica, Marissa, Elvin, Bernard`,  
+
+`<blockquote>
   Life is like a Pringles can, you always got to work for that last chip
 </blockquote>`,
 
@@ -6691,6 +6699,8 @@ A week well-spent, a tale to begin.
 `<blockquote>
   
 </blockquote>`,  
+
+
    
 ]
 
