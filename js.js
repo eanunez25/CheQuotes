@@ -6697,9 +6697,12 @@ A week well-spent, a tale to begin.
 </blockquote>`,  
 
 `<blockquote>
-  
+  If you think you hate everyone, have something to eat. If you think everyone hates you, have a nap.
 </blockquote>`,  
 
+`<blockquote>
+  
+</blockquote>`,
 
    
 ]
