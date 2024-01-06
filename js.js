@@ -6701,6 +6701,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,  
 
 `<blockquote>
+  You'll never know what worse luck your bad luck has saved you from
+</blockquote>Cormac McCarthy`,
+
+`<blockquote>
   
 </blockquote>`,
 
