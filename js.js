@@ -6705,6 +6705,10 @@ A week well-spent, a tale to begin.
 </blockquote>Cormac McCarthy`,
 
 `<blockquote>
+  poets have been mysteriously silent on the subject of cheese
+</blockquote>Gilbert K. Chesterton`,
+
+`<blockquote>
   
 </blockquote>`,
 
