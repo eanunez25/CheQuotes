@@ -6713,6 +6713,10 @@ A week well-spent, a tale to begin.
 </blockquote>future you`,
 
 `<blockquote>
+  Everybody’s life story is really a list of things that didn’t kill them
+</blockquote>Jason Schmidt`,
+
+`<blockquote>
   
 </blockquote>`,
 
