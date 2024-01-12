@@ -6725,6 +6725,10 @@ A week well-spent, a tale to begin.
 </blockquote>Bella Baxter`,
 
 `<blockquote>
+  Any place or thing in the universe can be up to 104% perfect. That’s how you got Beyoncé.
+</blockquote>Michael, the Good Place`,
+
+`<blockquote>
   
 </blockquote>`,
 
