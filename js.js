@@ -6729,6 +6729,10 @@ A week well-spent, a tale to begin.
 </blockquote>Michael, the Good Place`,
 
 `<blockquote>
+  A good laugh and a long run are the two best cures for anything
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
