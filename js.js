@@ -6741,6 +6741,10 @@ A week well-spent, a tale to begin.
 </blockquote>MLK`,
 
 `<blockquote>
+  High School Musical has been a blessing and a gift.
+</blockquote>Zac Efron`,
+
+`<blockquote>
   
 </blockquote>`,
 
