@@ -6745,6 +6745,10 @@ A week well-spent, a tale to begin.
 </blockquote>Zac Efron`,
 
 `<blockquote>
+  You can cry. Everybody cries. We cry all the time.
+</blockquote>Marshal Von Erich`,
+
+`<blockquote>
   
 </blockquote>`,
 
