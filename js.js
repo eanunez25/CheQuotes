@@ -6757,9 +6757,12 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
-  
+  Be the swole you want to see in this world
 </blockquote>`,
 
+`<blockquote>
+  
+</blockquote>`,
    
 ]
 
