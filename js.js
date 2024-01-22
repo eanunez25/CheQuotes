@@ -6765,6 +6765,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  If you’re using eight-pound weights, how did you even open the door to the gym?
+</blockquote>Dave Attell`,
+
+`<blockquote>
   
 </blockquote>`,
    
