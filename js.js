@@ -6769,6 +6769,10 @@ A week well-spent, a tale to begin.
 </blockquote>Dave Attell`,
 
 `<blockquote>
+  If we weren't all crazy, we'd just go insane.
+</blockquote>Jimmy Buffet`,
+
+`<blockquote>
   
 </blockquote>`,
    
