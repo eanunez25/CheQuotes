@@ -6777,6 +6777,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Every American college student goes to college with a hard drive. They take their laptop. 
+  There's not a CD player in sight.
+</blockquote>Jonny Greenwood`,
+
+`<blockquote>
   
 </blockquote>`,
    
