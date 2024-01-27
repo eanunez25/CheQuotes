@@ -6786,6 +6786,10 @@ A week well-spent, a tale to begin.
 </blockquote>Rihanna`,
 
 `<blockquote>
+  Opportunity dances with those already on the dance floor.
+</blockquote>H. Jackson Brown, Jr.`,
+
+`<blockquote>
   
 </blockquote>`,
    
