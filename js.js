@@ -6790,6 +6790,10 @@ A week well-spent, a tale to begin.
 </blockquote>H. Jackson Brown, Jr.`,
 
 `<blockquote>
+  Trees and plants always look like the people they live with, somehow.
+</blockquote>Zora Neale Hurston`,
+
+`<blockquote>
   
 </blockquote>`,
    
