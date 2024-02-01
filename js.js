@@ -6805,6 +6805,10 @@ A week well-spent, a tale to begin.
   She'll be thankful for an ankle. She'll be pleased to see your knees. But if you want to make
   her sigh, show some thigh
 </blockquote>Willy Wonka`,
+
+`<blockquote>
+  I can't go on. I'll go on.
+</blockquote>Samuel Beckett`,
   
 `<blockquote>
   
