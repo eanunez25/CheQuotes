@@ -6811,6 +6811,10 @@ A week well-spent, a tale to begin.
 </blockquote>Samuel Beckett`,
   
 `<blockquote>
+  The only man I was ever afraid of was a woman named Griselda Blanco
+</blockquote>Pablo Escobar`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
