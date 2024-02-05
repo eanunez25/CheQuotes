@@ -6819,6 +6819,14 @@ A week well-spent, a tale to begin.
 </blockquote>Dune`,
 
 `<blockquote>
+  The best advice I've ever received is, 'No one else knows what they're doing either.
+</blockquote>Ricky Gervais`,
+
+`<blockquote>
+  The most important fashion accessory is the condom.
+</blockquote>Lady Gaga`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
