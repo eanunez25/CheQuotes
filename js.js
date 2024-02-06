@@ -6827,6 +6827,10 @@ A week well-spent, a tale to begin.
 </blockquote>Lady Gaga`,
 
 `<blockquote>
+  The older you get, the better you get, unless you’re a banana.
+</blockquote>Betty White`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
