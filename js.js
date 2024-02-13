@@ -6839,8 +6839,25 @@ A week well-spent, a tale to begin.
 </blockquote>`,
   
 `<blockquote>
+  If they're talking behind your back, fart
+</blockquote>Bernard Remorin`,
+
+`<blockquote>
+  When your lungs don't work like they used to before
+</blockquote>`,
+
+`<blockquote>
+  I want to be great
+</blockquote>Patrick Mahomes`,
+
+`<blockquote>
+  If you're going to do something tonight that you'll be sorry for tomorrow morning, sleep late.
+</blockquote>Henny Youngman`,
+
+`<blockquote>
   
 </blockquote>`,
+
 ]
 
 
