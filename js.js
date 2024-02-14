@@ -6858,6 +6858,14 @@ A week well-spent, a tale to begin.
   
 </blockquote>`,
 
+`<blockquote>
+  Today is Valentine's Day - or, as men like to call it, Extortion Day!
+</blockquote>Jay Leno`,
+
+`<blockquote>
+  
+</blockquote>`,
+
 ]
 
 
