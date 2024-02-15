@@ -6855,12 +6855,27 @@ A week well-spent, a tale to begin.
 </blockquote>Henny Youngman`,
 
 `<blockquote>
-  
+  4 out of 5 doctors agree: Mondays are better with pickleball
 </blockquote>`,
 
 `<blockquote>
   Today is Valentine's Day - or, as men like to call it, Extortion Day!
 </blockquote>Jay Leno`,
+
+`<blockquote>
+  The only thing standing between you and living your best life is: <br>
+  money<br>
+  anxiety<br>
+  a job you don't hate<br>
+  romantic prospects<br>
+  being able to get 8 hours of sleep<br>
+  status<br>
+  therapy<br>
+  intimate friendships<br>
+  attachment issues<br>
+  becoming significantly more attractive<br>
+  a body that works<br>
+</blockquote>`,
 
 `<blockquote>
   
