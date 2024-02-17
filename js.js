@@ -6882,6 +6882,14 @@ A week well-spent, a tale to begin.
 </blockquote>Alfred Hitchcock`,
 
 `<blockquote>
+  They say America is a country of immigrants so I have to ask you guys to please leave my country.
+</blockquote>Joe Wong`,
+
+`<blockquote>
+  I'm not worried about the economy. The thing is I grew up poor and if I become poor again, I'll just feel young
+</blockquote>Jow Wong`,
+
+`<blockquote>
   
 </blockquote>`,
 
