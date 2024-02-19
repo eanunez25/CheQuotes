@@ -6890,6 +6890,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jow Wong`,
 
 `<blockquote>
+  Rather than waste time being stressed over maknig the right decision, make the decision right. Pick randomly. 
+</blockquote>Dr. Ellen Langer`,
+
+`<blockquote>
   
 </blockquote>`,
 
