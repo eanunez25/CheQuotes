@@ -6894,6 +6894,11 @@ A week well-spent, a tale to begin.
 </blockquote>Dr. Ellen Langer`,
 
 `<blockquote>
+  "I can't drink tonight. I drank last night." "I can't drink tonight. I got work in the morning." Excuses! If 
+  you let excuses run your life, then you'll never really live your best life.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
