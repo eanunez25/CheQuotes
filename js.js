@@ -6903,6 +6903,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  MURLAND!
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
