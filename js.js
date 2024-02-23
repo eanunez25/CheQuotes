@@ -6907,6 +6907,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  People say, ‘But Betty, Facebook is a great way to connect with old friends.’ Well, at my 
+  age, if I want to connect with old friends, I need a Ouija board.
+</blockquote>Betty White`,
+
+`<blockquote>
   
 </blockquote>`,
 
