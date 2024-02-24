@@ -6912,6 +6912,10 @@ A week well-spent, a tale to begin.
 </blockquote>Betty White`,
 
 `<blockquote>
+  If it wasn't for pickleball I would have never met you and you and you and you and you and you
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
