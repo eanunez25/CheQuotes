@@ -6920,6 +6920,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Old age is like everything else. To make a success of it, you’ve got to start young.
+</blockquote>Theodore Roosevelt`,
+
+`<blockquote>
   
 </blockquote>`,
 
