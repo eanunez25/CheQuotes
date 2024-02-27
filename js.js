@@ -6924,6 +6924,10 @@ A week well-spent, a tale to begin.
 </blockquote>Theodore Roosevelt`,
 
 `<blockquote>
+  The idea is to die young as late as possible
+</blockquote>Ashley Montagu`,
+
+`<blockquote>
   
 </blockquote>`,
 
