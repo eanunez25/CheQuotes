@@ -6928,6 +6928,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ashley Montagu`,
 
 `<blockquote>
+  You know you’re getting old when you can pinch an inch on your forehead.
+</blockquote>John Mendoza`,
+
+`<blockquote>
   
 </blockquote>`,
 
