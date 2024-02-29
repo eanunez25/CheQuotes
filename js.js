@@ -6932,6 +6932,10 @@ A week well-spent, a tale to begin.
 </blockquote>John Mendoza`,
 
 `<blockquote>
+  Don’t forget to make a birthday wish, you need all the help you can get.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
