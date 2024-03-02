@@ -6941,6 +6941,10 @@ A week well-spent, a tale to begin.
 </blockquote>Hal Borland`,
 
 `<blockquote>
+  Death is just life's next big adventure.
+</blockquote>J. K. Rowling`,
+
+`<blockquote>
   
 </blockquote>`,
 
