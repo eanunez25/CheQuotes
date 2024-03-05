@@ -6953,6 +6953,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Fun is like life insurance; the older you get, the more it costs.
+</blockquote>Kin Hubbard`,
+
+`<blockquote>
   
 </blockquote>`,
 
