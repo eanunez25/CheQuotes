@@ -6957,6 +6957,10 @@ A week well-spent, a tale to begin.
 </blockquote>Kin Hubbard`,
 
 `<blockquote>
+  Luck is believing you're lucky.
+</blockquote>Tennessee Williams`,
+
+`<blockquote>
   
 </blockquote>`,
 
