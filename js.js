@@ -6965,6 +6965,10 @@ A week well-spent, a tale to begin.
 </blockquote>Yogi Berra`,
 
 `<blockquote>
+  You need to stop thinking that you are bad at pickleball. You are, just stop thinking it. 
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
