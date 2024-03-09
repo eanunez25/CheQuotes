@@ -6969,9 +6969,12 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
-  
+  If your gym shorts don't make you feel like a complete slut, they're not the ones. 
 </blockquote>`,
 
+`<blockquote>
+  
+</blockquote>`,
 ]
 
 
