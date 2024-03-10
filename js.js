@@ -6973,6 +6973,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  The most powerful card is the credit card
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
