@@ -6981,8 +6981,15 @@ A week well-spent, a tale to begin.
 </blockquote>Marshawn Lynch`,
 
 `<blockquote>
+  I'm a very proud Irishman standing here tonight. We made a film about the man who 
+  created the atomic bomb, and for better or for worse we're all living in Oppenheimer's 
+  world. So I dedicate this to the peacemakers.
+</blockquote>Cillian Murphy`,
+
+`<blockquote>
   
 </blockquote>`,
+] 
 ]
 
 
