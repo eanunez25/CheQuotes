@@ -6991,6 +6991,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  The Mahdi is too humble to say he is the Mahdi
+</blockquote>Stilgar`,
+
+`<blockquote>
   
 </blockquote>`,
 
