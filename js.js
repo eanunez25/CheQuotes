@@ -6999,6 +6999,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  The secret of happiness is something to do.
+</blockquote>John Burroughs`,
+
+`<blockquote>
   
 </blockquote>`,
 
