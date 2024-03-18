@@ -7007,6 +7007,10 @@ A week well-spent, a tale to begin.
 </blockquote>St. Patty?`,
 
 `<blockquote>
+  All things in moderation, especially moderation.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
