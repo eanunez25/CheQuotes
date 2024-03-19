@@ -7011,6 +7011,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Life is short. Drive fast and leave a sexy corpse. 
+</blockquote>Stanley Hudson`,
+  
+`<blockquote>
   
 </blockquote>`,
 
