@@ -7015,6 +7015,10 @@ A week well-spent, a tale to begin.
 </blockquote>Stanley Hudson`,
   
 `<blockquote>
+  Not everything's a lesson. Sometimes you just fail. 
+</blockquote>Dwight Schrute`,
+
+`<blockquote>
   
 </blockquote>`,
 
