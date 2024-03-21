@@ -7019,6 +7019,10 @@ A week well-spent, a tale to begin.
 </blockquote>Dwight Schrute`,
 
 `<blockquote>
+  I want to thank my wife, Blake. Everything I do is to make her laugh, especially the sex
+</blockquote>Ryan Reynolds`,
+
+`<blockquote>
   
 </blockquote>`,
 
