@@ -7040,6 +7040,10 @@ A week well-spent, a tale to begin.
 </blockquote>runners`, 
 
 `<blockquote>
+  If it's your job to eat a frog, it's best to do it first thing in the morning.
+</blockquote>Mark Twain`, 
+
+`<blockquote>
   
 </blockquote>`, 
 ]
