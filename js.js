@@ -7072,6 +7072,7 @@ A week well-spent, a tale to begin.
 // <a href="">link</a>
 
 // git remote update; git status -uno
+// git pull
 
 //  greetings ------------------------------------------------------------------------
 let anytimeGreetings = [
