@@ -7048,6 +7048,10 @@ A week well-spent, a tale to begin.
 </blockquote>Barney`, 
 
 `<blockquote>
+  Set expectations low and blow peoples minds with your mediocrity
+</blockquote>`, 
+
+`<blockquote>
   
 </blockquote>`, 
 ]
