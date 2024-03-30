@@ -7056,6 +7056,10 @@ A week well-spent, a tale to begin.
 </blockquote>Captain Holt`, 
   
 `<blockquote>
+  The more things change, the more they are the same.
+</blockquote>Alphonse Karr`, 
+
+`<blockquote>
   
 </blockquote>`, 
 ]
