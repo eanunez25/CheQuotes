@@ -7060,8 +7060,13 @@ A week well-spent, a tale to begin.
 </blockquote>Alphonse Karr`, 
 
 `<blockquote>
+  I was a lesbian once, all to wet for me on the end, 
+  men are so lovely and dry
+</blockquote>Elspeth`, 
+
+`<blockquote>
   
-</blockquote>`, 
+</blockquote>`,
 ]
 
 
