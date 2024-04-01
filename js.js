@@ -7065,6 +7065,10 @@ A week well-spent, a tale to begin.
 </blockquote>Elspeth`, 
 
 `<blockquote>
+  Never floss with a stranger.
+</blockquote>Joan Rivers`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
