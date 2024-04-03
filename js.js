@@ -7073,6 +7073,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  If 2024 were the Titanic movie, we’d be right around the 
+  part where Cal gives Rose the Heart of the Ocean 
+  necklace. Or if 2024 were “Around the World” by 
+  Daft Punk, we’d be at the part where they sing the 
+  lyric “Around the world.” Really puts things in persepective.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
