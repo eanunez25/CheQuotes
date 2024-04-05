@@ -7085,6 +7085,12 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  I had been told that the training procedure with 
+  cats was difficult. It’s not. Mine had me trained 
+  in two days.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
