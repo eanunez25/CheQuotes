@@ -7091,6 +7091,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Confidence is 10% hard work and 90% delusion
+</blockquote>Tina Fey`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
