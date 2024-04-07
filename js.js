@@ -7095,6 +7095,13 @@ A week well-spent, a tale to begin.
 </blockquote>Tina Fey`,
 
 `<blockquote>
+  And now, a message of hope. Everything is garbage. 
+  You find something you care about, and it's taken 
+  from you. Your colleagues, your dream job, your 
+  mango yogurt. Never love anything. 
+</blockquote>Captain Raymond Holt`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
