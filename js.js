@@ -7102,6 +7102,10 @@ A week well-spent, a tale to begin.
 </blockquote>Captain Raymond Holt`,
 
 `<blockquote>
+  It's best not to stare at the sun during an eclipse.
+</blockquote>Jeff Goldblum`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
