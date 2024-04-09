@@ -7106,6 +7106,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jeff Goldblum`,
 
 `<blockquote>
+  great minds dink alike
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
