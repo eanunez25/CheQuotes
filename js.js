@@ -7110,6 +7110,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Happiness is a warm puppy
+</blockquote>Charles Schulz`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
