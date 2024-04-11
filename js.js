@@ -7114,6 +7114,10 @@ A week well-spent, a tale to begin.
 </blockquote>Charles Schulz`,
 
 `<blockquote>
+  Give a girl the right shoes, and she can conquer the world.
+</blockquote>Marilyn Monroe`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
