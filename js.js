@@ -7118,6 +7118,10 @@ A week well-spent, a tale to begin.
 </blockquote>Marilyn Monroe`,
 
 `<blockquote>
+  Enjoy the little things in life because, if you’re a millennial, it’s probably all you can afford.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
