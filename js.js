@@ -7162,6 +7162,19 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Your future doctor is cheating in online school right
+  now so you better start eating healthy
+</blockquote>Percules`,
+
+`<blockquote>
+  The older I get, the more I understand Squidward's 
+  frustration in Spongebob episodes. All he wanted to
+  do was create art and play his instrument in peace but 
+  was constantly harassed by a screaming sponge and an
+  enabler starfish.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
