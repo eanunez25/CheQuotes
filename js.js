@@ -7158,6 +7158,10 @@ A week well-spent, a tale to begin.
 </blockquote>Albert Einstein`,
 
 `<blockquote>
+  "deadass" is a question, reaction, and confirmation
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
