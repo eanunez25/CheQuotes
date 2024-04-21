@@ -7154,6 +7154,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  The hardest thing to understand in the world is the income tax.
+</blockquote>Albert Einstein`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
