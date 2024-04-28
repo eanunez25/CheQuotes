@@ -7196,6 +7196,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Life is short. Make it shorter. Run 100 mile races. 
+</blockquote>Chase Price`,
+
+`<blockquote>
+  I'd rather play pickleball and know why I ache than do nothing and wonder why I ache
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
