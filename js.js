@@ -7216,6 +7216,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+</blockquote>William Blake`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
