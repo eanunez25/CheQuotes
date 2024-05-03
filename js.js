@@ -7220,6 +7220,10 @@ A week well-spent, a tale to begin.
 </blockquote>William Blake`,
 
 `<blockquote>
+  Your attitude, not your aptitude, will determine your altitude.
+</blockquote>Zig Ziglar`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
