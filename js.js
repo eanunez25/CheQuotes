@@ -7224,6 +7224,10 @@ A week well-spent, a tale to begin.
 </blockquote>Zig Ziglar`,
 
 `<blockquote>
+  I WAS BORN HERE. I LIVE HERE. I WILL DIE HERE MARISSA.
+</blockquote>Vlad`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
