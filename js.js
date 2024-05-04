@@ -7228,8 +7228,13 @@ A week well-spent, a tale to begin.
 </blockquote>Vlad`,
 
 `<blockquote>
+  You can't say "I gave up" without saying "I gay" so don't give up
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
+
 ]
 
 
