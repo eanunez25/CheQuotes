@@ -7232,6 +7232,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  I can think of many reasonable excuses for needing a cocktail, but Cinco De Mayo is always a no-brainer.
+</blockquote>Rachel Hollis`,
+
+`<blockquote>
   
 </blockquote>`,
 
