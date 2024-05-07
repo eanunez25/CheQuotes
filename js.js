@@ -7236,6 +7236,10 @@ A week well-spent, a tale to begin.
 </blockquote>Rachel Hollis`,
 
 `<blockquote>
+  A house is just a place to keep your stuff while you go out and get more stuff
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
