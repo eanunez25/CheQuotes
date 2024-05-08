@@ -7240,6 +7240,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Sometimes the appropriate response to reality is to go insane
+</blockquote>Philip K. Dick`,
+
+`<blockquote>
   
 </blockquote>`,
 
