@@ -7244,6 +7244,11 @@ A week well-spent, a tale to begin.
 </blockquote>Philip K. Dick`,
 
 `<blockquote>
+  iPhone X: $1,000<br>
+  Entire Texas Roadhouse menu: $1052.64
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
