@@ -7249,6 +7249,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Phil Collins didn't have to go so hard on the Tarzan soundtrack but he did. He did that for all of us. 
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
