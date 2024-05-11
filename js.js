@@ -7253,6 +7253,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  People fail forward to success  
+</blockquote>Mary Kay Ash`,
+
+`<blockquote>
   
 </blockquote>`,
 
