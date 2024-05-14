@@ -7261,6 +7261,14 @@ A week well-spent, a tale to begin.
 </blockquote>moms`,
 
 `<blockquote>
+  Motherhood: feeding them as a baby and then through most of their twenties.
+</blockquote>`,
+
+`<blockquote>
+  I have so much residue crap in my hair from years and years of not washing it and not having any sense of personal hygiene whatsoever.
+</blockquote>Robert Pattinson`,
+
+`<blockquote>
   
 </blockquote>`,
 
