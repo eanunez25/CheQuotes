@@ -7269,6 +7269,10 @@ A week well-spent, a tale to begin.
 </blockquote>Robert Pattinson`,
 
 `<blockquote>
+  He who angers you conquers you.
+</blockquote>Elizabeth Kenny`,
+
+`<blockquote>
   
 </blockquote>`,
 
