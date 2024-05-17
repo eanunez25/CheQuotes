@@ -7277,6 +7277,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  If you want to go east, don't go west.
+</blockquote>Ramakrishna`,
+
+`<blockquote>
   
 </blockquote>`,
 
