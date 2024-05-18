@@ -7281,6 +7281,11 @@ A week well-spent, a tale to begin.
 </blockquote>Ramakrishna`,
 
 `<blockquote>
+  A lot of people at the gym lift heavy weights but it's actually easier if you lift lighter weights
+  because they're not as heavy
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
