@@ -7286,6 +7286,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Sex pretty much cures everything.
+</blockquote>Chuck Palahniuk`,
+
+`<blockquote>
   
 </blockquote>`,
 
