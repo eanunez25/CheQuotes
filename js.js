@@ -7290,6 +7290,14 @@ A week well-spent, a tale to begin.
 </blockquote>Chuck Palahniuk`,
 
 `<blockquote>
+  In the middle solves the riddle
+</blockquote>`,
+
+`<blockquote>
+  mY paDdLe hAs a HOle
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
