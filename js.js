@@ -7298,6 +7298,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  <img src="images/bday.jpg" class="image"></img>,
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
