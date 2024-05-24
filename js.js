@@ -7307,6 +7307,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  You got dreams in life? That's lit
+</blockquote>Pillboi`,
+
+`<blockquote>
+  When the run starts to get hard you have to remind yourself why you do it. Attention and clout. 
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
