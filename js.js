@@ -7319,6 +7319,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ana Huang`,
 
 `<blockquote>
+  My daily driver is a Type R
+</blockquote>John Cena`,
+
+`<blockquote>
   
 </blockquote>`,
 
