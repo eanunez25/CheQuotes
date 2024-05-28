@@ -7323,6 +7323,10 @@ A week well-spent, a tale to begin.
 </blockquote>John Cena`,
 
 `<blockquote>
+  Everyone here thinks I’m Taiwanese. I’m Filipino. That’s racist. Heaven is so racist.
+</blockquote>Jason Mendoza`,
+
+`<blockquote>
   
 </blockquote>`,
 
