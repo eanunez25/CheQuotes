@@ -7327,6 +7327,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jason Mendoza`,
 
 `<blockquote>
+  I came up with thousands of ideas in my life and only one of them got me killed.
+</blockquote>Jason Mendoza`,
+
+`<blockquote>
   
 </blockquote>`,
 
