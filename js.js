@@ -7331,6 +7331,12 @@ A week well-spent, a tale to begin.
 </blockquote>Jason Mendoza`,
 
 `<blockquote>
+  In football, trying to run out the clock and hoping for the best never works. 
+  It’s called “prevent defense.” You don’t take any chances and just try and hold on to your 
+  lead. But prevent defense just prevents you from winning! It’s always better to try something. 
+</blockquote>Jason Mendoza`,
+
+`<blockquote>
   
 </blockquote>`,
 
