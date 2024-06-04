@@ -7354,6 +7354,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jason Mendoza`,
 
 `<blockquote>
+  Climb the ladder to success escalator style
+</blockquote>The Notorious B.I.G.`,
+
+`<blockquote>
   
 </blockquote>`,
 
