@@ -7358,6 +7358,10 @@ A week well-spent, a tale to begin.
 </blockquote>The Notorious B.I.G.`,
 
 `<blockquote>
+  The later it gets, the fewer words you need for a booty call
+</blockquote>Barney Stinson`,
+
+`<blockquote>
   
 </blockquote>`,
 
