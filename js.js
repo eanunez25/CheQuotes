@@ -7362,6 +7362,11 @@ A week well-spent, a tale to begin.
 </blockquote>Barney Stinson`,
 
 `<blockquote>
+  If you're ever having a bad day, just remember the world is 4.5 billion years old and you somehow
+  managed to exist at the same time as pickleball.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
