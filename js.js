@@ -7367,6 +7367,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Who are we killing? I won't do kids, that's a rule. But that rule's negotiable if the kid's a dick.
+</blockquote>Pimento`,
+
+`<blockquote>
   
 </blockquote>`,
 
