@@ -7371,6 +7371,11 @@ A week well-spent, a tale to begin.
 </blockquote>Pimento`,
 
 `<blockquote>
+  If I lose, I go to train the next day. <br>
+  If I win, I go to train the next day.
+</blockquote>Jannik Sinner`,
+
+`<blockquote>
   
 </blockquote>`,
 
