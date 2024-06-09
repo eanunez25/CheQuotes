@@ -7376,6 +7376,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jannik Sinner`,
 
 `<blockquote>
+  That money talks, I'll not deny, I heard it once: It said, 'Goodbye'.
+</blockquote>Richard Armour`,
+
+`<blockquote>
   
 </blockquote>`,
 
