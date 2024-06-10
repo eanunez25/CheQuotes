@@ -7380,6 +7380,10 @@ A week well-spent, a tale to begin.
 </blockquote>Richard Armour`,
 
 `<blockquote>
+  Anytime you see a turtle up on top of a fence post, you know he had some help.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
