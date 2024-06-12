@@ -7388,6 +7388,10 @@ A week well-spent, a tale to begin.
 </blockquote>Pablo Picasso`,
 
 `<blockquote>
+  the bigger the forehead, the bigger the lie
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 
