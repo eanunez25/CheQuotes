@@ -7392,6 +7392,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Dogs are forever in the push up postion.
+</blockquote>Mitch Hedberg`,
+
+`<blockquote>
   
 </blockquote>`,
 
