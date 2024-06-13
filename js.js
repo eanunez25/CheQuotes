@@ -7388,8 +7388,8 @@ A week well-spent, a tale to begin.
 </blockquote>Pablo Picasso`,
 
 `<blockquote>
-  Dogs are forever in the push up postion.
-</blockquote>Mitch Hedberg`,
+  the bigger the forehead, the bigger the lie
+</blockquote>`,
 
 `<blockquote>
   
