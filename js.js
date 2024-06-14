@@ -7396,6 +7396,10 @@ A week well-spent, a tale to begin.
 </blockquote>Mitch Hedberg`,
 
 `<blockquote>
+  Who's gonna carry the boats and the logs?
+</blockquote>David Goggins`,
+
+`<blockquote>
   
 </blockquote>`,
 
