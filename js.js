@@ -7409,6 +7409,8 @@ A week well-spent, a tale to begin.
   Raising kids may be a thankless job with ridiculous hours, but at least the pay sucks.
 </blockquote>Jim Gaffigan`,
 
+`<img src="images/x.jpg" class="image"></img>`,
+
 `<blockquote>
   
 </blockquote>`,
