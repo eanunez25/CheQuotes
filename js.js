@@ -7413,6 +7413,8 @@ A week well-spent, a tale to begin.
 
 `<img src="images/shirt2.jpg" class="image"></img>`,
 
+`<img src="images/lapdance.jpg" class="image"></img>`,
+
 `<blockquote>
   
 </blockquote>`,
