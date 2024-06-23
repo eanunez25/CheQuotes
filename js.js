@@ -7422,8 +7422,8 @@ A week well-spent, a tale to begin.
 `<img src="images/four.jpg" class="image"></img>`,
 
 `<blockquote>
-  
-</blockquote>`,
+  Oreo thins keep you thin
+</blockquote>Marissa Jain`,
 
 ]
 
