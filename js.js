@@ -7425,6 +7425,8 @@ A week well-spent, a tale to begin.
   Oreo thins keep you thin
 </blockquote>Marissa Jain`,
 
+`<img src="images/moniboob.jpg" class="image"></img>`,
+
 ]
 
 
