@@ -7427,6 +7427,8 @@ A week well-spent, a tale to begin.
 
 `<img src="images/moniboob.jpg" class="image"></img>`,
 
+`<img src="images/lost.jpg" class="image"></img>`,
+
 ]
 
 
