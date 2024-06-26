@@ -7429,6 +7429,14 @@ A week well-spent, a tale to begin.
 
 `<img src="images/lost.jpg" class="image"></img>`,
 
+`<blockquote>
+  No one appreciates the very special genius of your conversation as the dog does.
+</blockquote>Christopher Morley`,
+
+`<blockquote>
+ 
+</blockquote>`,
+
 ]
 
 
