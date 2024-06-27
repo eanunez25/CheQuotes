@@ -7434,6 +7434,10 @@ A week well-spent, a tale to begin.
 </blockquote>Christopher Morley`,
 
 `<blockquote>
+  Cocaine is God’s way of saying you’re making too much money
+</blockquote>Robin Williams`,
+
+`<blockquote>
  
 </blockquote>`,
 
