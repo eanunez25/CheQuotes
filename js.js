@@ -7442,6 +7442,10 @@ A week well-spent, a tale to begin.
 </blockquote>Lisa`,
 
 `<blockquote>
+  The more medicated, the more dedicated
+</blockquote>Snoop Dogg`,
+
+`<blockquote>
  
 </blockquote>`,
 
