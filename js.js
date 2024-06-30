@@ -7446,6 +7446,11 @@ A week well-spent, a tale to begin.
 </blockquote>Snoop Dogg`,
 
 `<blockquote>
+  When I wake up in the morning, I got murder on my mind<br>
+  AK-47's, MAC-11, Glocks, and .9s
+</blockquote>YNW Melly`,
+
+`<blockquote>
  
 </blockquote>`,
 
