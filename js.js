@@ -7455,6 +7455,10 @@ A week well-spent, a tale to begin.
 </blockquote>Matt Groening`,
 
 `<blockquote>
+   Everyone always asks "When is the weekend?". No one ever asks "How is the weekend?".
+</blockquote>The Weeknd`,
+
+`<blockquote>
  
 </blockquote>`,
 
