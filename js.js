@@ -7459,6 +7459,10 @@ A week well-spent, a tale to begin.
 </blockquote>The Weeknd`,
 
 `<blockquote>
+  It ain't the heat, it's the humility.
+</blockquote>Yogi Berra`,
+
+`<blockquote>
  
 </blockquote>`,
 
