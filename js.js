@@ -7463,6 +7463,10 @@ A week well-spent, a tale to begin.
 </blockquote>Yogi Berra`,
 
 `<blockquote>
+ If thighs ain't showing, I ain't going
+</blockquote>`,
+
+`<blockquote>
  
 </blockquote>`,
 
