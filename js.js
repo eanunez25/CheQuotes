@@ -7467,6 +7467,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+ Independence is happiness.
+</blockquote>Susan B. Anthony`,
+
+`<blockquote>
  
 </blockquote>`,
 
