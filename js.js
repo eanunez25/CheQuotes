@@ -7479,6 +7479,10 @@ A week well-spent, a tale to begin.
 </blockquote>Caitlin`,
 
 `<blockquote>
+ Start every day off with a smile and get it over with.
+</blockquote>W. C. Fields`,
+
+`<blockquote>
  
 </blockquote>`,
 
