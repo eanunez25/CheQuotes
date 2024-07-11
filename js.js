@@ -7491,6 +7491,10 @@ A week well-spent, a tale to begin.
 </blockquote>Tyrion`,
 
 `<blockquote>
+  The light at the end of the tunnel might be an oncoming train
+</blockquote>`,
+
+`<blockquote>
  
 </blockquote>`,
 
