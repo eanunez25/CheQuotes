@@ -7503,6 +7503,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+ A bowl is most useful when it's empty
+</blockquote>`,
+
+`<blockquote>
  
 </blockquote>`,
 
