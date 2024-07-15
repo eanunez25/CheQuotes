@@ -7507,6 +7507,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+ If we exhale more than inhale we feed the plants. This will end world hunger.
+</blockquote>Jaden Smith`,
+
+`<blockquote>
  
 </blockquote>`,
 
