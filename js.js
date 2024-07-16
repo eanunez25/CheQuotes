@@ -7511,9 +7511,12 @@ A week well-spent, a tale to begin.
 </blockquote>Jaden Smith`,
 
 `<blockquote>
+ Thousands have lived without love, not one without water.
+</blockquote>W. H. Auden`,
+
+`<blockquote>
  
 </blockquote>`,
-
 ]
 
 
