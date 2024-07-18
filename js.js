@@ -7519,6 +7519,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+ We don’t make mistakes, just happy little accidents.
+</blockquote>Bob Ross`,
+
+`<blockquote>
  
 </blockquote>`,
 ]
