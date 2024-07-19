@@ -7523,6 +7523,10 @@ A week well-spent, a tale to begin.
 </blockquote>Bob Ross`,
 
 `<blockquote>
+ Don't sweat the petty things and don't pet the sweaty things.
+</blockquote>George Carlin`,
+
+`<blockquote>
  
 </blockquote>`,
 ]
