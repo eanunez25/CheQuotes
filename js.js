@@ -7527,6 +7527,10 @@ A week well-spent, a tale to begin.
 </blockquote>George Carlin`,
 
 `<blockquote>
+ Never trust anything that can think for itself if you can't see where it keeps its brain.
+</blockquote>J. K. Rowling`,
+
+`<blockquote>
  
 </blockquote>`,
 ]
