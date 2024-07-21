@@ -7531,6 +7531,10 @@ A week well-spent, a tale to begin.
 </blockquote>J. K. Rowling`,
 
 `<blockquote>
+ Joe Biden stepped down to play more pickleball
+</blockquote>`,
+
+`<blockquote>
  
 </blockquote>`,
 ]
