@@ -7535,6 +7535,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Damn he kinda look familiar 
+</blockquote>Seasmoke`,
+
+`<blockquote>
  
 </blockquote>`,
 ]
