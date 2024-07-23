@@ -7539,6 +7539,10 @@ A week well-spent, a tale to begin.
 </blockquote>Seasmoke`,
 
 `<blockquote>
+ My mother used to, she would give us a hard time sometimes and she would say to us, ‘I don’t know what’s wrong with you young people. You think you just fell out of a coconut tree?’
+</blockquote>Kamala Harris`,
+
+`<blockquote>
  
 </blockquote>`,
 ]
