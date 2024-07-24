@@ -7543,8 +7543,10 @@ A week well-spent, a tale to begin.
 </blockquote>Kamala Harris`,
 
 `<blockquote>
- 
+  Never miss a meal. Never miss a workout. Never miss a b<span id="blur">i</span>tch.
 </blockquote>`,
+
+
 ]
 
 
