@@ -7549,6 +7549,14 @@ A week well-spent, a tale to begin.
 `<blockquote>
   there are 69 days til Jimmy Carter turns 100
 </blockquote>`,
+
+`<blockquote>
+  Lift not to be healthier but to pull more MILFs
+</blockquote>Gymlations 9:20`,
+
+`<blockquote>
+  
+</blockquote>`,
 ]
 
 
