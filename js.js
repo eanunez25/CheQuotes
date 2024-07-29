@@ -7561,6 +7561,14 @@ A week well-spent, a tale to begin.
 `<blockquote>
   EEEEE EEEE EEEeeeeee eeeee eeeeeeeeeEEEEE
 </blockquote>Caraxes`,
+
+`<blockquote>
+  Monkeys are superior to men in this: when a monkey looks into a mirror, he sees a monkey.
+</blockquote>Malcolm de Chazal`,
+
+`<blockquote>
+  
+</blockquote>`,
 ]
 
 
