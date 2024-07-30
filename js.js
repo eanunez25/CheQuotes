@@ -7567,6 +7567,11 @@ A week well-spent, a tale to begin.
 </blockquote>Malcolm de Chazal`,
 
 `<blockquote>
+  You know the words to my songs, no habla ingles<br>
+  Our conversations ain't long but you know what is
+</blockquote>Jason Derulo`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
