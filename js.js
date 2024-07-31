@@ -7572,6 +7572,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jason Derulo`,
 
 `<blockquote>
+  You are one illegal business away from generational wealth. Lock in.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
