@@ -7576,6 +7576,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Aspirin, cold Coca Cola, smoke a joint, eat spicy szechuan food. Works every time.
+</blockquote>Anthony Bordain`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
