@@ -7580,6 +7580,10 @@ A week well-spent, a tale to begin.
 </blockquote>Anthony Bordain`,
 
 `<blockquote>
+  They say alcohol kills but how many people are born because of it. Keep drinking. 
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
