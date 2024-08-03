@@ -7583,6 +7583,8 @@ A week well-spent, a tale to begin.
   They say alcohol kills but how many people are born because of it. Keep drinking. 
 </blockquote>`,
 
+`<img src="images/ducky.jpg" class="image"></img>`,
+
 `<blockquote>
   
 </blockquote>`,
