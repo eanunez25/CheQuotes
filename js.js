@@ -7586,6 +7586,10 @@ A week well-spent, a tale to begin.
 `<img src="images/ducky.jpg" class="image"></img>`,
 
 `<blockquote>
+  A door is what a dog is perpetually on the wrong side of.
+</blockquote>Ogden Nash`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
