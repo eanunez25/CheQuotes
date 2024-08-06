@@ -7594,6 +7594,10 @@ A week well-spent, a tale to begin.
 </blockquote>Helaena`,
 
 `<blockquote>
+  Always make the audience suffer as much as possible.
+</blockquote>Alfred Hitchcock`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
