@@ -7598,6 +7598,10 @@ A week well-spent, a tale to begin.
 </blockquote>Alfred Hitchcock`,
 
 `<blockquote>
+  Go ahead and buy the paddle. Your 401k won't help you beat Janet and Doreen at rec play.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
