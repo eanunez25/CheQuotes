@@ -7602,6 +7602,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  If you're ever having a bad day just remember Serena van der Woodsen is having a worse one
+</blockquote>xoxo GOSSIP GIRL`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
