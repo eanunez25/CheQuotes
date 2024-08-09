@@ -7606,6 +7606,11 @@ A week well-spent, a tale to begin.
 </blockquote>xoxo GOSSIP GIRL`,
 
 `<blockquote>
+  When you walk into a room and forget why you were there it's because you ran into an alien and 
+  it had to erase your memory so that it can escape.
+</blockquote>`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
