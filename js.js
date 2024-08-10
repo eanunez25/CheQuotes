@@ -7611,6 +7611,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Snowboarding is an activity that is very popular with people who do not feel that regular skiing is lethal enough.
+</blockquote>Dave Barry`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
