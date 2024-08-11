@@ -7615,6 +7615,10 @@ A week well-spent, a tale to begin.
 </blockquote>Dave Barry`,
 
 `<blockquote>
+  I like going to areas where the murder rate is high and dropping it.
+</blockquote>Snoop Dogg`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
