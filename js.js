@@ -7627,6 +7627,10 @@ A week well-spent, a tale to begin.
 </blockquote>Tylenol`,
 
 `<blockquote>
+  Always do whatever's next.
+</blockquote>George Carlin`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
