@@ -7631,6 +7631,10 @@ A week well-spent, a tale to begin.
 </blockquote>George Carlin`,
 
 `<blockquote>
+  It's kind of fun to do the impossible.
+</blockquote>Walt Disney`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
