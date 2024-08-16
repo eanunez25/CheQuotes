@@ -7635,6 +7635,10 @@ A week well-spent, a tale to begin.
 </blockquote>Walt Disney`,
 
 `<blockquote>
+  Research is what I'm doing when I don't know what I'm doing.
+</blockquote>Wernher von Braun`,
+
+`<blockquote>
   
 </blockquote>`,
 ]
