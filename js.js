@@ -7660,9 +7660,59 @@ A week well-spent, a tale to begin.
   Compromise: If your mom is hesitant, suggest a shorter trip or a different time. Showing flexibility might make her more willing to consider it.
 </blockquote>`,
 
-<blockquote>
+`<blockquote>
+  Summon a Flock of Birds: Casually mention that you’ve been working on your 
+  ability to communicate with birds. Then, dramatically wave your arms and 
+  summon a flock of pigeons to appear out of nowhere. The sheer confusion 
+  might just work in your favor. <br><br>
 
-</blockquote>,
+  Hire a Flash Mob: Have a flash mob burst into the room and perform a 
+  choreographed dance routine that ends with a giant sign that says, “Let 
+  Me Go to Austin!” It’s hard to say no when you’re caught up in the magic 
+  of synchronized dancing.<br><br>
+
+  Fake an Alien Abduction: Tell your mom that the aliens who abducted you 
+  last week said it was imperative you visit Austin for the sake of 
+  intergalactic peace. The fate of the universe might just depend on it.<br><br>
+
+  Stage a Movie Scene Reenactment: Hire actors to reenact a dramatic scene 
+  from a famous movie where the character fights for their right to go on a 
+  trip. Make sure it’s over the top and includes intense dialogue and maybe 
+  even some dramatic music.<br><br>
+
+  Create a Mysterious Prophecy: Write an ancient-looking scroll with a prophecy
+   that predicts you must travel to Austin to fulfill your destiny. Roll it up 
+   and dramatically present it to your mom as if you’ve just uncovered it in 
+   the attic.<br><br>
+
+  Dress as a Historical Figure: Dress up as a famous explorer, like Indiana 
+  Jones or Amelia Earhart, and insist that you must follow in their footsteps 
+  by embarking on your own adventure to Austin. Make it seem like it’s a 
+  matter of historical importance.<br><br>
+
+  Call in a Fake News Report: Create a fake news video that reports on a 
+  breaking story about why it’s crucial for you to visit Austin. Include 
+  interviews with “experts” who all agree that your trip is essential for 
+  some bizarre reason.<br><br>
+
+  Declare a One-Person Parade: March through the house with a homemade 
+  parade float, banners, and confetti, celebrating your upcoming trip to 
+  Austin as if it’s already happening. Invite the neighbors to join in for 
+  maximum effect.<br><br>
+
+  Conjure a “Magic” Spell: Claim you’ve learned a magic spell that requires 
+  you to travel to Austin to complete it. Perform a ritual in front of your 
+  mom with candles, chanting, and a “magic” book. The more mysterious, the 
+  better.<br><br>
+
+  Challenge to a Duel: Go full medieval and challenge your mom to a duel of 
+  wits or a (completely harmless) sword fight. The prize? Your right to go to 
+  Austin. Bonus points if you wear full knight armor.
+</blockquote>`,
+
+`<blockquote>
+
+</blockquote>`,
 ]
 
 
