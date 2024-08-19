@@ -7645,20 +7645,24 @@ A week well-spent, a tale to begin.
 `<blockquote>
   Choose the Right Time: Try to bring it up when your mom is in a good mood and not stressed. Maybe after a nice meal or when you’re having a pleasant conversation.<br><br>
 
-Acknowledge the Recent Travel: Start by acknowledging that you understand your mom might be concerned because you just traveled for a wedding. This shows you’re being considerate and not just thinking about yourself.<br> <br>
+  Acknowledge the Recent Travel: Start by acknowledging that you understand your mom might be concerned because you just traveled for a wedding. This shows you’re being considerate and not just thinking about yourself.<br> <br>
 
-Highlight the Importance of the Trip: Explain why this trip to Austin is important to you. Is it to visit a close friend, attend an event, or explore opportunities? If there’s a purpose beyond just fun, it might help your case.<br><br>
+  Highlight the Importance of the Trip: Explain why this trip to Austin is important to you. Is it to visit a close friend, attend an event, or explore opportunities? If there’s a purpose beyond just fun, it might help your case.<br><br>
 
-Offer to Help: If your mom is concerned because you don’t have a job, you could offer to do something in return, like taking on extra chores or finding ways to save money before the trip.<br><br>
+  Offer to Help: If your mom is concerned because you don’t have a job, you could offer to do something in return, like taking on extra chores or finding ways to save money before the trip.<br><br>
 
-Present a Plan: Show that you’ve thought it through. Discuss how you plan to travel, where you will stay, how long you will be there, and how much it will cost. Being prepared can reassure your mom that you’re responsible.<br><br>
+  Present a Plan: Show that you’ve thought it through. Discuss how you plan to travel, where you will stay, how long you will be there, and how much it will cost. Being prepared can reassure your mom that you’re responsible.<br><br>
 
-Ask for Feedback: Instead of directly asking for permission, you could first ask for your mom’s thoughts on the idea. This way, it feels more like a discussion than a request.<br><br>
+  Ask for Feedback: Instead of directly asking for permission, you could first ask for your mom’s thoughts on the idea. This way, it feels more like a discussion than a request.<br><br>
 
-Be Calm and Understanding: If your mom says no, remain calm and understanding. Ask what her concerns are and if there’s anything you can do to change her mind in the future.<br><br>
+  Be Calm and Understanding: If your mom says no, remain calm and understanding. Ask what her concerns are and if there’s anything you can do to change her mind in the future.<br><br>
 
-Compromise: If your mom is hesitant, suggest a shorter trip or a different time. Showing flexibility might make her more willing to consider it.
+  Compromise: If your mom is hesitant, suggest a shorter trip or a different time. Showing flexibility might make her more willing to consider it.
 </blockquote>`,
+
+<blockquote>
+
+</blockquote>,
 ]
 
 
