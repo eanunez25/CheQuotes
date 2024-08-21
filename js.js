@@ -7715,6 +7715,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Nobody ever drowned in his own sweat.
+</blockquote>Ann Landers`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
