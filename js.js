@@ -7719,6 +7719,11 @@ A week well-spent, a tale to begin.
 </blockquote>Ann Landers`,
 
 `<blockquote>
+  While gambling, you can win 2000% of your money, but you can only lose 100%
+  of your money. Do the math. 
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
