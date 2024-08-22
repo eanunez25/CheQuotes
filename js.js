@@ -7724,6 +7724,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  If a man is in an accident (car, ladder fall, etc) and he gets an erection, 
+  don't move him. He has a spinal injury.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
