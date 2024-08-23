@@ -7729,6 +7729,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  never follow the crowd
+</blockquote>Bernard Baruch`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
