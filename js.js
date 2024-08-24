@@ -7733,8 +7733,12 @@ A week well-spent, a tale to begin.
 </blockquote>Bernard Baruch`,
 
 `<blockquote>
+  Everything is designed. Few things are designed well.
+</blockquote>Brian Reed`,
 
-</blockquote>`,
+`<blockquote>
+
+</blockquote>`
 ]
 
 
