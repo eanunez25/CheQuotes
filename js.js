@@ -7737,6 +7737,10 @@ A week well-spent, a tale to begin.
 </blockquote>Brian Reed`,
 
 `<blockquote>
+  KBBQ is love made visible
+</blockquote>`
+
+`<blockquote>
 
 </blockquote>`
 ]
