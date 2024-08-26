@@ -7738,11 +7738,15 @@ A week well-spent, a tale to begin.
 
 `<blockquote>
   KBBQ is love made visible
-</blockquote>`
+</blockquote>`,
+
+`<blockquote>
+  He was a bold man that first ate an oyster.
+</blockquote>Jonathan Swift`,
 
 `<blockquote>
 
-</blockquote>`
+</blockquote>`,
 ]
 
 
