@@ -7745,6 +7745,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jonathan Swift`,
 
 `<blockquote>
+  If you can’t eat it or play with it, just pee on it and walk away.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
