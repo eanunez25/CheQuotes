@@ -7769,6 +7769,10 @@ A week well-spent, a tale to begin.
 </blockquote>Demetri Martin`,
 
 `<blockquote>
+  Let's have some new cliches.
+</blockquote>Samuel Goldwyn`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
