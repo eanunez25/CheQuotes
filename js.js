@@ -7773,6 +7773,10 @@ A week well-spent, a tale to begin.
 </blockquote>Samuel Goldwyn`,
 
 `<blockquote>
+  The best things in life are free. The second best are expensive. 
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
