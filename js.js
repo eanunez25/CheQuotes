@@ -7777,6 +7777,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  There is no such thing as a best friend. That is just something Hello Kitty made up to sell more
+  Hello Kitty. 
+</blockquote>Jessica Huang`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
