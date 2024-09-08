@@ -7790,6 +7790,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  I'M UGLY AND I'M PROUD
+</blockquote>Spongebob`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
