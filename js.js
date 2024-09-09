@@ -7794,6 +7794,10 @@ A week well-spent, a tale to begin.
 </blockquote>Spongebob`,
 
 `<blockquote>
+  What is today but yesterday's tomorrow?
+</blockquote>Mr. Krabs`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
