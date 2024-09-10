@@ -7798,6 +7798,10 @@ A week well-spent, a tale to begin.
 </blockquote>Mr. Krabs`,
 
 `<blockquote>
+  People from Texas are <em>dumb</em>
+</blockquote>Patrick Star`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
