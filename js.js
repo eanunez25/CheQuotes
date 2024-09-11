@@ -7802,6 +7802,12 @@ A week well-spent, a tale to begin.
 </blockquote>Patrick Star`,
 
 `<blockquote>
+  They're eating the dogs, the people that came in, they're eating the cats. 
+  They're eating the pets of the people that live there, and this is what's 
+  happening in our country, and it's a shame.
+</blockquote>Donald Trump`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
