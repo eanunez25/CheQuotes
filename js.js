@@ -7808,6 +7808,10 @@ A week well-spent, a tale to begin.
 </blockquote>Donald Trump`,
 
 `<blockquote>
+  If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.
+</blockquote>Abraham Lincoln`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
