@@ -7816,6 +7816,10 @@ A week well-spent, a tale to begin.
 </blockquote>Beyonce`,
 
 `<blockquote>
+  Never give a sword to a man who can't dance.
+</blockquote>Confucius`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
