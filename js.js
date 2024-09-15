@@ -7820,6 +7820,10 @@ A week well-spent, a tale to begin.
 </blockquote>Confucius`,
 
 `<blockquote>
+ Never go to your high school reunion pregnant or they will think that is all you have done since you graduated
+</blockquote>Erma Bombeck`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
