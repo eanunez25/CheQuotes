@@ -7824,8 +7824,8 @@ A week well-spent, a tale to begin.
 </blockquote>Erma Bombeck`,
 
 `<blockquote>
-
-</blockquote>`,
+ There's nothing better than sex
+</blockquote>Billy Joel`,
 ]
 
 
