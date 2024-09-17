@@ -7826,6 +7826,14 @@ A week well-spent, a tale to begin.
 `<blockquote>
  There's nothing better than sex
 </blockquote>Billy Joel`,
+
+`<blockquote>
+  I feel safer on a racetrack than I do on Houston’s freeways.
+</blockquote>A.J. Foyt`,
+
+`<blockquote>
+
+</blockquote>`,
 ]
 
 
