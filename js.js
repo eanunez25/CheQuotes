@@ -7832,6 +7832,10 @@ A week well-spent, a tale to begin.
 </blockquote>A.J. Foyt`,
 
 `<blockquote>
+  One's too many, and a hundred's not enough.
+</blockquote>Billy Wilder`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
