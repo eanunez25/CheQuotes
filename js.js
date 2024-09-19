@@ -7836,6 +7836,10 @@ A week well-spent, a tale to begin.
 </blockquote>Billy Wilder`,
 
 `<blockquote>
+  Let food be thy medicine and medicine be thy food.
+</blockquote>Hippocrates`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
