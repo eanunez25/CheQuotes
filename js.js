@@ -7839,6 +7839,9 @@ A week well-spent, a tale to begin.
   Let food be thy medicine and medicine be thy food.
 </blockquote>Hippocrates`,
 
+`This is you: <br><br>
+<img src="images/rock.jpg" class="image"></img>`,
+
 `<blockquote>
   Beer is good but beers are better
 </blockquote>`,
