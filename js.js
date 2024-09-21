@@ -7847,6 +7847,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  The term casual racism implies the existence of ranked competitive racism
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
