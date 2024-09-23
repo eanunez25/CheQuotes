@@ -7851,6 +7851,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Everyone loves fried chicken, Don't ever make it. Ever.
+</blockquote>Nora Ephron`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
