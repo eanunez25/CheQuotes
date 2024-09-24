@@ -7855,6 +7855,10 @@ A week well-spent, a tale to begin.
 </blockquote>Nora Ephron`,
 
 `<blockquote>
+  Youth is wasted on the young
+</blockquote>George Bernard Shaw`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
