@@ -8129,41 +8129,63 @@ todaysQuote();
 
 // history -----------------------------------------------------------------------------
 
-const minusOne = document.querySelector("h3.minus-one")
-const minusTwo = document.querySelector("h3.minus-two")
-const minusThree = document.querySelector("h3.minus-three")
-const minusFour = document.querySelector("h3.minus-four")
-const minusFive = document.querySelector("h3.minus-five")
-const minusSix = document.querySelector("h3.minus-six")
-const minusSeven = document.querySelector("h3.minus-seven")
+const minusDays = []
 
-let previousDate = (interval) => {
-  return new Date(Date.now()-(86400000*interval)).toLocaleDateString('en-us', {weekday:"long", month:"long", day:"numeric"})
+
+for (let i = 1; i <= 30; i++){
+  let previousDate = new Date(Date.now()-(86400000*i)).toLocaleDateString('en-us', {weekday:"long", month:"long", day:"numeric"})
+  minusDays.push(previousDate);
+
+  const testHeader = document.createElement("h3");
+  const testPar = document.createElement("p");
+  const testBreak = document.createElement("br");
+  const testBreak2 = document.createElement("br");
+  const history = document.getElementById("history");
+  testHeader.innerHTML = minusDays[i-1];
+  testPar.innerHTML = cheQuotes[Math.floor(dayDifference)-i];
+  history.appendChild(testHeader);
+  history.appendChild(testBreak);
+  history.appendChild(testPar);
+  history.appendChild(testBreak2);
 }
 
-minusOne.innerHTML = previousDate(1)
-minusTwo.innerHTML = previousDate(2)
-minusThree.innerHTML = previousDate(3)
-minusFour.innerHTML = previousDate(4)
-minusFive.innerHTML = previousDate(5)
-minusSix.innerHTML = previousDate(6)
-minusSeven.innerHTML = previousDate(7)
 
-const minusOneQ = document.querySelector("p.minus-one")
-const minusTwoQ = document.querySelector("p.minus-two")
-const minusThreeQ = document.querySelector("p.minus-three")
-const minusFourQ = document.querySelector("p.minus-four")
-const minusFiveQ = document.querySelector("p.minus-five")
-const minusSixQ = document.querySelector("p.minus-six")
-const minusSevenQ = document.querySelector("p.minus-seven")
 
-minusOneQ.innerHTML = cheQuotes[Math.floor(dayDifference)-1]
-minusTwoQ.innerHTML = cheQuotes[Math.floor(dayDifference)-2]
-minusThreeQ.innerHTML = cheQuotes[Math.floor(dayDifference)-3]
-minusFourQ.innerHTML = cheQuotes[Math.floor(dayDifference)-4]
-minusFiveQ.innerHTML = cheQuotes[Math.floor(dayDifference)-5]
-minusSixQ.innerHTML = cheQuotes[Math.floor(dayDifference)-6]
-minusSevenQ.innerHTML = cheQuotes[Math.floor(dayDifference)-7]
+// const minusOne = document.querySelector("h3.minus-one")
+// const minusTwo = document.querySelector("h3.minus-two")
+// const minusThree = document.querySelector("h3.minus-three")
+// const minusFour = document.querySelector("h3.minus-four")
+// const minusFive = document.querySelector("h3.minus-five")
+// const minusSix = document.querySelector("h3.minus-six")
+// const minusSeven = document.querySelector("h3.minus-seven")
+
+// let previousDate = (interval) => {
+//   return new Date(Date.now()-(86400000*interval)).toLocaleDateString('en-us', {weekday:"long", month:"long", day:"numeric"})
+// }
+
+// minusOne.innerHTML = previousDate(1)
+// minusTwo.innerHTML = previousDate(2)
+// minusThree.innerHTML = previousDate(3)
+// minusFour.innerHTML = previousDate(4)
+// minusFive.innerHTML = previousDate(5)
+// minusSix.innerHTML = previousDate(6)
+// minusSeven.innerHTML = previousDate(7)
+
+// const minusOneQ = document.querySelector("p.minus-one")
+// const minusTwoQ = document.querySelector("p.minus-two")
+// const minusThreeQ = document.querySelector("p.minus-three")
+// const minusFourQ = document.querySelector("p.minus-four")
+// const minusFiveQ = document.querySelector("p.minus-five")
+// const minusSixQ = document.querySelector("p.minus-six")
+// const minusSevenQ = document.querySelector("p.minus-seven")
+
+// minusOneQ.innerHTML = cheQuotes[Math.floor(dayDifference)-1]
+// minusTwoQ.innerHTML = cheQuotes[Math.floor(dayDifference)-2]
+// minusThreeQ.innerHTML = cheQuotes[Math.floor(dayDifference)-3]
+// minusFourQ.innerHTML = cheQuotes[Math.floor(dayDifference)-4]
+// minusFiveQ.innerHTML = cheQuotes[Math.floor(dayDifference)-5]
+// minusSixQ.innerHTML = cheQuotes[Math.floor(dayDifference)-6]
+// minusSevenQ.innerHTML = cheQuotes[Math.floor(dayDifference)-7]
 
 //  quote count ------------------------------------------------------------------------
 const quotesLeft = cheQuotes.length - dayDifference -1;
