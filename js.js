@@ -7863,6 +7863,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Before you marry, make sure one of you has a good credit score. This is why is called significant
+  other. Sign-if-I-can't.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
