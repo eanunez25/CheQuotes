@@ -7868,6 +7868,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  I intend to live forever, or die trying.
+</blockquote>Groucho Marx`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
