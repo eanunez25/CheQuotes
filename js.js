@@ -7880,6 +7880,10 @@ A week well-spent, a tale to begin.
 </blockquote>Minerva McGonagall`,
 
 `<blockquote>
+  If I'm in a fight with a bear, pray for the bear
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
