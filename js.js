@@ -7888,6 +7888,10 @@ A week well-spent, a tale to begin.
 </blockquote>William Allingham`,
 
 `<blockquote>
+  The future will be better tomorrow.
+</blockquote>Dan Quayle`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
