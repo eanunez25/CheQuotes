@@ -7892,6 +7892,10 @@ A week well-spent, a tale to begin.
 </blockquote>Dan Quayle`,
 
 `<blockquote>
+  Kilometers are shorter than miles. Save gas. Take your next trip in kilometers.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
