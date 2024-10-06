@@ -7900,6 +7900,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  <i>this quote intentionally left blank</i>
+</blockquote>`,
+
+`<blockquote>
+  Bad news for beer. I woke up today.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
