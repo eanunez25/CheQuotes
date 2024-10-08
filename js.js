@@ -7908,6 +7908,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  My pickleball motto is: If James ignatowich can do it, I can definitely do it. 
+</blockquote>Christian Alshon`,
+
+`<blockquote>
+  Stretch. Cold plunge. Win. Repeat.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
