@@ -7916,6 +7916,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  ain't nothing more gay than a room full of straight men
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
