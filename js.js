@@ -7920,6 +7920,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  I believe that if life gives you lemons, you should make lemonade. 
+  And try to find somebody whose life has given them vodka, and have a party.
+</blockquote>Ron White`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
