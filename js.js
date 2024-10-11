@@ -7925,6 +7925,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ron White`,
 
 `<blockquote>
+  Growing old is like being increasingly penalized for a crime you haven't committed.
+</blockquote>Pierre Teilhard de Chardin`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
