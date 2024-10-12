@@ -7929,6 +7929,10 @@ A week well-spent, a tale to begin.
 </blockquote>Pierre Teilhard de Chardin`,
 
 `<blockquote>
+  Sunshine all the time makes a desert
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
