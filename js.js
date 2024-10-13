@@ -7933,6 +7933,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Leap, and the net will appear.
+</blockquote>John Burroughs`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
