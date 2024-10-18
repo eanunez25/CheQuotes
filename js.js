@@ -7953,6 +7953,10 @@ A week well-spent, a tale to begin.
 </blockquote>Marissa Jain`,
 
 `<blockquote>
+  Spare no expense to save money
+</blockquote>Samuel Goldwyn`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
