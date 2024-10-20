@@ -7961,6 +7961,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  If you get angery with each other, go to bed naked and see if you can resolve it before you go to sleep
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
