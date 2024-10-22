@@ -7966,7 +7966,11 @@ A week well-spent, a tale to begin.
 
 `<blockquote>
   Speak softly and carry a big stick; you will go far.
-</blockquote>Theodore Roosevelt`,
+</blockquote>Theodore Roosevelt `,
+
+`<blockquote>
+  Man is most nearly himself when he achieves the seriousness of a child at play.
+</blockquote>Heraclitus`,
 
 `<blockquote>
 
