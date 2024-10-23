@@ -7973,6 +7973,10 @@ A week well-spent, a tale to begin.
 </blockquote>Heraclitus`,
 
 `<blockquote>
+  Happiness is having a large, loving, caring, close-knit family in another city.
+</blockquote>George Burns`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
