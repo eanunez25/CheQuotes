@@ -7977,6 +7977,10 @@ A week well-spent, a tale to begin.
 </blockquote>George Burns`,
 
 `<blockquote>
+  Say something positive and you'll see something positive
+</blockquote>Jim Thompson`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
