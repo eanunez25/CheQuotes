@@ -7981,6 +7981,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jim Thompson`,
 
 `<blockquote>
+  Everyone thinks I'm Taiwanese, I'm Filipino, that's racist. Heaven is so racist.
+</blockquote>Jason Mendoza`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
