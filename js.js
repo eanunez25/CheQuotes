@@ -7985,6 +7985,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jason Mendoza`,
 
 `<blockquote>
+  All I ask is the chance to prove that money can't make me happy.
+</blockquote>Spike Milligan`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
