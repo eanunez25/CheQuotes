@@ -7989,6 +7989,10 @@ A week well-spent, a tale to begin.
 </blockquote>Spike Milligan`,
 
 `<blockquote>
+  Ask not what you can do for your country. Ask what's for lunch
+</blockquote>Orson Welles`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
