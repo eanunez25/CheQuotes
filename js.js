@@ -7989,6 +7989,10 @@ A week well-spent, a tale to begin.
 </blockquote>Spike Milligan`,
 
 `<blockquote>
+  My favorite animal is steak.
+</blockquote>Fran Lebowitz`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
