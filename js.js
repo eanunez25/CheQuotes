@@ -7997,6 +7997,10 @@ A week well-spent, a tale to begin.
 </blockquote>Fran Lebowitz`,
 
 `<blockquote>
+  I want you thinking about dance 24/7. That means every day you think 20 thoughts about dance for seven minutes
+</blockquote>Jason Mendoza`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
