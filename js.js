@@ -8005,6 +8005,10 @@ A week well-spent, a tale to begin.
 </blockquote>Herbert Hoover`,
 
 `<blockquote>
+  I'll stop wearing black when they make a darker color.
+</blockquote>Wednesday Addams`,
+
+`<blockquote>
   The dog that trots about finds a bone.
 </blockquote>Golda Meir`,
 
