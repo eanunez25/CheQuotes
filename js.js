@@ -8009,6 +8009,10 @@ A week well-spent, a tale to begin.
 </blockquote>Wednesday Addams`,
 
 `<blockquote>
+  Scared is the best way to be horny
+</blockquote>Eleanor Shellstrop`,
+
+`<blockquote>
   The dog that trots about finds a bone.
 </blockquote>Golda Meir`,
 
