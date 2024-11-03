@@ -8017,6 +8017,10 @@ A week well-spent, a tale to begin.
 </blockquote>Golda Meir`,
 
 `<blockquote>
+  Birth is a curse, and existence is a prison.
+</blockquote>Chidi Anagonye`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
