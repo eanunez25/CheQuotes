@@ -8021,6 +8021,10 @@ A week well-spent, a tale to begin.
 </blockquote>Chidi Anagonye`,
 
 `<blockquote>
+  Part of the secret of a success in life is to eat what you like and let the food fight it out inside.
+</blockquote>Mark Twain`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
