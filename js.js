@@ -8025,6 +8025,10 @@ A week well-spent, a tale to begin.
 </blockquote>Mark Twain`,
 
 `<blockquote>
+  I want to put a ding in the universe.
+</blockquote>Steve Jobs`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
