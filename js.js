@@ -8041,6 +8041,10 @@ A week well-spent, a tale to begin.
 </blockquote>Guillermo del Toro`,
 
 `<blockquote>
+  I came from a middle-class family in Mexico, from a household full of women, in a country that is very machista.
+</blockquote>Thalia`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
