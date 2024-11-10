@@ -8045,6 +8045,10 @@ A week well-spent, a tale to begin.
 </blockquote>Thalia`,
 
 `<blockquote>
+  Mexico. Melancholy, profoundly moving, delightfully tragic, cruel, beautiful, warm, generous, alive.
+</blockquote>Anthony Bourdain`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
