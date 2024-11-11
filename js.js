@@ -8049,6 +8049,11 @@ A week well-spent, a tale to begin.
 </blockquote>Anthony Bourdain`,
 
 `<blockquote>
+  The Mexican... is familiar with death. He jokes about it, caresses it, sleeps with it, 
+  celebrates it. It is one of his favorite toys and his most steadfast love.
+</blockquote>John Steinbeck`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
