@@ -8054,6 +8054,10 @@ A week well-spent, a tale to begin.
 </blockquote>John Steinbeck`,
 
 `<blockquote>
+  The more you drink, the more you know
+</blockquote>Will Smith`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
