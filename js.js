@@ -8066,6 +8066,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  At the end of the day, that's all that matters. Winning a championship. Everything else is failure.
+</blockquote>P. J. Tucker`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
