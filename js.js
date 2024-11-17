@@ -8074,6 +8074,10 @@ A week well-spent, a tale to begin.
 </blockquote>Walt Disney`,
 
 `<blockquote>
+  Second place is just the first place loser.
+</blockquote>Dale Earnhardt`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
