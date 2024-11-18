@@ -8078,6 +8078,10 @@ A week well-spent, a tale to begin.
 </blockquote>Dale Earnhardt`,
 
 `<blockquote>
+  There is no such thing as second place. Either you're first or you're nothing.
+</blockquote>Gabe Paul`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
