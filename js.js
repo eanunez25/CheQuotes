@@ -8082,6 +8082,10 @@ A week well-spent, a tale to begin.
 </blockquote>Gabe Paul`,
 
 `<blockquote>
+  Death is better than second place.
+</blockquote>Ramzan Kadyrov`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
