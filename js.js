@@ -8086,6 +8086,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ramzan Kadyrov`,
 
 `<blockquote>
+  I think being a woman is like being Irish. Everyone says you're important and nice, but you take second place all the same.
+</blockquote>Iris Murdoch`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
