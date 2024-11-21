@@ -8090,6 +8090,10 @@ A week well-spent, a tale to begin.
 </blockquote>Iris Murdoch`,
 
 `<blockquote>
+  Nigerians don't fit in second place. Everything we do we go hard.
+</blockquote>Yvonne Orji`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
