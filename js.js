@@ -8098,6 +8098,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Expert: a man who makes three correct guesses consecutively.
+</blockquote>Laurence J. Peter`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
