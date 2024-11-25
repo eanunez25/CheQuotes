@@ -8106,6 +8106,10 @@ A week well-spent, a tale to begin.
 </blockquote>John Malkovich`,
 
 `<blockquote>
+  Film lovers are sick people.
+</blockquote>Francois Truffaut`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
