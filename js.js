@@ -8110,6 +8110,16 @@ A week well-spent, a tale to begin.
 </blockquote>Francois Truffaut`,
 
 `<blockquote>
+  I remember when I was a kid, me, my mom, and her mom, and then well her mom, and then her mom, 
+  and then of course her mom, and then my little cousin peanut, we'd all rush back to that flaming
+  trashcan can where we'd just sit around and harmonize and just 'Shoo-op!'. One of those nights I 
+  remember, well we ran out of crack. I grabbed my scarf and I would run down to the liquor store 
+  where the thugs hang out, and I would try to...try to get a good deal on some crack. Hmhmm. Whoo! 
+  They never would give me a good price though, but, uhhh, I tell you what: there's nothing like the 
+  feel of a fire, a fresh baked cookie, and the sweet, sweet taste of crack in your lungs.
+</blockquote>Winston Bishop`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
