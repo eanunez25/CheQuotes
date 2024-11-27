@@ -8120,6 +8120,10 @@ A week well-spent, a tale to begin.
 </blockquote>Winston Bishop`,
 
 `<blockquote>
+  The real treasure was the sends we made along the way
+</blockquote>Austin Barbell Club`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
