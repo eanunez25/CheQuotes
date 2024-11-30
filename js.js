@@ -8128,12 +8128,12 @@ A week well-spent, a tale to begin.
 </blockquote>Nicole Hollander`,
 
 `<blockquote>
-
-</blockquote>`,
+  Cut my pie into four pieces, I don’t think I could eat eight.
+</blockquote>Yogi Berra`,
 
 `<blockquote>
-
-</blockquote>`,
+  We usually save money to waste it.
+</blockquote>Mokokoma Mokhonoana`,
 
 `<blockquote>
 
