@@ -8136,6 +8136,14 @@ A week well-spent, a tale to begin.
 </blockquote>Mokokoma Mokhonoana`,
 
 `<blockquote>
+  Do what you can, with what you have, where you are.
+</blockquote>Theodore Roosevelt`,
+
+`<blockquote>
+  Trust me: it's cool to invest.
+</blockquote>Juice Wrld`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
