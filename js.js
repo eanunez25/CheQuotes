@@ -8144,6 +8144,10 @@ A week well-spent, a tale to begin.
 </blockquote>Juice Wrld`,
 
 `<blockquote>
+  I go through life like a Karate Kid.
+</blockquote>Britney Spears`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
