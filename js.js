@@ -8148,6 +8148,11 @@ A week well-spent, a tale to begin.
 </blockquote>Britney Spears`,
 
 `<blockquote>
+  When you’re playing for the national championship, it’s not a matter of 
+  life or death. It’s more important than that.
+</blockquote>Duffy Daughtery`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
