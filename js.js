@@ -8153,6 +8153,10 @@ A week well-spent, a tale to begin.
 </blockquote>Duffy Daughtery`,
 
 `<blockquote>
+  You can change the skin from the outside, but it’s the same player inside.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
