@@ -8157,6 +8157,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Life is like Fortnite, when you’re progressing, the circle will become smaller.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
