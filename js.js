@@ -8161,6 +8161,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Never fight an inanimate object.
+</blockquote>P. J. O'Rourke`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
