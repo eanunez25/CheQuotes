@@ -8165,6 +8165,23 @@ A week well-spent, a tale to begin.
 </blockquote>P. J. O'Rourke`,
 
 `<blockquote>
+  The sooner you procrastinate, the more time you'll have to get the task done
+</blockquote>`,
+
+`<blockquote>
+  If you can't remember where you left your keys, attempt suicide. Your whole life will 
+  flash before your eyes and it will come back to you.
+</blockquote>`,
+
+`<blockquote>
+  He'll love you more if you're pregnant
+</blockquote>`,
+
+`<blockquote>
+  Play your scales
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
