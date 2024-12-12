@@ -8182,6 +8182,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Not knowing anything is the sweetest life.
+</blockquote>Sophocles`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
