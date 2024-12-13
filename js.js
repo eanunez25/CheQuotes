@@ -8186,6 +8186,10 @@ A week well-spent, a tale to begin.
 </blockquote>Sophocles`,
 
 `<blockquote>
+  No one spectates you til you are winning
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
