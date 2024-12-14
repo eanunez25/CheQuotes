@@ -8190,6 +8190,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Always do sober what you said you'd do drunk.
+</blockquote>Ernest Hemingway`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
