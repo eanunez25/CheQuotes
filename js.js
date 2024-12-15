@@ -8194,6 +8194,18 @@ A week well-spent, a tale to begin.
 </blockquote>Ernest Hemingway`,
 
 `<blockquote>
+  You can change the skin, but it's the same player inside.
+</blockquote>`,
+
+`<blockquote>
+  You can have a full friends list, but still an empty party.
+</blockquote>`,
+
+`<blockquote>
+  The smaller the circle, the better the people.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
