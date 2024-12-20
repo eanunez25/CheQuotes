@@ -8206,6 +8206,19 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Money often costs too much.
+</blockquote>Ralph Waldo Emerson`,
+
+`<blockquote>
+  If you can actually count your money, then you're not a rich man.
+</blockquote>J. Paul Getty`,
+
+`<blockquote>
+  If you owe the bank $100 that's your problem. If you owe the bank $100 million, 
+  that's the bank's problem.
+</blockquote>J. Paul Getty`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
