@@ -8219,6 +8219,10 @@ A week well-spent, a tale to begin.
 </blockquote>J. Paul Getty`,
 
 `<blockquote>
+  Lose your first 50 games as quickly as possible.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
