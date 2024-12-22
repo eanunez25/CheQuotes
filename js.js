@@ -8223,6 +8223,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  In Seattle, you haven't had enough coffee until you can thread a sewing machine while it's running
+</blockquote>Jeff Bezzos`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
