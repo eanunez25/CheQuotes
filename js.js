@@ -8227,6 +8227,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jeff Bezzos`,
 
 `<blockquote>
+  In Seattle, we call a day without rain 'summer.'
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
