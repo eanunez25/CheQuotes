@@ -8231,6 +8231,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  In Seattle, they have a saying: 'If you don't like the weather, wait five minutes and then shoot yourself in the face.'
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
