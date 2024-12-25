@@ -8235,6 +8235,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  There are three stages of man: He believes in Santa Claus; he doesn’t believe in Santa Claus; he is Santa Claus.
+</blockquote>Bob Phillips`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
