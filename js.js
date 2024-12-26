@@ -8239,6 +8239,10 @@ A week well-spent, a tale to begin.
 </blockquote>Bob Phillips`,
 
 `<blockquote>
+  A monkey never cramps
+</blockquote>Munenori Kawasaki`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
