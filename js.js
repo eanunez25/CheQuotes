@@ -8243,6 +8243,10 @@ A week well-spent, a tale to begin.
 </blockquote>Munenori Kawasaki`,
 
 `<blockquote>
+  I like it in Seattle.
+</blockquote>Freddie Ljungberg`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
