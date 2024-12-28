@@ -8247,6 +8247,10 @@ A week well-spent, a tale to begin.
 </blockquote>Freddie Ljungberg`,
 
 `<blockquote>
+  Housework, if you do it right, will kill you.
+</blockquote>Erma Bombeck`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
