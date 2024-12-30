@@ -8251,6 +8251,16 @@ A week well-spent, a tale to begin.
 </blockquote>Erma Bombeck`,
 
 `<blockquote>
+  My old classmates were like, ‘Ellen, you haven’t changed a bit!’ And I’m like, ‘Of course not. 
+  I moisturize.’
+</blockquote>Ellen DeGeneres`,
+
+`<blockquote>
+  God gave men both a brain and a penis, but unfortunately not enough blood supply to run 
+  both at the same time.
+</blockquote>Robin Williams`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
