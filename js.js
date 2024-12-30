@@ -8261,6 +8261,10 @@ A week well-spent, a tale to begin.
 </blockquote>Robin Williams`,
 
 `<blockquote>
+  If you leave parties without saying goodbye, you can save two days per year
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
