@@ -8269,6 +8269,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  You all seriously KICK <span id="blur">A</span>SS. Never stop doing so. 
+</blockquote>Evan Lopez, 2014`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
