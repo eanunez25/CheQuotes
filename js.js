@@ -8273,6 +8273,10 @@ A week well-spent, a tale to begin.
 </blockquote>Evan Lopez, 2014`,
 
 `<blockquote>
+  You can't be republican and team Jacob
+</blockquote>Rosemary Lionhart`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
