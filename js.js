@@ -8277,6 +8277,10 @@ A week well-spent, a tale to begin.
 </blockquote>Rosemary Lionhart`,
 
 `<blockquote>
+  Maturing is realizing you don't need fun to have alcohol
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
