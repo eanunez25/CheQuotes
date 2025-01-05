@@ -8281,6 +8281,29 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  When I'm feeling lonely<br>
+  Sad as I can be<br>
+  All by myself, an uncharted island<br>
+  In an endless sea<br><br>
+
+  What makes me happy<br>
+  Fills me up with glee<br>
+  Those bones in my jaw!<br>
+  Don't have a flaw<br>
+  My shiny teeth and me<br><br>
+
+  My shiny teeth that twinkle<br>
+  Just like the stars in space<br>
+  My shiny teeth that sparkle<br>
+  Adding beauty to my face<br>
+  My shiny teeth that glisten<br>
+  Just like a Christmas tree<br>
+  You know they'd walk a mile<br>
+  Just to see me smile
+  My shiny teeth and me
+</blockquote>Chip Skylark`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
