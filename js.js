@@ -8304,6 +8304,14 @@ A week well-spent, a tale to begin.
 </blockquote>Chip Skylark`,
 
 `<blockquote>
+  You know what rhymes with Monday?<br><br>Whiskey.
+</blockquote>`,
+
+`<blockquote>
+  The poets have been mysteriously silent on the subject of cheese.
+</blockquote>Gilbert K. Chesterton`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
