@@ -8312,6 +8312,10 @@ A week well-spent, a tale to begin.
 </blockquote>Gilbert K. Chesterton`,
 
 `<blockquote>
+  Every great story seems to begin with a snake.
+</blockquote>Nicolas Cage`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
