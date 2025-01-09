@@ -8316,6 +8316,10 @@ A week well-spent, a tale to begin.
 </blockquote>Nicolas Cage`,
 
 `<blockquote>
+  This must be Thursday. I never could get the hang of Thursdays.
+</blockquote>Douglas Adams`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
