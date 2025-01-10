@@ -8320,6 +8320,10 @@ A week well-spent, a tale to begin.
 </blockquote>Douglas Adams`,
 
 `<blockquote>
+  If you must have motivation, think of your paycheck on Friday.
+</blockquote>Noel Coward`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
