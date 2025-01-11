@@ -8251,77 +8251,8 @@ A week well-spent, a tale to begin.
 </blockquote>Erma Bombeck`,
 
 `<blockquote>
-  My old classmates were like, ‘Ellen, you haven’t changed a bit!’ And I’m like, ‘Of course not. 
-  I moisturize.’
-</blockquote>Ellen DeGeneres`,
 
-`<blockquote>
-  God gave men both a brain and a penis, but unfortunately not enough blood supply to run 
-  both at the same time.
-</blockquote>Robin Williams`,
-
-`<blockquote>
-  If you leave parties without saying goodbye, you can save two days per year
 </blockquote>`,
-
-`<blockquote>
-  2025 New Years resolution: play more pickleball
-</blockquote>`,
-
-`<blockquote>
-  You all seriously KICK <span id="blur">A</span>SS. Never stop doing so. 
-</blockquote>Evan Lopez, 2014`,
-
-`<blockquote>
-  You can't be republican and team Jacob
-</blockquote>Rosemary Lionhart`,
-
-`<blockquote>
-  Maturing is realizing you don't need fun to have alcohol
-</blockquote>`,
-
-`<blockquote>
-  When I'm feeling lonely<br>
-  Sad as I can be<br>
-  All by myself, an uncharted island<br>
-  In an endless sea<br><br>
-
-  What makes me happy<br>
-  Fills me up with glee<br>
-  Those bones in my jaw!<br>
-  Don't have a flaw<br>
-  My shiny teeth and me<br><br>
-
-  My shiny teeth that twinkle<br>
-  Just like the stars in space<br>
-  My shiny teeth that sparkle<br>
-  Adding beauty to my face<br>
-  My shiny teeth that glisten<br>
-  Just like a Christmas tree<br>
-  You know they'd walk a mile<br>
-  Just to see me smile
-  My shiny teeth and me
-</blockquote>Chip Skylark`,
-
-`<blockquote>
-  You know what rhymes with Monday?<br><br>Whiskey.
-</blockquote>`,
-
-`<blockquote>
-  The poets have been mysteriously silent on the subject of cheese.
-</blockquote>Gilbert K. Chesterton`,
-
-`<blockquote>
-  Every great story seems to begin with a snake.
-</blockquote>Nicolas Cage`,
-
-`<blockquote>
-  This must be Thursday. I never could get the hang of Thursdays.
-</blockquote>Douglas Adams`,
-
-`<blockquote>
-  If you must have motivation, think of your paycheck on Friday.
-</blockquote>Noel Coward`,
 
 `<blockquote>
 
