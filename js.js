@@ -8332,6 +8332,10 @@ A week well-spent, a tale to begin.
 </blockquote>Winnie the Pooh`,
 
 `<blockquote>
+  Omakase is a trust exercise
+</blockquote>Anthony Bourdain`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
