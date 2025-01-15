@@ -8340,6 +8340,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ariana Grande`,
 
 `<blockquote>
+  Whassup, my n<span id="blur">i</span>gga
+</blockquote>Jackie Chan`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
