@@ -8344,6 +8344,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jackie Chan`,
 
 `<blockquote>
+  I like to let people talk who like to talk. It let's me find out how full of sh<span id="blur">i</span>t they are. 
+</blockquote>Jackie Chan`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
