@@ -8352,6 +8352,10 @@ A week well-spent, a tale to begin.
 </blockquote>Michael Phelps`,
 
 `<blockquote>
+  My fake plants died because I did not pretend to water them.
+</blockquote>Mitch Hedberg`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
