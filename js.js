@@ -8356,6 +8356,10 @@ A week well-spent, a tale to begin.
 </blockquote>Mitch Hedberg`,
 
 `<blockquote>
+  The reason there are two senators for each state is so that one can be the designated driver.
+</blockquote>Jay Leno`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
