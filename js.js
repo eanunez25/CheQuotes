@@ -8360,6 +8360,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jay Leno`,
 
 `<blockquote>
+  Almost always, the creative dedicated minority has made the world better.
+</blockquote>MLK`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
