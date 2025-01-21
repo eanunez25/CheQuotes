@@ -8364,6 +8364,10 @@ A week well-spent, a tale to begin.
 </blockquote>MLK`,
 
 `<blockquote>
+  나는 내가 할 수 없는 일을 제외하고는 모든 것을 잘한다.
+</blockquote>Mi-nyeo`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
