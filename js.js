@@ -8372,6 +8372,10 @@ A week well-spent, a tale to begin.
 </blockquote>Godzilla`,
 
 `<blockquote>
+  So much to do, so little done, such things to be.
+</blockquote>Elizabeth Taylor`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
