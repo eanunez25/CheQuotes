@@ -8376,6 +8376,10 @@ A week well-spent, a tale to begin.
 </blockquote>Elizabeth Taylor`,
 
 `<blockquote>
+  날씨가 좋으면 물고기를 잡습니다. 상황이 나쁠 때는 윙윙거리는 소리가 납니다.
+</blockquote>Captain Park`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
