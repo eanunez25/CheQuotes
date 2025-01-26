@@ -8384,6 +8384,10 @@ A week well-spent, a tale to begin.
 </blockquote>Princess Margaret`,
 
 `<blockquote>
+  I always remember the last words of my grandfather, who said: 'A truck!'
+</blockquote>Emo Philips`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
