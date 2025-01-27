@@ -8388,6 +8388,10 @@ A week well-spent, a tale to begin.
 </blockquote>Emo Philips`,
 
 `<blockquote>
+  Winning takes precedence over all
+</blockquote>Kobe`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
