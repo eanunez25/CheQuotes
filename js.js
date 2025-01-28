@@ -8392,6 +8392,10 @@ A week well-spent, a tale to begin.
 </blockquote>Kobe`,
 
 `<blockquote>
+  Don't follow your friends off a bridge; lead them.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
