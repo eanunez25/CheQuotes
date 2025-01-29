@@ -8396,6 +8396,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  BURN THEM ALL
+</blockquote>Aerys II Targaryen`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
