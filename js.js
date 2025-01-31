@@ -8408,6 +8408,18 @@ A week well-spent, a tale to begin.
 </blockquote>Henny Youngman`,
 
 `<blockquote>
+  I’ve never been held hostage, but I have been in a group text that lasted for three days
+</blockquote>Ricky Gervais`,
+
+`<blockquote>
+  If you aren't fired with enthusiasm, you will be fired with enthusiasm.
+</blockquote>Vince Lombardi`,
+
+`<blockquote>
+  Work is the curse of the drinking classes. Especially on Mondays.
+</blockquote>Oscar Wilde`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
