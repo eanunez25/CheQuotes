@@ -8404,6 +8404,10 @@ A week well-spent, a tale to begin.
 </blockquote>e. e. cummings`,
 
 `<blockquote>
+  What's the use of happiness? It can't buy you money.
+</blockquote>Henny Youngman`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
