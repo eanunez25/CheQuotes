@@ -8424,6 +8424,10 @@ A week well-spent, a tale to begin.
 </blockquote>Shakira`,
 
 `<blockquote>
+  VINDICATIOOOOON
+</blockquote>Captain Holt`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
