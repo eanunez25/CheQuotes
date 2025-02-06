@@ -8428,6 +8428,10 @@ A week well-spent, a tale to begin.
 </blockquote>Captain Holt`,
 
 `<blockquote>
+  Without football, my life is worth nothing.
+</blockquote>Cristiano Ronaldo`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
