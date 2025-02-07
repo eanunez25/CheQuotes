@@ -8432,6 +8432,10 @@ A week well-spent, a tale to begin.
 </blockquote>Cristiano Ronaldo`,
 
 `<blockquote>
+  Kendrick Lamar's "Not Like Us' has 101 beats per minute, the right tempo for hand-only CPR
+</blockquote>American Heart Association`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
