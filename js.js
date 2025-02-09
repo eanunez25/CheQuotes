@@ -8436,6 +8436,14 @@ A week well-spent, a tale to begin.
 </blockquote>American Heart Association`,
 
 `<blockquote>
+  I’m not offended by all the dumb blonde jokes because I know I’m not dumb and I also know I’m not blonde.
+</blockquote>Dolly Parton`,
+
+`<blockquote>
+  The greatest thing is to win your first Super Bowl. 
+</blockquote>Tom Landry`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
