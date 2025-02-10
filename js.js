@@ -8443,6 +8443,12 @@ A week well-spent, a tale to begin.
   The greatest thing is to win your first Super Bowl. 
 </blockquote>Tom Landry`,
 
+`<img src="images/hurts.jpg" class="image"></img>`,
+
+`<blockquote>
+
+</blockquote>`,
+
 `<blockquote>
 
 </blockquote>`,
