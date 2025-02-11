@@ -8446,8 +8446,8 @@ A week well-spent, a tale to begin.
 `<img src="images/hurts.jpg" class="image"></img>`,
 
 `<blockquote>
-
-</blockquote>`,
+  Treat everyone you meet like God in drag
+</blockquote>Ram Dass`,
 
 `<blockquote>
 
