@@ -8450,6 +8450,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ram Dass`,
 
 `<blockquote>
+  Your body is not a temple, it’s an amusement park.
+</blockquote>Anthony Bourdain`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
