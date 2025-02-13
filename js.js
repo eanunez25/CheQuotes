@@ -8454,6 +8454,10 @@ A week well-spent, a tale to begin.
 </blockquote>Anthony Bourdain`,
 
 `<blockquote>
+  When God sneezed, I didn't know what to say.
+</blockquote>Henny Youngman`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
