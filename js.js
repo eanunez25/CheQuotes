@@ -8459,7 +8459,15 @@ A week well-spent, a tale to begin.
 
 `<blockquote>
   Time is an illusion
-</blockquote>`,
+</blockquote>Albert Einstein`,
+
+`<blockquote>
+  I wish I could tell you it gets better. But it doesn’t get better. 
+</blockquote>Joan Rivers`,
+
+`<blockquote>
+  You can't go wrong with some Raising Cane's
+</blockquote>Matthew McConaughey`,
 
 `<blockquote>
 
