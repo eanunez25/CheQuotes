@@ -8474,6 +8474,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jonah Hill`,
 
 `<blockquote>
+  I blame COVID for pickleball, right? We didn't have to hear about f<span id="blur">u</span>cking pickleball before COVID. 
+</blockquote>Chelsea Handler`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
