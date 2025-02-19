@@ -8478,6 +8478,10 @@ A week well-spent, a tale to begin.
 </blockquote>Chelsea Handler`,
 
 `<blockquote>
+  Pickleball? It’s like tennis, but for people who say, ‘Running? In this economy?’
+</blockquote>Andy Murray`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
