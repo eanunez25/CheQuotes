@@ -8482,6 +8482,11 @@ A week well-spent, a tale to begin.
 </blockquote>Andy Murray`,
 
 `<blockquote>
+  If you're not waking up the next morning asking, 'Did that really happen?'... 
+  was it even a bachelorette party?
+</blockquote>Beyonce`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
