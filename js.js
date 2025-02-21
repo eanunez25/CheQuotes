@@ -8487,6 +8487,10 @@ A week well-spent, a tale to begin.
 </blockquote>Beyonce`,
 
 `<blockquote>
+  Don't be so humble – you are not that great.
+</blockquote>Golda Meir`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
