@@ -8491,6 +8491,10 @@ A week well-spent, a tale to begin.
 </blockquote>Golda Meir`,
 
 `<blockquote>
+  Luigi Mangione's best photo is always the next one taken
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
