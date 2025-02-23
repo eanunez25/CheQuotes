@@ -8495,6 +8495,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Candy is dandy but liquor is quicker.
+</blockquote>Ogden Nash`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
