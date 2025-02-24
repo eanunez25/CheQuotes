@@ -8499,6 +8499,11 @@ A week well-spent, a tale to begin.
 </blockquote>Ogden Nash`,
 
 `<blockquote>
+  The surest sign that intelligent life exists elsewhere in the universe is that it 
+  has never tried to contact us.
+</blockquote>Bill Watterson`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
