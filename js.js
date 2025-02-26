@@ -8509,6 +8509,11 @@ A week well-spent, a tale to begin.
 </blockquote>Groucho Marx`,
 
 `<blockquote>
+  Turbulence is the airplane's way of saying, 'Hey, you’re not supposed to be up here. 
+  This is for birds and God.
+</blockquote>Chris Rock`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
