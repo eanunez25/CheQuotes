@@ -8514,6 +8514,10 @@ A week well-spent, a tale to begin.
 </blockquote>Chris Rock`,
 
 `<blockquote>
+  The occassional sadness is made for men so they don't invade Poland on a random Tuesday
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
