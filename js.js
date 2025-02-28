@@ -8518,6 +8518,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  I like Florida. Everything is in the '80s. The temperatures, the ages, and the IQs.
+</blockquote>George Carlin`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
