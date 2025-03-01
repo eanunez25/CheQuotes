@@ -8522,6 +8522,10 @@ A week well-spent, a tale to begin.
 </blockquote>George Carlin`,
 
 `<blockquote>
+  May the fact that your birthday comes once every four years be a passing excuse for your infantile behavior.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
