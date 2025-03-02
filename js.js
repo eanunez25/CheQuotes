@@ -8526,6 +8526,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  You know the focus you have when you razor shave your balls?<br>
+  That's how you should approach life
+</blockquote>Beepo`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
