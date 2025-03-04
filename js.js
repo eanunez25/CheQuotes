@@ -8535,6 +8535,10 @@ A week well-spent, a tale to begin.
 </blockquote>Hal Borland`,
 
 `<blockquote>
+  Barbecue may not be the road to world peace, but it's a start.
+</blockquote>Anthony Bourdain`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
