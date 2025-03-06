@@ -8543,6 +8543,19 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  I’m not saying I’m Batman. I’m just saying no one has ever seen 
+  me and Batman in the same room together
+</blockquote>`,
+
+`<blockquote>
+  Some people want it to happen, some wish it would happen, others make it happen. And then there’s you. 
+</blockquote>Michael Jordan`,
+
+`<blockquote>
+  If Cinderella’s shoe fit perfectly, why did it fall off? Think about that.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
