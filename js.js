@@ -8556,6 +8556,11 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  March is named after Mars, the Roman god of war. So if this month feels like a battle, 
+  just remember — it was designed that way.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
