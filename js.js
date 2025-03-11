@@ -8565,6 +8565,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  I love deadlines. I like the whooshing sound they make as they fly by.
+</blockquote>Douglas Adams`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
