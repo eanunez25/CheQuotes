@@ -8569,6 +8569,10 @@ A week well-spent, a tale to begin.
 </blockquote>Douglas Adams`,
 
 `<blockquote>
+  A lion doesn’t concern itself with the opinion of sheep.
+</blockquote>Tywin Lannister`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
