@@ -8573,6 +8573,10 @@ A week well-spent, a tale to begin.
 </blockquote>Tywin Lannister`,
 
 `<blockquote>
+  On this day in 1781, Uranus was discovered. Astronomers are still laughing.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
