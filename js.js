@@ -8581,6 +8581,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  In the center of industry is dust.
+</blockquote>Ricken`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
