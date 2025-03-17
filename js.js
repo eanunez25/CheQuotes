@@ -8585,6 +8585,14 @@ A week well-spent, a tale to begin.
 </blockquote>Ricken`,
 
 `<blockquote>
+  Beware the Ides of March  
+</blockquote>`,
+
+`<blockquote>
+  The Irish gave the bagpipes to the Scots as a joke, but the Scots haven’t gotten the joke yet.
+</blockquote>Oliver Herford`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
