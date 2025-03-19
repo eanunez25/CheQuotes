@@ -8597,6 +8597,11 @@ A week well-spent, a tale to begin.
 </blockquote>Ricken`,
 
 `<blockquote>
+  A society with festering workers cannot flourish,
+  just as a man with rotting toes cannot skip.
+</blockquote>Ricken`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
