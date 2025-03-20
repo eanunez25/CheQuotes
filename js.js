@@ -8606,6 +8606,11 @@ A week well-spent, a tale to begin.
 </blockquote>Ricken`,
 
 `<blockquote>
+  Should you find yourself contorting to fit a system, dear reader, stop, and 
+  ask if it's truly you that must change, or the system.
+</blockquote>Ricken`,
+
+`<blockquote>
 
 </blockquote>`,
 ]
