@@ -8611,6 +8611,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ricken`,
 
 `<blockquote>
+  The Lumon manual doesn’t say anything about lip to lip contact
+</blockquote>`,
+  
+`<blockquote>
 
 </blockquote>`,
 ]
