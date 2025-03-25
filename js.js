@@ -8613,10 +8613,24 @@ A week well-spent, a tale to begin.
 `<blockquote>
   The Lumon manual doesn’t say anything about lip to lip contact
 </blockquote>`,
+
+`<blockquote>
+  Moisture is the essence of wetness
+</blockquote>Ricken`,
   
+`<blockquote>
+  A good person will follow the rules. A great person will follow himself.
+</blockquote>Ricken`,
+
+`<blockquote>
+  It is not me that was wrong, but literature itself
+</blockquote>Ricken`,
+
 `<blockquote>
 
 </blockquote>`,
+
+
 ]
 
 
