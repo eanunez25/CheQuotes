@@ -8627,6 +8627,10 @@ A week well-spent, a tale to begin.
 </blockquote>Ricken`,
 
 `<blockquote>
+  To succeed in life, you need three things: a wishbone, a backbone, and a funny bone.
+</blockquote>Reba McEntire`,
+
+`<blockquote>
 
 </blockquote>`,
 
