@@ -8631,6 +8631,14 @@ A week well-spent, a tale to begin.
 </blockquote>Reba McEntire`,
 
 `<blockquote>
+  I am so clever that sometimes I don’t understand a single word of what I am saying.
+</blockquote>Oscar Wilde`,
+
+`<blockquote>
+  I have a lot of growing up to do. I realized that the other day inside my fort.
+</blockquote>Zach Galifianakis`,
+
+`<blockquote>
 
 </blockquote>`,
 
