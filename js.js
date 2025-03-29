@@ -8639,6 +8639,10 @@ A week well-spent, a tale to begin.
 </blockquote>Zach Galifianakis`,
 
 `<blockquote>
+  The fool doth think he is wise, but the wise man knows himself to be a fool.
+</blockquote>William Shakespeare`,
+
+`<blockquote>
 
 </blockquote>`,
 
