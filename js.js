@@ -8643,6 +8643,14 @@ A week well-spent, a tale to begin.
 </blockquote>William Shakespeare`,
 
 `<blockquote>
+  The cure for boredom is curiosity. There is no cure for curiosity.
+</blockquote>Dorothy Parker`,
+
+`<blockquote>
+  Japanese people are kinda mean
+</blockquote>Keisha`,
+
+`<blockquote>
 
 </blockquote>`,
 
