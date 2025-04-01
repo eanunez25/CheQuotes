@@ -8651,6 +8651,10 @@ A week well-spent, a tale to begin.
 </blockquote>Dorothy Parker`,
 
 `<blockquote>
+  Never miss a good chance to shut up.
+</blockquote>Will Rogers`,
+
+`<blockquote>
 
 </blockquote>`,
 
