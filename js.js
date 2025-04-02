@@ -8655,6 +8655,10 @@ A week well-spent, a tale to begin.
 </blockquote>Will Rogers`,
 
 `<blockquote>
+  You can’t spell “functioning adult” without “fun” or “cult"
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 
