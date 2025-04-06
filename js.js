@@ -8671,6 +8671,10 @@ A week well-spent, a tale to begin.
 </blockquote>Gustave Flaubert`,
 
 `<blockquote>
+  Only nine meals missed separates a functioning society from chaos
+</blockquote>Bernard`,
+
+`<blockquote>
 
 </blockquote>`,
 
