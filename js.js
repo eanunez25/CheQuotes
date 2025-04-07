@@ -8675,6 +8675,10 @@ A week well-spent, a tale to begin.
 </blockquote>Bernard`,
 
 `<blockquote>
+  I wish I could relate to this quote, but I don’t read.
+</blockquote>Kanye West`,
+
+`<blockquote>
 
 </blockquote>`,
 
