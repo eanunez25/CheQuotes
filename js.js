@@ -8679,6 +8679,10 @@ A week well-spent, a tale to begin.
 </blockquote>Kanye West`,
 
 `<blockquote>
+  Everything you can imagine is real
+</blockquote>Pablo Picasso`,
+
+`<blockquote>
 
 </blockquote>`,
 
