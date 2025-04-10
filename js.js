@@ -8683,6 +8683,14 @@ A week well-spent, a tale to begin.
 </blockquote>Pablo Picasso`,
 
 `<blockquote>
+  Fur pillows are hard to actually sleep on.
+</blockquote>Kanye West`,
+
+`<blockquote>
+  Chaos is what killed the dinosaurs
+</blockquote>J.D.`,
+
+`<blockquote>
 
 </blockquote>`,
 
