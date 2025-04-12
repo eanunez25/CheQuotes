@@ -8691,6 +8691,14 @@ A week well-spent, a tale to begin.
 </blockquote>J.D.`,
 
 `<blockquote>
+  Sleep late, have fun, get wild, and try not to get arrested.
+</blockquote>Hunter S. Thompson`,
+
+`<blockquote>
+  Cheese: milk’s leap toward immortality.
+</blockquote>Clifton Fadiman`,
+
+`<blockquote>
 
 </blockquote>`,
 
