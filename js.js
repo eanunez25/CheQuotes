@@ -8699,6 +8699,10 @@ A week well-spent, a tale to begin.
 </blockquote>Clifton Fadiman`,
 
 `<blockquote>
+  On this day in 1997, Tiger Woods won his first Masters at 21.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 
