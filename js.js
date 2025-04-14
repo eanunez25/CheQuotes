@@ -8703,6 +8703,14 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  On this day in 1865, Abraham Lincoln was shot. A reminder that even your most hopeful Mondays can take a weird turn.
+</blockquote>`,
+
+`<blockquote>
+
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 
