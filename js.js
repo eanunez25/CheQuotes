@@ -8707,8 +8707,24 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  If you want to tell people the truth, make them laugh, otherwise they’ll kill you
+</blockquote>Oscar Wilde`,
 
-</blockquote>`,
+`<blockquote>
+  We learn nothing from history except that we learn nothing from history.
+</blockquote>Georg Wilhelm Friedrich Hegel`,
+
+`<blockquote>
+  The only difference between a rut and a grave is the depth
+</blockquote>Ellen Glasgow`,
+
+`<blockquote>
+  If you're not confused, you're not paying attention
+</blockquote>Tom Peters`,
+
+`<blockquote>
+  I am not young enough to know everything.
+</blockquote>J.M. Barrie`,
 
 `<blockquote>
 
