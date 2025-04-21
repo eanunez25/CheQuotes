@@ -8727,6 +8727,14 @@ A week well-spent, a tale to begin.
 </blockquote>J.M. Barrie`,
 
 `<blockquote>
+  Rome wasn’t built in a day, but it was destroyed in one. Prioritize wisely.
+</blockquote>`,
+
+`<blockquote>
+  I didn’t want to be Pope.
+</blockquote>Pope Francis`,
+
+`<blockquote>
 
 </blockquote>`,
 
