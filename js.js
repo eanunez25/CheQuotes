@@ -8735,6 +8735,10 @@ A week well-spent, a tale to begin.
 </blockquote>Pope Francis`,
 
 `<blockquote>
+  If at first you don’t succeed, try, try again. Then quit. 
+</blockquote>W.C. Fields`,
+
+`<blockquote>
 
 </blockquote>`,
 
