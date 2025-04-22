@@ -8739,6 +8739,10 @@ A week well-spent, a tale to begin.
 </blockquote>W.C. Fields`,
 
 `<blockquote>
+  Why not go out on a limb? That’s where the fruit is.
+</blockquote>Mark Twain`,
+
+`<blockquote>
 
 </blockquote>`,
 
