@@ -8751,6 +8751,10 @@ A week well-spent, a tale to begin.
 </blockquote>Charles Lamb`,
 
 `<blockquote>
+  There is nothing more intoxicating than the clear absence of a penis.
+</blockquote>Captain Holt`,
+
+`<blockquote>
 
 </blockquote>`,
 
