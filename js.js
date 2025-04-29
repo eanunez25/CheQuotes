@@ -8755,6 +8755,18 @@ A week well-spent, a tale to begin.
 </blockquote>Captain Holt`,
 
 `<blockquote>
+  Everything is garbage
+</blockquote>Captain Holt`,
+
+`<blockquote>
+  The best things in life are free. The second best things are very, very expensive.
+</blockquote>Gina Linetti`,
+
+`<blockquote>
+  I am planning on dying tonight so I do not have to do cardio tomorrow.
+</blockquote>Jake Peralta`,
+
+`<blockquote>
 
 </blockquote>`,
 
