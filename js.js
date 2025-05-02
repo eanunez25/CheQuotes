@@ -8775,6 +8775,10 @@ A week well-spent, a tale to begin.
 </blockquote>Lily Aldrin`,
 
 `<blockquote>
+  All things seem possible in May
+</blockquote>Edwin Way Teale`,
+
+`<blockquote>
 
 </blockquote>`,
 
