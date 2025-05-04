@@ -8779,6 +8779,14 @@ A week well-spent, a tale to begin.
 </blockquote>Edwin Way Teale`,
 
 `<blockquote>
+  Do. Or do not. There is no try.
+</blockquote>Yoda`,
+
+`<blockquote>
+  You must unlearn what you have learned.
+</blockquote>Yoda`,
+
+`<blockquote>
 
 </blockquote>`,
 
