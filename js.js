@@ -8791,6 +8791,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  You can’t be sad while holding a taco.
+</blockquote>Kevin Alexander`,
+
+`<blockquote>
 
 </blockquote>`,
 
