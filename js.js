@@ -8795,6 +8795,10 @@ A week well-spent, a tale to begin.
 </blockquote>Kevin Alexander`,
 
 `<blockquote>
+  Why join the navy if you can be a pirate?
+</blockquote>Steve Jobs`,
+
+`<blockquote>
 
 </blockquote>`,
 
