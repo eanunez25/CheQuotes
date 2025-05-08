@@ -8799,8 +8799,8 @@ A week well-spent, a tale to begin.
 </blockquote>Steve Jobs`,
 
 `<blockquote>
-
-</blockquote>`,
+  Cash rules everything around me, C.R.E.A.M.
+</blockquote>Wu-Tang Clan`,
 
 
 ]
