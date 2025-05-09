@@ -8802,6 +8802,10 @@ A week well-spent, a tale to begin.
   Cash rules everything around me, C.R.E.A.M.
 </blockquote>Wu-Tang Clan`,
 
+`<blockquote>
+  Don't worry about the world coming to an end today. It is already tomorrow in Australia.
+</blockquote>Charles Schulz`,
+
 
 ]
 
