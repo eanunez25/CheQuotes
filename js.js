@@ -8806,6 +8806,18 @@ A week well-spent, a tale to begin.
   Don't worry about the world coming to an end today. It is already tomorrow in Australia.
 </blockquote>Charles Schulz`,
 
+`<blockquote>
+  My mother told me a million times not to exaggerate.
+</blockquote>Stephen Wright`,
+
+`<blockquote>
+  Mothers are all slightly insane.
+</blockquote>J.D. Salinger`,
+
+`<blockquote>
+
+</blockquote>`,
+
 
 ]
 
