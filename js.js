@@ -8815,6 +8815,10 @@ A week well-spent, a tale to begin.
 </blockquote>J.D. Salinger`,
 
 `<blockquote>
+  Got so many chains, they call me Chaining Tatum.
+</blockquote>Drake`,
+
+`<blockquote>
 
 </blockquote>`,
 
