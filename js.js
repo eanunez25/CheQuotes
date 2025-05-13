@@ -8819,6 +8819,10 @@ A week well-spent, a tale to begin.
 </blockquote>Drake`,
 
 `<blockquote>
+  By working faithfully eight hours a day, you may eventually get to be boss and work twelve hours a day.
+</blockquote>Robert Frost`,
+
+`<blockquote>
 
 </blockquote>`,
 
