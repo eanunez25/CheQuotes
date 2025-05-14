@@ -8823,6 +8823,10 @@ A week well-spent, a tale to begin.
 </blockquote>Robert Frost`,
 
 `<blockquote>
+  I was born smart, but education ruined me.
+</blockquote>Ken Robinson`,
+
+`<blockquote>
 
 </blockquote>`,
 
