@@ -8827,6 +8827,18 @@ A week well-spent, a tale to begin.
 </blockquote>Ken Robinson`,
 
 `<blockquote>
+  They say your attitude determines your latitude.
+</blockquote>Kanye West`,
+
+`<blockquote>
+  If you can’t dazzle them with brilliance, baffle them with nonsense.
+</blockquote>W.C. Fields`,
+
+`<blockquote>
+  There’s no money in poetry, but then there’s no poetry in money, either.
+</blockquote>Robert Graves`,
+
+`<blockquote>
 
 </blockquote>`,
 
