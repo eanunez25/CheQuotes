@@ -8839,6 +8839,10 @@ A week well-spent, a tale to begin.
 </blockquote>Robert Graves`,
 
 `<blockquote>
+  There’s nothing wrong with being a loser, it just depends on how good you are at it.
+</blockquote>Lady Gaga`,
+
+`<blockquote>
 
 </blockquote>`,
 
