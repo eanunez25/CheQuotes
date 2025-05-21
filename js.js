@@ -8843,6 +8843,18 @@ A week well-spent, a tale to begin.
 </blockquote>Lady Gaga`,
 
 `<blockquote>
+  Every time I read a weird news story, I think: Please don't be from Florida. And every time… Florida.
+</blockquote>Trevor Noah`,
+
+`<blockquote>
+  I don’t do cocaine. I just like the smell of it in Miami.
+</blockquote>Chelsea Handler`,
+
+`<blockquote>
+  Everything is legal in Florida.
+</blockquote>Lin-Manuel Miranda`,
+
+`<blockquote>
 
 </blockquote>`,
 
