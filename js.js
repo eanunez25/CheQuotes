@@ -8855,6 +8855,10 @@ A week well-spent, a tale to begin.
 </blockquote>Lin-Manuel Miranda`,
 
 `<blockquote>
+  They look like wolves, scream like banshees, and shed like it’s a competitive sport.
+</blockquote>Samantha Burns`,
+
+`<blockquote>
 
 </blockquote>`,
 
