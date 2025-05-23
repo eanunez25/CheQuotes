@@ -8859,6 +8859,10 @@ A week well-spent, a tale to begin.
 </blockquote>Samantha Burns`,
 
 `<blockquote>
+  Friday. The end of the beginning, the start of the nap.
+</blockquote>Carrie Underwood`,
+
+`<blockquote>
 
 </blockquote>`,
 
