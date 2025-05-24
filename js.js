@@ -8863,6 +8863,10 @@ A week well-spent, a tale to begin.
 </blockquote>Carrie Underwood`,
 
 `<blockquote>
+  The further south you go in Florida, the further north you get.
+</blockquote>Jimmy Buffett`,
+
+`<blockquote>
 
 </blockquote>`,
 
