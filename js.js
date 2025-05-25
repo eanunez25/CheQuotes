@@ -8867,6 +8867,10 @@ A week well-spent, a tale to begin.
 </blockquote>Jimmy Buffett`,
 
 `<blockquote>
+  The brave die never
+</blockquote>Minot J. Savage`,
+
+`<blockquote>
 
 </blockquote>`,
 
