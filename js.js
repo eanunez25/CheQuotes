@@ -8871,6 +8871,14 @@ A week well-spent, a tale to begin.
 </blockquote>Minot J. Savage`,
 
 `<blockquote>
+  I have great respect for our military. They make it possible for us to have cookouts, mattress sales, and 10-minute Target runs in complete freedom.
+</blockquote>Jimmy Kimmel`,
+
+`<blockquote>
+  There’s no such thing as a good flight. Only a flight you survive.
+</blockquote>Jerry Seinfeld`,
+
+`<blockquote>
 
 </blockquote>`,
 
