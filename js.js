@@ -8883,6 +8883,10 @@ A week well-spent, a tale to begin.
 </blockquote>Joel`,
 
 `<blockquote>
+  You can’t spell ‘challenge’ without ‘hang’ and ‘me.’
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 
