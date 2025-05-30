@@ -8887,6 +8887,13 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  There are points to be scored.<br>
+  There are games to be won.<br>
+  And the magical things you can do with that ball<br>
+  will make you the winning-est winner of all.
+</blockquote>Dr. Seuss`,
+
+`<blockquote>
 
 </blockquote>`,
 
