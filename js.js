@@ -8894,6 +8894,37 @@ A week well-spent, a tale to begin.
 </blockquote>Dr. Seuss`,
 
 `<blockquote>
+  A Mexican magician says he will disappear on the count of 3. He says "uno, dos..." poof. He disappeared without a tres.
+</blockquote>`,
+
+`<blockquote>
+  Mr. Jones gets a call from the hospital. They tell him his wife's been in a terrible car accident. He rushes to the hospital, runs in to the ER and says 
+  his wife's been in an accident. They tell him Dr. Smith is handling the case. They page the doctor. He comes out to the waiting room to see a terribly upset Mr. Jones.<br><br>
+
+  "Mr. Jones?" the doctor asks.<br><br>
+
+  "Yes sir, what's happened? How is my wife?"<br><br>
+
+  The doctor sits next to him and says, "I have good news and I have bad news. First the bad news: Your wife's accident resulted in two fractures of her spine." 
+  "Oh my God" says Mr. Jones. "Will she ever recover?"<br><br>
+
+  "Well, Mr. Jones, her vital signs are stable. However, her spine is inoperable. She'll have no motor skills or capability. This means you will have to feed her. Mr. Jones begins to sob. 
+  "And you'll have to turn her in her bed every two hours to prevent pneumonia." Mr. Jones begins to wail and cry loudly.<br><br>
+
+  "Then, of course," the doctor continued, "you'll have to diaper her as she'll have no control over her bladder and of course these diapers must be changed at least five times a day." 
+  Mr. Jones begins to shake as he cries, sobs, wails. The doctor continues: "And you'll have to clean up her feces on a regular basis as she'll have no control over her sphincter. 
+  Of course, you must clean her immediately to avoid bedsores."<br><br>
+
+  Now Mr. Jones is convulsing sobbing uncontrollably and beginning to withe off the bench into a sobbing pitiful mass.<br><br>
+
+  Just then Dr. Smith reaches out his hand, pats Mr. Jones on the shoulder, and says "I also have some good news"<br><br>
+
+  "What could possibly be good about this!" Wails Mr. Jones<br><br>
+
+  Dr. Smith: "I'm just f<span id="blur">u</span>cking with you, she's dead."
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 
