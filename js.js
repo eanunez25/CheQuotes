@@ -8925,6 +8925,46 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  So there once was this wasp that lived in a jungle. This was not your ordinary wasp though-he was 
+  smart, philosophical even. One day he finally got fed up with his repetitive, insignificant life 
+  and decided that he would leave his hive, his family, his entire close-knit wasp community and he 
+  would go out into the world and make something of himself, just like the humans do. So the wasp 
+  enrolls in school, and passes with flying colors. Remember, this is a very smart wasp. He gets his 
+  high school diploma in a little under 3 years, with a 4.0 GPA and all that snazz. After high school, 
+  believe it or not, the wasp gets accepted to Harvard. Harvard! This too proves to be no challenge 
+  for our hero, as he graduates in just two years, again a 4.0, on the Dean’s list, and all that snazz. 
+  Not to mention all the clubs and sports he was in-the newspaper, rowing, student government-and 
+  the fact that he was by far the most popular student on campus. Even his professors looked up 
+  to him.<br><br>
+
+  He goes on to get two PhDs, and when he finishes his education, the wasp faces a bit of a dilemma. 
+  How does he apply his knowledge now? Where does he go from here? He decides to try out politics. 
+  After all, he was popular throughout school, did well in Harvard government. So he runs for mayor, 
+  and wins in a landslide. He greatly reforms the city, fixing virtually all its major problems. 
+  He runs for governor and again wins in a landslide. Two years later, the presidential election 
+  was coming up, and the wasp decides he might as well go for it.<br><br>
+
+  Of course, he wins in the largest landslide in US presidential history. His presidency goes 
+  exceedingly well-he is loved by all parties, and has the highest approval ratings in history. 
+  He also finds the cures for cancer, AIDS, and broken hearts while in the White House. After 
+  8 years (yes, of course he was reelected) the time has come for him to leave his office. Even 
+  his successor his saddened by the wasp’s departure, but they all know it’s what must be done. 
+  Back at his vacation home in California his first day after leaving office, the wasp looks back 
+  on his long and fruitful life. He realizes that he hasn’t been back to his hive at all since that 
+  first day he left. He suddenly feels a twang of guilt as he realizes how much he misses his 
+  parents and his little brother. So he heads back to the hive, looking more worn out than he 
+  remembers. He goes inside and greets his family, who are overjoyed at the sight of him. He 
+  talks about how his life has gone as his family listens in wonderment. Eventually he decides 
+  he is thirsty, so he decides to visit the old watering hole he remembered. Once he gets there 
+  though, there’s an extremely long line. He decides it’s worth the wait, so gets in line. One hour. 
+  Two hours. This is the slowest moving line he’s ever seen! Eventually he calculates that it 
+  could be a few days before he gets to the front of the line, so decides it’s not worth it. He 
+  decides to go get some cider to drink instead, but waddya know, another huge line of people 
+  waiting for cider! He remembers one other drinking area that never had a long line-fruit punch! 
+  So he decides to go get punch. He arrives, and lo and behold, there’s no punch line.
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 
