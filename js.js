@@ -8969,6 +8969,10 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  We didn’t land on Plymouth Rock. Plymouth Rock landed on us.
+</blockquote>Malcolm X`,
+
+`<blockquote>
 
 </blockquote>`,
 
