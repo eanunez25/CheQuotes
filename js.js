@@ -8973,6 +8973,10 @@ A week well-spent, a tale to begin.
 </blockquote>Malcolm X`,
 
 `<blockquote>
+  Principles have no real force except when one is well-fed.
+</blockquote>Mark Twain`,
+
+`<blockquote>
 
 </blockquote>`,
 
