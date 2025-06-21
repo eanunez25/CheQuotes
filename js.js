@@ -8985,6 +8985,65 @@ A week well-spent, a tale to begin.
 </blockquote>`,
 
 `<blockquote>
+  Man cannot live by bread alone; he must have peanut butter.
+</blockquote>James A. Garfield`,
+
+`<blockquote>
+  The suspense is terrible. I hope it'll last.
+</blockquote>Willy Wonka`,
+
+`<blockquote>
+  People often say that motivation doesn’t last. Well, 
+  neither does bathing – that’s why we recommend it daily.
+</blockquote>Zig Ziglar `,
+
+`<blockquote>
+  A clear conscience is a sure sign of a bad memory.
+</blockquote>Mark Twain`,
+
+`<blockquote>
+  When a feller says, 'It hain't th' money but th' principle o' th' thing,' it's the money.
+</blockquote>Kin Hubbard`,
+
+`<blockquote>
+  I love to go to the zoo. But not on Sunday. I don't like to see the 
+  people making fun of the animals, when it should be the other way around.
+</blockquote>Ernest Hemingway`,
+
+`<blockquote>
+  Denial is the ultimate comfort zone
+</blockquote>David Goggins`,
+
+`<blockquote>
+  You have to build calluses on your brain just like you build calluses on your hands
+</blockquote>David Goggins`,
+
+`<blockquote>
+  WHO'S GOING TO CARRY THE BOATS AND THE LOGS
+</blockquote>David Goggins`,
+
+`<blockquote>
+  The bigger the suffering, the bigger the peace
+</blockquote>David Goggins`,
+
+`<blockquote>
+  I'm not crazy, I'm just not you
+</blockquote>David Goggins`,
+
+`<blockquote>
+  We need doctors, we need f<span id="blur">u</span>cking lawyers, we need dentists, teachers, 
+  we also need f<span id="blur">u</span>cking savages.
+</blockquote>David Goggins`,
+
+`<blockquote>
+  The more I studied it,I came to this crazy conclusion: I was just being a b<span id="blur">i</span>tch!
+</blockquote>`,
+
+`<blockquote>
+ 
+</blockquote>`,
+
+`<blockquote>
 
 </blockquote>`,
 
